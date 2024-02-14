@@ -1,2 +1,2 @@
-*.env
-node_modules/
+ETL Q_A/LOAD/.env
+ETL Q_A/LOAD/node_modules/
