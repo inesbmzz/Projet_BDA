@@ -1,0 +1,16 @@
+0,0,1,1,1,1,1,1,1,1,12.0,m,White-European,no,no,8.0,Relative,YES
+1,0,0,0,0,0,0,0,0,0,383.0,f,Pasifika,no,no,1.0,Self,NO
+0,0,1,1,0,1,0,1,1,1,23.0,m,White-European,no,no,6.0,Self,NO
+1,1,1,0,1,0,0,1,0,0,18.0,m,Middle Eastern,no,no,5.0,Relative,NO
+1,1,1,0,0,0,0,1,0,0,18.0,m,Middle Eastern,no,no,4.0,Relative,NO
+1,1,1,1,1,1,1,1,1,1,46.0,f,White-European,yes,yes,10.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,44.0,m,White-European,no,yes,10.0,Self,YES
+1,0,0,0,1,0,1,1,0,0,25.0,f,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,47.0,m,White-European,no,no,10.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,44.0,m,White-European,no,yes,10.0,Self,YES
+0,0,1,0,1,1,1,0,1,1,4.0,m,Asian,no,no,6.0,Parent,NO
+0,0,1,1,1,1,1,1,1,1,5.0,m,Asian,no,no,8.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,8.0,m,White-European,no,no,10.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,11.0,m,White-European,no,no,10.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,8.0,m,White-European,no,no,10.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,6.0,f,Black,no,no,10.0,Parent,YES

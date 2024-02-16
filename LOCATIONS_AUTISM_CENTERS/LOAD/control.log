@@ -1,0 +1,60 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Ven. Févr. 16 17:55:18 2024
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Fichier de contrôle :   control.ctl
+Jeu de caractères AL32UTF8 indiqué pour toutes les entrées.
+
+Fichier de données :      data\\autism_center.csv
+  Fichier des enregistrements refusés :     autism_center.bad
+  Fichier de rebut :  aucune spécification
+
+ (Allouer tous les rebuts)
+
+Nombre à charger : ALL
+Nombre à ignorer : 0
+Erreurs autorisés : 50
+Tableau de variables :     250 lignes, maximum de 1048576 octets
+Continuation :    aucune spécification
+Chemin utilisé:      Classique
+
+Table TEMP_CENTERS, chargé à partir de chaque enregistrement physique.
+Option d'insertion en vigueur pour cette table : INSERT
+option TRAILING NULLCOLS effective
+
+   Nom de colonne                  Position   Long  Type de données encadr.
+------------------------------ ---------- ----- ---- ---- ---------------------
+NAME                                FIRST     *   ,  O(") CHARACTER            
+COUNTRY                              NEXT     *   ,  O(") CHARACTER            
+CITY                                 NEXT     *   ,  O(") CHARACTER            
+ADDRESS                              NEXT     *   ,  O(") CHARACTER            
+LATITUDE                             NEXT     *   ,  O(") CHARACTER            
+    chaîne SQL pour la colonne : "TO_NUMBER(:latitude, '9999.99999999999999999', 'NLS_NUMERIC_CHARACTERS=''.,''')"
+LONGITUDE                            NEXT     *   ,  O(") CHARACTER            
+    chaîne SQL pour la colonne : "TO_NUMBER(:longitude, '9999.9999999999999999', 'NLS_NUMERIC_CHARACTERS=''.,''')"
+INFO                                 NEXT     *   ,  O(") CHARACTER            
+FREE_QUOTE_LINK                      NEXT     *   ,  O(") CHARACTER            
+
+
+Table TEMP_CENTERS :
+  Chargement de 674 Lignes effectué.
+  0 Lignes : chargement impossible dû à des erreurs de données.
+  0 Lignes : chargement impossible car échec de toutes les clauses WHEN.
+  0 Lignes : chargement impossible car tous les champs étaient non renseignés.
+
+
+Espace affecté au tableau de variables :                 516000 octets(250 lignes)
+Octets de tampon de lecture : 1048576
+
+Nombre total d'enregistrements logiques ignorés :          0
+Nombre total d'enregistrements logiques lus :           674
+Nombre total d'enregistrements logiques rejetés :         0
+Nombre total d'enregistrements logiques mis au rebut :        0
+
+Le début de l'exécution a été effectué sur Ven. Févr. 16 17:55:18 2024
+La fin de l'exécution a été effectuée sur Ven. Févr. 16 17:55:18 2024
+
+Temps écoulé (ELAPSED) :     00:00:00.54
+Temps processeur (CPU) :    00:00:00.05
