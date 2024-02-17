@@ -48,7 +48,7 @@ for card in cards:
         
         data.append([title, link, address, ', '.join(modal_info_block_content), free_quote_link])
     except:
-        print(f'Error in Card: {card.get_attribute('index')}')
+        print(f"Error in Card: {card.get_attribute('index')}")
         continue
 
 # Extract location info from each clinic page
