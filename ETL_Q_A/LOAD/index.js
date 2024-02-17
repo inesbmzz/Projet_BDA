@@ -1,4 +1,4 @@
-// app.js
+// index.js
 const dbConfig = require('./db');
 const questionModel = require('./model');
 
@@ -11,16 +11,19 @@ const data = require('./Clean_data.json');
 dbConfig.connect();
 // dbConfig().catch(console.dir);
 
-
-// Utilisation du modèle pour insérer une question dans la base de données
-const newQuestion = {
-  Question: 'What Is Autism Spectrum Disorder?',
-  Answer: {
-    definition: 'Autism spectrum disorder (ASD) is a neurodevelopmental disorder...',
-    // ... (other parts of the answer)
-  },
-  Source: 'childmind',
-};
-
 // questionModel.insertQuestion(newQuestion);
+questionModel.deleteAll();
 questionModel.insertManyQuestions(data);
+questionModel.disconnect()
+            .then(() => {
+              console.log('Connection to MongoDB closed');
+              // Exit the Node.js process
+              process.exit(0);
+            })
+            .catch(err => {
+              console.error('Error:', err);
+              // Exit the Node.js process with an error code
+              process.exit(1);
+            })
+            ;
+// dbConfig.close();
