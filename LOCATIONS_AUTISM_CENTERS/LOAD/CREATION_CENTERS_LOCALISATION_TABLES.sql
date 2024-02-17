@@ -39,7 +39,8 @@ DROP SEQUENCE center_seq;
 --Création des Séquences Pour l'auto-incrémentation des identifiants 
 CREATE SEQUENCE country_seq START WITH 1 INCREMENT BY 1 CACHE 100;
 CREATE SEQUENCE city_seq START WITH 1 INCREMENT BY 1 CACHE 100;
-CREATE SEQUENCE center_seq START WITH 1 INCREMENT BY 1 CACHE 100;
+CREATE SEQUENCE center_seq START WITH 1 INCREMENT BY 1 NOCACHE;
+
 
 --Création des Tables
 
@@ -72,7 +73,7 @@ CREATE OR REPLACE TYPE T_Informations AS TABLE OF VARCHAR(400);
 
 -- Création de la table Centers
 CREATE TABLE Centers (
-    id INT PRIMARY KEY,
+    id_Centers INT PRIMARY KEY,
     name VARCHAR(255),
     latitude FLOAT(126),
     longitude FLOAT(126),
@@ -105,10 +106,8 @@ CREATE OR REPLACE TRIGGER trg_center_id
 BEFORE INSERT ON Centers
 FOR EACH ROW
 BEGIN
-  SELECT center_seq.NEXTVAL INTO :new.id FROM dual;
+  SELECT center_seq.NEXTVAL INTO :new.id_Centers FROM dual;
 END;
 /
 -- Création de la table Centers
 ALTER TABLE Countries ADD CONSTRAINT uniq_countryname UNIQUE (CountryName);
-
-

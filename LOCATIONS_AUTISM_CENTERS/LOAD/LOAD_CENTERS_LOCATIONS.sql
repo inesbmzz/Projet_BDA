@@ -44,19 +44,20 @@ BEGIN
     WHERE t.city NOT IN (SELECT CityName FROM Cities);
     
   FOR r IN (SELECT * FROM temp_centers) LOOP
-    DBMS_OUTPUT.PUT_LINE('Current address: ' || r.address);
-    -- Extraction des composants de l'adresse
-    v_PO_BOX := REGEXP_SUBSTR(r.address, '[^,]+', 1, 1);
-    v_street_name := REGEXP_SUBSTR(r.address, '[^,]+', 1, 2);
-    v_street_num := REGEXP_SUBSTR(r.address, '[^,]+', 1, 3);
-    v_district := REGEXP_SUBSTR(r.address, '[^,]+', 1, 4);
-    v_postal_code := REGEXP_SUBSTR(r.address, '[^,]+', 1, 5);
-    v_region := REGEXP_SUBSTR(r.address, '[^,]+', 1, 6);
-    
-    -- Création de l'objet adresse
-    v_address := T_ADRESSE(v_PO_BOX, v_street_name, v_street_num, v_district, v_postal_code, v_region);
-    
-    -- Réinitialisation des variables pour chaque enregistrement
+     -- Extraction des composants de l'adresse
+     v_PO_BOX := REGEXP_SUBSTR(r.address, '[^,]+', 1, 1); 
+     v_street_name := REGEXP_SUBSTR(r.address,'[^,]+', 1, 2); 
+     v_street_num := REGEXP_SUBSTR(r.address,'[^,]+', 1, 3);
+     v_district := REGEXP_SUBSTR(r.address,'[^,]+', 1, 4); 
+     v_postal_code := REGEXP_SUBSTR(r.address,'[^,]+', 1, 5);
+     v_region := REGEXP_SUBSTR(r.address,'[^,]+', 1, 6); 
+  
+     -- Création de l'objet adresse
+     v_address := T_ADRESSE(v_PO_BOX, v_street_name, v_street_num, v_district, v_postal_code, v_region);
+  
+     -- Affichage pour vérification
+        DBMS_OUTPUT.PUT_LINE( 'PO box: ' || v_PO_BOX || ', Street Name: ' || v_street_name || ', Street Number: ' || v_street_num || ', District: ' || v_district || ', Postal Code: ' || v_postal_code || ', Region: ' || v_region);
+      -- Réinitialisation des variables pour chaque enregistrement
     v_infos := T_Informations();
     v_element_index := 1;
     v_info_raw := r.info; 
@@ -98,7 +99,8 @@ SELECT * FROM Centers;
 -- Sélectionne plusieurs champs de la table 'Centers', en décomposant l'objet adresse stocké
 -- pour afficher ses composants de manière plus lisible et structurée
 SELECT 
-    c.id,
+    c.id_Centers,
+    c.address.PO_BOX AS Post_office_box,
     c.address.Street_name AS StreetName,
     c.address.Street_num AS StreetNumber,
     c.address.District AS District,
@@ -109,7 +111,7 @@ FROM
 
 -- Extrait chaque élément de la collection d'informations stockée dans 'infos' pour chaque centre
 -- et les affiche de manière tabulaire, associant chaque information à l'ID du centre correspondant
-SELECT c.id, i.column_value AS information
+SELECT c.id_Centers, i.column_value AS information
 FROM Centers c,
 TABLE(c.infos) i;
 
@@ -125,9 +127,9 @@ SELECT
     ctr.latitude,
     ctr.longitude,
     -- Concaténation des champs de l'adresse en une chaîne de caractères
-    ctr.address.Street_name || ', ' || ctr.address.Street_num || ', ' ||
-    ctr.address.District || ', ' || ctr.address.Code_postal || ', ' ||
-    ctr.address.Region AS FullAddress,
+    ctr.address.PO_BOX || ctr.address.Street_name || ctr.address.Street_num ||
+    ctr.address.District ||ctr.address.Code_postal || ctr.address.Region 
+    AS FullAddress,
     -- Extraction et concaténation des informations
     (SELECT LISTAGG(info.column_value, ', ') WITHIN GROUP (ORDER BY info.column_value)
      FROM TABLE(ctr.infos) info) AS InformationList
@@ -135,6 +137,4 @@ FROM
     Centers ctr
 JOIN Cities cty ON ctr.cityId = cty.CityID
 JOIN Countries cnt ON cty.CountryID = cnt.CountryID;
-
-
 
