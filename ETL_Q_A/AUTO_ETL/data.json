@@ -1,0 +1,776 @@
+[
+    {
+        "Question": "What Is Autism Spectrum Disorder?",
+        "Answer": {
+            "definition": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that affects how a child develops. It is characterized by deficits in communication and social skills, as well as the presence of restricted or repetitive behaviors.",
+            "characteristics": {
+                "communication_and_social_skills": {
+                    "description": "Children with ASD typically exhibit deficits in communication and social skills, which may manifest in various ways such as:",
+                    "young_children": {
+                        "signs": [
+                            "Failure to respond to their own name",
+                            "Disinterest in giving, sharing, or showing objects of interest",
+                            "Aversion to displays of affection",
+                            "Preference for solitary play"
+                        ]
+                    },
+                    "older_children": {
+                        "signs": [
+                            "Difficulty carrying on a reciprocal or back-and-forth conversation",
+                            "Lack of eye contact",
+                            "Difficulty using and reading body language in others",
+                            "Difficulty recognizing others\u2019 emotions, responding appropriately to different social situations, and understanding social relationships",
+                            "Aversion to displays of affection",
+                            "Preference for solitary play"
+                        ]
+                    }
+                },
+                "restricted_or_repetitive_behaviors": {
+                    "description": "Children with ASD often exhibit restricted or repetitive behaviors, including:",
+                    "behaviors": [
+                        "Performing repetitive actions and rituals",
+                        "Becoming fixated on minute details to the point of distraction",
+                        "Becoming upset by minor changes in daily routine",
+                        "Lining, sorting, or organizing toys or objects instead of playing with them",
+                        "Showing a consuming interest in a specific topic or object",
+                        "Having unusual sensory sensitivities"
+                    ]
+                }
+            },
+            "diagnosis_criteria": {
+                "criteria": "To meet the criteria for ASD, a child\u2019s symptoms in deficits in communication and social skills and restricted or repetitive behaviors must be present in early childhood and cause clinically significant impairment in various areas of functioning."
+            },
+            "additional_features": {
+                "sensory_issues": {
+                    "description": "Many children with ASD experience sensory issues, such as:",
+                    "issues": [
+                        "Being unusually sensitive to sounds, lights, textures, or smells",
+                        "Being overwhelmed by sensory input",
+                        "Seeking more sensory input through behaviors like bumping into things or excessively touching and smelling objects"
+                    ]
+                },
+                "verbal_ability": {
+                    "description": "Children with ASD may exhibit varying verbal abilities, including:",
+                    "abilities": [
+                        "Not talking at all",
+                        "Talking in a stilted tone or exaggerated 'sing-song' or high-pitched voice",
+                        "Monopolizing conversations without understanding reciprocity or others' emotions",
+                        "Repeating certain phrases without understanding their significance",
+                        "Possessing 'non-functional knowledge'\u2014information they can recite but not use to solve problems or engage in conversation"
+                    ]
+                },
+                "associated_disorders": {
+                    "description": "Children with ASD may also experience other medical and mental health disorders, such as:",
+                    "disorders": [
+                        "Anxiety",
+                        "ADHD",
+                        "Depression"
+                    ],
+                    "note": "Symptoms of these disorders can sometimes be confused with those of autism."
+                }
+            }
+        },
+        "Source": "childmind"
+    },
+    {
+        "Question": "Terminology: \u201cAutistic,\u201d \u201cWith Autism\u201d and \u201cAsperger\u2019s\u201d",
+        "Answer": "People use different language when talking about autism. Some prefer to say \u201ca child with autism\u201d because it emphasizes the child\u2019s identity outside of their diagnosis. This is commonly called \u201cperson-first\u201d language and is often recommended as a respectful way to talk about disabilities and other health issues. However, other people, including many autism activists, prefer to use the term \u201cautistic.\u201d This is known as \u201cidentity-first\u201d language. Autistic self-advocates assert that being autistic is in fact part of who they are \u2014 just like other labels like Catholic, African-American, gifted, and so on. They argue that saying \u201cwith autism\u201d implies that autism is a negative thing that has happened to a person, rather than an integral part of their identity. In this guide we use both \u201cautistic\u201d and \u201cwith autism\u201d to acknowledge the diversity of people\u2019s opinions. Some people also refer to their child having \u201cAsperger\u2019s disorder.\u201d That diagnosis is technically outdated, because in 2013 the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) combined Asperger\u2019s disorder into autism spectrum disorder. However, many people do continue to use the term Asperger\u2019s to describe autistic children who are typically without language or intellectual impairment.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "How Is Autism Diagnosed?",
+        "Answer": {
+            "process": "Diagnosing autism spectrum disorder (ASD) can be challenging due to its diversity and overlapping symptoms with other disorders. The diagnostic process typically involves the following steps:",
+            "first_steps": {
+                "description": "Initial screening may be conducted using questionnaires or assessments by clinicians.",
+                "screeners": [
+                    "Questionnaires filled out by parents",
+                    "Assessments done by clinicians"
+                ]
+            },
+            "comprehensive_evaluation": {
+                "description": "If screening indicates potential ASD, a comprehensive evaluation by a trained professional is necessary. This evaluation includes:",
+                "components": [
+                    "Assessment of behaviors in various settings and developmental context",
+                    "Incorporation of clinician observation and parent/caregiver interviews",
+                    "Use of autism-specific measures such as the Autism Diagnostic Observation Schedule (ADOS-2) and the Autism Diagnostic Interview-Revised (ADI-R)",
+                    "Assessment of other areas of functioning like cognitive, motor, language, and adaptive skills using tools such as the Vineland Adaptive Behavior Scales (VABS-3), Differential Ability Scales (DAS-II), or Mullen Scales of Early Learning (MSEL)"
+                ]
+            },
+            "professional_involvement": {
+                "description": "It's crucial to work with a mental health professional experienced in diagnosing ASD.",
+                "note": "Even with diagnostic tools, the expertise of a trained professional is essential."
+            }
+        },
+        "Source": "childmind"
+    },
+    {
+        "Question": "Why Autism Diagnoses Are Often Delayed",
+        "Answer": {
+            "importance_of_early_intervention": {
+                "description": "Early specialized support for children on the autism spectrum can lead to better outcomes. However, many children miss out on crucial intervention due to various reasons.",
+                "note": "Intervention starting in toddlerhood can be particularly beneficial."
+            },
+            "reasons_for_delayed_diagnosis": {
+                "description": "Children may initially receive diagnoses of other conditions such as speech-language impairments, ADHD, or sensory issues. The autism diagnosis may not occur until later, around the age of 5 or 6, when social and academic challenges increase.",
+                "note": "While these initial diagnoses may not be incorrect, they may overshadow symptoms indicative of autism, leading to delayed or missed intervention."
+            },
+            "lack_of_continued_evaluation": {
+                "description": "Once a diagnosis is reached, there may be a tendency for parents and clinicians to stop looking for symptoms that could indicate autism, potentially hindering appropriate treatment.",
+                "impact": "Children may receive treatment for conditions like ADHD or sensory issues while missing out on therapies crucial for autism."
+            }
+        },
+        "Source": "childmind"
+    },
+    {
+        "Question": "How to Talk to Family and Friends About Your Child's Diagnosis?",
+        "Answer": "If your child has been newly diagnosed with autism, one thing that can be a challenge is telling your parents and extended family. Autism is something that more and more people are aware of, but there\u2019s still a lot of misinformation. The problems your child is having may not be visible to everyone in your family. But you need the people you are close to as allies in helping your child, so getting them on your team is important. Focus on behaviors Using behaviors others might have noticed \u2014 such as lack of eye contact, frequent meltdowns or inability to connect with other kids \u2014 is one way to start explaining what autism is, and why your child was diagnosed. Explain autism basics Don\u2019t overwhelm them with information but make sure to tell them that: Your child has difficulty with social skills. Part of autism means your child has restricted or repetitive behaviors and interests. Autism is a neurodevelopmental disability. It is lifelong. We know it starts in utero. We know it is not produced by vaccines. It\u2019s not caused by bad parenting. Explain that autism is a spectrum of behaviors, and every autistic person is different Explain that having a diagnosis also means that your family is eligible for therapies and services, which can be transformative.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Medical Causes for Autism-Related Behaviors",
+        "Answer": "It\u2019s not unusual for medical problems to be overlooked in kids with autism, especially those who are nonverbal. When evaluating your child\u2019s behaviors, it\u2019s crucial to consider that some may actually be reactions to pain or discomfort from treatable medical or dental conditions that may have gone unrecognized. Kids with ASD may not be able identify or articulate the source of the pain or discomfort they are experiencing effectively. Here are some commonly misinterpreted behaviors that may have medical causes: Gulping or grimacing Tapping the chest or stomach Pressing on the abdomen Refusing to sleep Repetitive motions Self-injury like head-banging or hitting yourself Meltdowns Aggression If you notice any of these behaviors in your child, visiting your physician is a good idea to identify or rule out different medical problems, including: Painful acid reflux Constipation Allergies Eczema Tonsillitis Menstrual cramps Ear infections Urinary tract infections Bone fractures",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Sensory Issues",
+        "Answer": "Sensory issues are often first recognized during the toddler years, when parents notice that a child has an unusual aversion to noise, light, shoes that are deemed too tight and clothes that are irritating. They may also notice clumsiness and trouble climbing stairs, and difficulty with fine motor skills like wielding a pencil and fastening buttons. More baffling \u2014 and alarming \u2014 to parents are children who exhibit extreme behaviors, such as: Screaming if their faces get wet Throwing tantrums when you try to get them dressed Having an unusually high or low pain threshold Crashing into walls and even people Putting inedible things, including rocks and paint, into their mouths These and other atypical behaviors may reflect sensory issues \u2014 difficulty integrating information from the senses. Children with sensory issues may be overwhelmed by too much sensory input (i.e., hyper-sensitivity), or receive too little (i.e., hypo-sensitivity), which causes them to bump into and rub against things, in order to feel more. Sensory problems are now considered a symptom of autism because the majority of children and adults on the spectrum also have sensory issues. When the brain struggles to deal with sensory input like sound, light and smell, kids can become overwhelmed and may have a tendency to flee to a more calming environment, become aggressive, or experience a severe meltdown. In the majority of cases, sensory issues become significantly milder and less interfering as kids get older. Skills learned in occupational therapy and environmental accommodations can help limit the impact of sensory issues as kids get older.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Rigid Eating Habits in Children on the Spectrum",
+        "Answer": "Children on the autism spectrum are often very picky eaters. When mealtime issues arise, your first stop should be a pediatric gastroenterologist who has experience with kids on the spectrum, to make sure there are no medical issues. Other sources of mealtime problems include: Sensory issues: Autistic kids often express a strong preference for foods that feel a certain way in their mouths. Some prefer soft or creamy foods like yogurt, soup or ice cream; others need the stimulation that crunchy foods like Cheetos or \u2014 if a parent is lucky, carrots \u2014 provide. In either case, that can put significant limitations on the different foods kids are willing to eat. Underdeveloped oral motor musculature: Kids who eat almost exclusively soft foods may actually lack the muscle development that it takes to chew foods like steak or hamburger. Parents who don\u2019t know this is the cause of their child\u2019s distress will respond by allowing them to forgo the foods that would strengthen those muscles, so it becomes a vicious cycle. Time and behavior at the table: Lots of parents experience the frustration of trying to get their children to sit at the table long enough to finish a meal. But with autistic kids the challenge can be magnified. And there is also the issue of safety. Unsafe behaviors might include throwing utensils or repeatedly getting up and running from the table. For children and families who are struggling with an autistic child\u2019s rigid eating habits, consulting a feeding specialist \u2014this could be a child psychologist, speech-language pathologist or occupational therapist \u2014 can be helpful.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Wandering in Children on the Spectrum",
+        "Answer": "The tendency of children on the spectrum to wander off impulsively is a huge safety issue. Wandering off without warning \u2014 also known as elopement or bolting \u2014 can have tragic results, as children attracted to water have drowned. The behavior is in part attributed to an impaired sense of danger, which might inhibit a neurotypical child from leaving caregivers. Other explanations for bolting range from goal-directed (heading to a favorite place, pursuing something of interest) to escaping astressor (an anxious situation or uncomfortable sensory stimuli). In a survey, more than 800 parents reported that roughly 50 percent of children between the ages of 4 and 10 with an ASD wander at some point, four times more than their unaffected siblings. The behavior peaks at 4, but almost 30 percent of kids with an ASD between the ages of 7 and 10 are still eloping, eight times more than their unaffected brothers and sisters. The Autism Wandering Awareness Alerts Response and Education (AWAARE) Collaboration site has advice for families about making the home safe and other measures to guard against wandering.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Repetitive Motions",
+        "Answer": "Repetitive movements associated with autism are sometimes called stimming. The word stim is short for self-stimulation. It means repetitive movements that don\u2019t appear to be purposeful, including hand flapping, rocking, blinking, pacing and repeating noises or words. Among the criteria for an ASD diagnosis is \u201cstereotyped or repetitive motor movements, use of objects or speech.\u201d Some children engage in these repetitive movements to either block or increase sensory input, or as a means of alleviating distress. Children on the spectrum may stim both when they\u2019re excited and when they\u2019re frustrated or angry. But these movements are only problematic if they interfere with a child\u2019s functioning, including social interaction, daily activities and learning. Families worried about them are encouraged not to try to eradicate or draw undue attention to them, but instead to help children build communication skills and activities that may reduce time spent stimming.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Autism-Related Problems With Transitions",
+        "Answer": "Transitions are particularly challenging for kids with autism, and their reactions can be extreme. They may feel the need for sameness and routine is a way of adapting to a world that can be overwhelming and confusing. Deviation from the routine can feel very uncomfortable, even distressing, and they may refuse to transition, or engage in disruptive behavior such as having a tantrum. Maintaining structured routines may help children with autism, especially for everyday transitions that are challenging, like bedtime or school mornings. It may also be helpful to provide children visual schedules of their routines as well as provide warnings (countdowns to the next activity) before upcoming transitions. It\u2019s important to note that these general strategies, while helpful, may not be sufficient for all children with autism. Rewarding kids when they handle a transition particularly well can also be an effective strategy. A reward could be as simple as labeled praise (for example, saying, \u201cI really like how you stopped playing on the iPad when I told you it was time to get dressed. Good job!\u201d Children can also be motivated by rewards like stickers or points that work up to bigger rewards, like more screen time or a favorite food. Access to a child\u2019s special interests can also be a reward.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Behavioral Treatments for Autism",
+        "Answer": "Behavioral treatments have been created to help children on the spectrum build skills they don\u2019t develop automatically and reduce behaviors that are interfering with learning and communication. Several common types of treatment are described here: Applied Behavior Analysis: What it is: Applied behavior analysis (ABA) has been shown to help autistic children develop needed skills and minimize undesired behaviors such as self-injury, and it has been shown to be successful for kids all across the autism spectrum. Its effectiveness is backed up by hundreds of studies. How it works: ABA is an evidence-basedbehavioral therapy that can take many forms, but they are all based on the same simple concept: reinforced behaviors will increase; behaviors that are not reinforced will reduce and eventually disappear. Types of ABA: Discrete Trial Training, the original \u201cbrand\u201d of ABA designed for young children on the spectrum, remains the most structured form of ABA. It is always done one-on-one. The child sits at a table, and the therapist lays out materials in front of the child. The child is given a task to perform with the material and when he does it right, he is rewarded with what\u2019s called a \u201cprimary reinforcer\u201d: an M&M or a Frito, a tickle, a sticker, access to a favorite toy, etc. Pivotal Response Treatment is more child-driven and less therapist-structured. \u201cRather than focusing on individual behaviors, PRT looks to target \u201cpivotal\u201ddevelopmental functions. Natural forms of reinforcement related to the behavior are stressed, rather than non-related tangible rewards, such as an M&M. The concept is that if you build these learning modules into a more natural environment, the child is more likely to generalize them. Naturalistic Developmental Behavioral Interventions: These interventions \u2014 for example, Early Start Denver Model (ESDM) or Joint Attention, Symbolic Play, Engagement, and Regulation (JASPER) \u2014 incorporate behavioral principles of reinforcement, but are specifically designed to be utilized in natural, social interactions, using natural reinforcers (for example, if the child asks for a red car, he is given a red car), and incorporates multiple teaching objectives within the same activity. For example, one goal might be for the child to learn shapes or letters. But the therapist might also have goals for this child to have the motor coordination to get a piece into a puzzle, and to have the patience to finish something that involves three parts. So, during the course of a puzzle activity the child would be working on cognitive, motor and behavioral goals. Functional Communication Training: What it is: FCT involves teaching an individual a reliable way of expressing their wants and needs with language, signs or images. It\u2019s called \u201cfunctional\u201d because it doesn\u2019t just teach kids to label an item (such as associating the word RED to a picture of an apple) but focuses on using words or signs to get something needed or desired \u2014 a food, a toy, an activity, a trip to the bathroom, a break from something. FCT uses positive reinforcement to teach children to communicate effectively with others to get their needs met and reduce problematic behavior. How it works: Initially the therapist prompts the child to use the word, sign or picture and obtain the reward. This supported communication is repeated, each time resulting in the earned reward, until the child is able to succeed with less and less prompting from the therapist. Once kids are reliably using the functional communication for that item when the item is present, the next step is for them to \u201cgeneralize,\u201d or use it outside the specific situation in which it\u2019s been taught, such as communicating with people other than the therapist. The Verbal Behavior Approach (VB): What it is: The verbal behavior approach, based on ABA, emphasizes teaching children language and other skills in a child-centered learning environment. How it works: Therapists using a VB approach teach children language in a way that links language to its different purposes or functions. Initially, therapists using a VB approach focus on pairing the learning environment with activities and items that a child enjoys so that the learning environment is somewhere the child wants to be. This might involve the therapist giving a child fun toys or snacks for free. The therapist then teaches children to request (what VB therapists call, to mand) for these things. Once children are independently requesting things they want, the therapist gradually begins teaching other language and skill goals (such as labeling and responding to questions). The VB approach is used with children who communicate with spoken language as well as children who communicate in other ways, such as sign language. Books like The Verbal Behavior Approach: How to Teach Children With Autism and Related Disorders provide more information about this teaching approach. Parent Training for Disruptive Behaviors in Autism Spectrum Disorder: What it is: This evidence-based treatment, from the RUBI Autism Network, is based on the principles of ABA. It addresses challenging behaviors in youth with ASD, including noncompliance, aggression, temper outbursts and difficulties with transitions. How it works: The therapist works closely with the parent to teach techniques (such as prevention strategies, daily schedules, reinforcement, compliance training, functional communication training) to reduce their child\u2019s challenging behaviors and to encourage more appropriate behaviors. Program for the Education and Enrichment of Relational Skills (PEERS\u00ae) What it is: PEERS\u00ae is an evidence-based social skills intervention for youth with social challenges. How it works: The intervention is delivered in a group format (parent and youth groups) to teach practical social skills, such as how to start and end conversations, select appropriate friends, handle teasing and bullying, handle arguments with peers, and show good sportsmanship. Facing Your Fears (FYF): What it is: Facing Your Fears is a group-based cognitive behavioral treatment designed to help youth with ASD who also have anxiety symptoms. How it works: Facing Your Fears helps children learn to identify their worries and develop healthy coping strategies they can rely on when they are feeling anxious. Children are also given the opportunity to practice these new strategies inside their group. In addition to the child group, there is a separate group for parents to learn how to help support their child with ASD and co-occurring anxiety. Occupational Therapy: What it is: Occupational therapy, known as OT, is designed to help children acquire the skills needed to perform the activities\u2014or \u201coccupations\u201d\u2014of daily life. How it works: Occupational therapists work with children to develop a variety of skills or abilities. This may include fine and gross motor skills, help with feeding issues or sensory issues, or developing essential self-help skills, like brushing teeth, dressing, toilet training, and more.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "Medication for Children on the Autism Spectrum",
+        "Answer": "There is no medication for the symptoms of autism. But children on the spectrum may take medication that is aimed at curbing aggression or other problematic or dangerous behavior. And kids on the spectrum may take medication for other disorders that they may have, including anxiety, depression or ADHD. Any doctor prescribing medication should do so carefully, but this is particularly important for children who may have multiple diagnoses. Medication for behavior problems Risperdal is a medication that\u2019s widely used to treat children who are aggressive or excessively irritable. Risperdal can successfully calm down kids with severe behavior problems, enabling them to function in school and within their families. The FDA has approved it for that use. Without it, some children would require residential treatment. It\u2019s important to know that Risperdal has side effects that include substantial weight gain and metabolic, neurological and hormonal changes that can be harmful. Without effective monitoring by a professional, some children experience irreversible damage. Some experts are concerned that children are being treated with this medication in lieu of other treatment \u2014 including behavioral treatment \u2014 that could be effective without the risk of these side effects. Medication for co-occurring ADHD Most children with ADHD are prescribed stimulant medications. Different children metabolize medication in different ways, so finding the right type of stimulant and dosage for your child may take several weeks. Other children may be prescribed non-stimulant medication if they are not responding to stimulants or experience troubling side-effects even after careful adjustment of dosage or type of stimulant. Medication for co-occurring depression Medications most often prescribed to treat depression are selective serotoninreuptake inhibitors, or SSRIs, which are also known as antidepressants. Clinicians may also prescribe an atypicalantidepressant. People struggling with depression can also benefit from therapy for depression, such as cognitive behavior therapy, dialectical behavior therapy or mindfulness. Medication for co-occurring anxiety The medications most often prescribed to treat anxiety are selective serotonin reuptake inhibitors, or SSRIs. Benzodiazepines are also sometimes prescribed for kids who are extremely anxious, but people can develop a tolerance for them so they should be prescribed carefully. Behavior therapy such as cognitive behavior therapy (CBT) is considered to be the best treatment for anxiety. Facing Your Fears is a kind of CBT developed for children with autism. Medication may be prescribed in addition to therapy or to make very anxious kids more open to therapy.",
+        "Source": "childmind"
+    },
+    {
+        "Question": "What is autism spectrum disorder (ASD)?",
+        "Answer": "Autism spectrum disorder (ASD) manifests in early childhood and is characterized by qualitative abnormalities in socialinteractions, markedly aberrant communication skills, and restricted repetitive behaviors, interests, and activities\u00c2 (RRBs).ASD is the broad current designation for a group of conditions with deficits in social interaction and communication andRRBs. ASD includes a variety of disorders that fit two broad classes: (1) genetic disorders\u00c2 with features of ASD includingfragile X syndrome, Rett syndrome, and tuberous sclerosis, and (2) idiopathic with unknown causes. Idiopathic forms of ASDhave been called a variety of terms over the years, including autistic disorder, pervasive developmental disorder, andAsperger syndrome.\u00c2 Further information about the subtypes can be located in the articles for each condition. Readers canbenefit from recognizing that the terms \"\"autism\"\" and \"\"autistic disorder\"\" have been used to describe ASD. \"\"Pervasivedevelopmental disorder\"\" had been used to describe disorders including ASD and conditions with some traits characteristic ofautism. Asperger syndrome refers to high-functioning individuals with ASD",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are the signs and symptoms of autism spectrum disorder (ASD)?",
+        "Answer": "Behavioral and developmental features that suggest autism include the following:Developmental regressionAbsence of protodeclarative pointing, i.e., failure to look where the examiner is looking and pointingAbnormal reactions to environmental stimuliAbnormal social interactionsAbsence of smiling when greeted by parents and other familiar peopleAbsence of typical responses to pain and physical injuryLanguage delays and deviationsAbsence of symbolic playRepetitive and stereotyped behaviorRegular screening of infants and toddlers for symptoms and signs of ASD is crucial because it allows for early referral ofpatients for further evaluation and treatment. Siblings of children with\u00c2 ASD are at risk for developing traits of\u00c2 ASD andeven a full-blown diagnosis of ASD. Therefore, siblings should also undergo screening not only for autism-related symptomsbut also for language delays, learning difficulties, social problems, and anxiety or depressive symptoms.Having parents fill out the Autism Screening Checklist can identify children who merit further assessment for possible ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the focus of the physical exam for autism spectrum disorder (ASD)?",
+        "Answer": "Examination for patients with suspected ASD may include the following findings:Abnormal motor movements (eg, clumsiness, awkward walk, hand flapping, tics)Dermatologic anomalies (eg, aberrant palmar creases)Abnormal head circumference (eg, small at birth, increased from age 6 months to 2 years, normal inadolescence )Orofacial, extremity, and head/trunk stereotypies (eg, purposeless, repetitive, patterned motions, postures, andsounds)Self-injurious behaviors (eg, picking at the skin, self-biting, head punching/slapping)Physical abuse inflicted by others (eg, parents, teachers)Sexual abuse: External examination of genitalia is appropriate",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the DSM-5 definition of autism spectrum disorder (ASD)?",
+        "Answer": "ASD is characterized in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR) by the following: .Deficits in social communication and social interaction.Restricted repetitive behaviors, interests, and activities (RRBs).These symptoms are present from early childhood and limit or impair everyday functioning. Both components are required for diagnosis of ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which tests are performed in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "There are no blood studies recommended for the routine assessment of ASD. Although several metabolic abnormalities have been identified in investigations of people with ASD (eg, elevated serotonin, reduced serum biotinidase, abnormal neurotransmitter functions, impaired phenolic amines metabolism), a metabolic workup should be considered on an individual basis. No biologic markers for autism currently exist. Studies that may be helpful in the evaluation of ASD include the following: EEG, sleep-deprived:  To exclude seizure disorder, acquired aphasia with convulsive disorder (Landau-Kleffner syndrome), biotin-responsive infantile encephalopathy, related conditions. Psychophysiologic assessment: To show lack of response habituation to repeatedly presented stimuli (in respiratory period, electrodermal activity, vasoconstrictive peripheral pulse amplitude response); auditory overselectivity may be seen. Polysomnography: To identify sleep disorders and to demonstrate seizure discharges",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which imaging studies are performed in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "There is currently no clinical evidence to support the role of routine clinical neuroimaging in the diagnostic evaluation of ASD, even in the presence of megalencephaly.  Although characteristic abnormalities have been identified, no single finding is diagnostic.The following imaging techniques have yielded inconsistent results in evaluating ASD: MRI with or without diffusion tensor imaging, CT scanning, PET scanning, SPECT scanning",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What types of interventions are used in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "The established therapies for ASD are nonpharmacologic and may include individual intensive interventions. Individuals with ASD  typically benefit from behaviorally oriented therapeutic programs developed specifically for this population. Children with ASD should be placed in these specialized programs as soon as the diagnosis is suspected.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which nonpharmacologic therapies are used in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": " Intensive individual special education. Speech, behavioral, occupational, and physical therapies (eg, assisted communication, auditory integration training, sensory integration therapy, exercise/physical therapy). Social skills training is helpful for children with ASD, including those with comorbid anxiety disorders;  . While social skills interventions appear modestly effective for young people with ASD, the effects may not readily generalize to educational settings . Cognitive behavioral therapy ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which medications are used in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Pharmacotherapy: No pharmacologic agent is effective in the treatment of the core behavioral manifestations of ASD, but drugs may be effective in treating associated behavioral problems and comorbid disorders (eg, self-injurious behaviors, movement disorders). The possible benefits from pharmacotherapy must be balanced against the likely adverse effects on a case-by-case basis (eg, venlafaxine may increase high-intensity aggression in some adolescents with ASD  ). Medications used in managing related behavioral problems and comorbid conditions in children with ASD include the following: Second-generation antipsychotics (eg, risperidone, aripiprazole, ziprasidone). SSRI antidepressants (eg, fluoxetine, citalopram, escitalopram). Stimulants (eg, methylphenidate). Alpha-2 adrenergic receptor agonists (e.g., clonidine, guanfacine)",
+        "Source": "medscape"
+    },
+    {
+        "Question": "When does autism spectrum disorder (ASD) typically present?",
+        "Answer": "ASD is a condition that manifests in early childhood and is characterized by qualitative abnormalities in social interactions, markedly aberrant communication skills, and restricted repetitive and stereotyped behaviors. A heterogeneous group of disorders includes the trait of ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are motion anomalies in children with autism spectrum disorder (ASD)?",
+        "Answer": "Motion anomalies are a prominent feature in a subset of individuals and have been reported at birth in some persons with ASD. Motion analysis may provide evidence of ASD in early infancy, before other manifestations occur. The motion anomalies demonstrated by children with ASD are often highly characteristic and noticeable. An example of a motion typical in ASD occurs when the child places a hand with fingers separately outstretched before the eyes and rapidly moves the hand back and forth. A similar experience results from moving up and down while gazing through the slats of Venetian blinds. This action is described as self-stimulation because it produces a visual sensation of movement. (See Presentation.) Many of the motions of children with ASD appear to be attempts to provide themselves with sensory input in a barren environment. Through special education, children may learn to suppress the movements, although these may subsequently be exhibited at times of particular stress or excitement.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What causes autism spectrum disorder (ASD)?",
+        "Answer": "Although the etiology of ASD is unknown, hypotheses include genetic abnormalities, obstetric complications, exposure to toxic agents, and prenatal, perinatal, and postnatal infections. .Genetic studies have contributed to our understanding of the inheritance of ASD. A susceptibility to ASD is likely associated with 400 to 1000 genes.  A heritability plays a role in 74% to 93% of the risk for ASD.  Increasing risk for ASD is independently associated with maternal age of 40 years and older, paternal age of 50 years and older, and interpregnancy intervals less than 24 months. .Maternal rubella is associated with significantly higher rates of ASD and other conditions in children. Additionally, tuberous sclerosis is associated with ASD as a comorbid disorder. .On the other hand, anecdotal reports that ASD may be linked with vaccinations (eg, for measles, mumps, and rubella) have not been supported by broader research.  Research from the CDC indicates that the number of childhood vaccines administered, either in a single day or during a child's first 2 years, has no effect on the risk of developing ASD. According to results of a case-control study of more than 1000 children born between January 1994 and December 1999, exposure to antibody-stimulating proteins or polysaccharides from vaccines between the ages of 3 months and 2 years was not associated with an increased risk of developing an ASD. The study included 256 children with an ASD and 752 healthy controls.  Parents should be encouraged to fully immunize their children.  (See Etiology.). Effective treatment of associated behavioral problems includes intensive behavioral, educational, and psychological components. Interventions initiated at the time of diagnosis increase the likelihood of a favorable outcome.  Regular screening of infants and toddlers for symptoms and signs of autistic disorder is crucial because it allows for early referral of patients for further evaluation and treatment. (See Treatment.). The initial clinical descriptions of ASD suggested that cold, rejecting parents (\"refrigerator mothers\") caused autism in offspring; however, careful study of children with ASD and their parents has disproved this hypothesis. Autism is not caused by a lack of warmth and affection in parents, nor by any other emotional or psychological parental deficits. Blaming parents for the development of ASD in their children is inappropriate.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How is autism spectrum disorder (ASD) diagnosed?",
+        "Answer": "The Autism Screening Checklist is provided as a preliminary tool for use by parents, teachers, and other members of the general community to identify children with some symptoms and signs suggestive of ASD. Several instruments have been developed to diagnose ASD. Administering these tools in a reliable and valid manner requires extensive training and experience. Therefore, unless they have wide experience with children with ASD and understand the concepts implicit in the diagnostic criteria and rating scales, pediatricians and other clinicians are advised to refer patients with possible ASD to experienced clinicians for definitive diagnostic evaluations. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How is autism spectrum disorder (ASD) treated?",
+        "Answer": "Individualized, intensive behavioral and psychological interventions must be instituted immediately after the diagnosis of ASD in order for the patient to achieve an optimal outcome. Although controversy surrounds the appropriate form of special education, some evidence suggests that an individual educational program must be developed by a special educator familiar with ASD and related conditions. Because deficits in language and communication are often major impediments to progress in educational, work, and personal settings, patients often benefit from specialized communication devices and training.Persons experienced in the needs and treatment of individuals with serious communication handicaps (ie, speech and language specialists) may help the patient to maximize communication skills. Although psychoanalytic approaches to treatment of children with ASD were common in the mid-20th century, these approaches were not found to be effective and are no longer used. Pharmacotherapy is ineffective in treating the core deficits of ASD but may be effective in treating associated behavioral problems and comorbid disorders. The possible benefits from pharmacotherapy must be balanced against the likely adverse effects on a case-by-case basis. (See Treatment.)\n",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of neural anomalies in the pathophysiology of autism spectrum disorder (ASD)?",
+        "Answer": "In patients with autism, neuroanatomic and neuroimaging studies reveal abnormalities of cellular configurations in several regions of the brain, including the frontal and temporal lobes and the cerebellum. Enlargements of the amygdala and the hippocampus are common in childhood. Markedly more neurons are present in select divisions of the prefrontal cortex of autopsy specimens of some children with ASD, compared with those without ASD. . Magnetic resonance imaging (MRI) studies have suggested evidence for differences in neuroanatomy and connectivity in people with ASD compared with normal controls. Specifically, these studies have found reduced or atypical connectivity in frontal brain regions, as well as thinning of the corpus callosum in children and adults with ASD and related conditions. In a study that included 17 adults with high-functioning ASD and 17 age- and IQ-matched control subjects, functional magnetic resonance imaging (fMRI) of the brain that showed neural representations of social interactions was able to accurately identify individuals with ASD. Scans were performed as study subjects thought about a set of social interaction verbs from both an action and a recipient perspective. . Importantly, some of the regional differences in neuroanatomy correlate significantly with the severity of specific autistic symptoms.  For example, social and language deficits of people with ASD likely are related to dysfunction of the frontal and temporal lobes. . In a study of postmortem brain tissue from 11 children with ASD and 11 unaffected controls, researchers found focal disruption of cortical laminar architecture in the cortexes of 10 of the children with ASD and 1 of the controls, suggesting that brain irregularities in ASD may have prenatal origins. The patches of abnormal neurons were found in the frontal and temporal lobes, regions involved in social, emotional, communication, and language functions. Since the changes were in the form of patches, the researchers believe that early treatment could rewire the brain and improve ASD symptoms. . On MRI scans, the brains of children with ASD demonstrate greater myelination in bilateral medial frontal cortices and less myelination in the left temporoparietal junction.  Similarly, region-specific differences in the concentrations of gray matter, made up of neuronal cell bodies, dendrites, unmyelinated axons and glial cells, are also found in the brains of people with autism",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of gamma-amino butyric acid (GABA) in the pathophysiology of autism spectrum disorder (ASD)?",
+        "Answer": "Increased risk of developmental delay and ASD is associated with prematurity. Reductions in cerebral GABA likely contribute to the sensorimotor and behavioral anomalies of individuals with ASD.  Reductions in sensorimotor GABA were observed by magnetic resonance spectroscopy (MRS) in participants with ASD in contrast to matched controls without ASD.  Behavioral measures of inhibition correlated with the reductions in sensorimotor GABA concentrations.  By contrast, GABA concentrations were similar in a different cohort of boys with ASD and typical boys.  In the boys with ASD the ratio of GABA/creatine on MRS was associated with symptoms of ASD. . Postmortem specimens of the brains of people with ASD demonstrated reductions for gamma-aminobutyric acid\u2013B (GABAB) receptors in the cingulate cortex, a key region for the evaluation of social relationships, emotions, and cognition, and in the fusiform gyrus, a crucial region to evaluate faces and facial expressions.  These findings provide the basis for further investigation of autism and other pervasive developmental disorders.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of glutathione (GSH) in the pathophysiology of autism spectrum disorder (ASD)?",
+        "Answer": "As the main brain antioxidant glutathione (GSH) may play a role in the development of ASD. ASD is hypothesized to be caused by oxidative stress. MRS demonatrated reduced GSH, Cr, and myoinositol (MI) in the doral anterior cingulate cortex (dACC) of participants with ASD in contrast to healhty participants without dACC.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of N-acetylaspartate (NAA) in the pathophysiology of autism spectrum disorder (ASD)?",
+        "Answer": "Diminished neuronal activity indicated by reductions of NAA in frontal, parietal, and temporal lobes, amygdala, hippocampus, and thalamus of children with ASD was observed on MRS.  MRS also showed diminished concentrations of creatine (Cr) and phosphocreatine (PCr) in the cortex and the white matter of people with ASD, suggesting reduced cellular oxidative metabolism.  Diminished neuronal metabolsm in the anterior white matter of boys with ASD in contrast to age-matched controls was indicated by the reduced NAA/Cr ratios on MRS.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of metabolic anomalies in the pathophysiology of autism spectrum disorder (ASD)?",
+        "Answer": "In animal studies, dysfunction of serotonin and the neuropeptides oxytocin and vasopressin has been associated with abnormalities in affiliative behaviors. Neurophysiologic dysfunction involving one or more of these substances may also be present in humans with ASD. Elevations of blood serotonin levels occur in approximately one third of individuals with ASD and are also reported in the parents and siblings of patients. Functional anomalies in other neurotransmitters (eg, acetylcholine, glutamate) have also been identified in some people with ASD. . Serum biotinidase is reduced in some people with ASD. This enzyme is required for the use and recycling of the B vitamin biotin. Deficiency of biotin has been linked with behavioral disorders. Immunologic studies have identified abnormalities such as decreased plasma concentrations of the C4B complement protein. Such abnormalities may be the source of the increased susceptibility to infection seen in some people with ASD. Diet is a controversial aspect of ASD. The greatest attention has been given to gluten- and casein-free diets; anecdotal information suggests that these diets help some children with ASD.  Test findings suggest that low-functioning children with ASD may have impairment in the metabolism of phenolic amines.  Therefore, symptoms of ASD are possibly aggravated by the consumption of dairy products, chocolates, corn, sugar, apples, and bananas; however, no large population studies have confirmed this. Oxidative stress may play a role in the pathogenesis and the pathophysiology of ASD.  Compared with normal children, children with ASD have decrements in the following: . Plasma levels of cysteine, glutathione, and methionine. The ratio of S -adenosyl-L-methionine (SAM) to S -adenosyl-L-homocysteine (SAH). The ratio of reduced to oxidized glutathione. Some children with ASD display hyperlacticacidemia  as well as evidence of mitochondrial disorders  including carnitine deficiency.  These abnormalities may reflect disturbed neuronal energy metabolism.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of faulty parenting in the etiology of autism spectrum disorder (ASD)?",
+        "Answer": "In the 1940s, in his seminal papers that first identified ASD, the child psychiatrist Leo Kanner conjectured that ASD resulted from rejection of the infant by emotionally cold parents (\"refrigerator mothers\"). In the 1950s and 1960s, Bruno Bettelheim popularized this idea. Since then, careful family studies have disproved the hypothesis that the development of ASD in children is caused by faulty parenting. Sensitive clinicians communicate to parents that their parenting skills did not cause their child's ASD. Repeated communication of this fact will help to minimize the guilt often experienced by parents of children with ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of obstetric complications in the etiology of autism spectrum disorder (ASD)?",
+        "Answer": "Many individuals with ASD and related conditions experienced untoward events in their prenatal and neonatal periods and during delivery.  It is unclear whether the obstetric complications caused ASD or whether ASD and obstetric complications resulted from environmental or other problems. During the perinatal period, the factors associated with ASD risk were hypertension or diabetes in mother, threatened abortion, antepartum hemorrhage, caesarian delivery, gestational age \u2264 36 weeks, parity \u2265 4, spontaneous labor, induced labor, no labor, breech presentation, preeclampsia, and fetal distress. During the postnatal period, the factors associated with ASD risk were low birth weight, postpartum hemorrhage, male gender, and brain anomaly. . In a large Danish study published in JAMA, maternal use of valproate during pregnancy was associated with a significantly increased risk for ASD in offspring. The drug is already not recommended for use in pregnant women due to the risk of congenital malformations and its possible association with low intelligence in children exposed during pregnancy. Researchers used data on all children born in Denmark between 1996 and 2006. Of the 655,615 children born in the study period, 5437 had ASD. There were 2644 children exposed to antiepileptic drugs during pregnancy, 508 of whom were exposed to valproate. Analysis showed that the children exposed to valproate had a 3-fold increased risk for ASD compared with unexposed children, even after adjustment for parental psychiatric disease and epilepsy. . The management of women with epilepsy who desire to bear children can be challenging. A woman with an ongoing seizure disorder requires treatment because maternal seizures can result in serious morbidity and mortality for the mother and the fetus. To stop anticonvulsant therapy when a woman with a seizure disorder becomes pregnant to avoid teratologic effects may precipitate uncontrolled seizures that may be fatal to the mother and the fetus. Therefore physicians treating women with child-bearing potential can appropriately initiate frank conversations about future pregnancies. Juvenile myoclonic epilepsy and other seizure disorders typically cause seizures throughout adulthood so pharmacotherapy throughout adulthood is a reasonable treatment plan. While valproate is an excellent agent to control a vast spectrum of seizure disorders, its use in women of child-bearing potential is fraught with danger due to the great risk of producing ASD, spina bifida, and other birth defects. A frank conversation between the physician and the woman of child-bearing potential about the risks and benefits of specific antiepileptic drugs for the mother and the fetus is indicated. Documentation of these conversations is the medical record is needed. This record may be useful in court if legal action is initiated if a child has birth defects. Exposure of the mother to selective serotonin reuptake inhibitors, particularly during the first trimester, may increase the risk that her offspring will develop ASD. . Severe, early-gestation maternal hypothyroxinemia is associated with an increased risk of having a child with ASD, according to a study that involved 5100 women and 4039 of their children. Severe maternal hypothyroxinemia early in gestation increased the likelihood of having a child with ASD by almost 4-fold. By age 6, children of mothers with severe hypothyroxinemia had higher autistic symptom scores on the Pervasive Developmental Problems subscale of the Child Behavior Checklist and the Social Responsiveness Scale.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of fetal exposure to infectious agents in the etiology of autism spectrum disorder (ASD)?",
+        "Answer": "An infectious basis for some cases of ASD is suggested by the large number of children with ASD born to women who contracted rubella during pregnancy. This finding supports the hypothesis that this infection triggers a vulnerability to the development of ASD in the fetus.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of genetics in the etiology of autism spectrum disorder (ASD)?",
+        "Answer": "Familial factors influence the risk for ASD. The rate of ASD in children born into families that already have a child with an autism spectrum disorder is as high as 18.7%, and the risk is twice as high in children born to families with 2 or more children with an ASD.  Girls born to a family that has a child with an ASD have 2.8 times the risk of having such a disorder. \n\nTwin studies have demonstrated a moderate degree of genetic heritability for ASD,  with environment making a substantial contribution to the development of these conditions in the study subjects. \n\nMultiple family studies have suggested genetic components in many cases of ASD.  For example, some asymptomatic first-degree relatives of some probands with ASD have abnormalities in serotonin and other chemicals similar to the probands.\n\nFinding genetic bases for ASD is a promising research goal. Factor analysis of datasets from the Autism Genome Project has suggested linkage of a joint attention factor with 11q23 and of a repetitive sensory-motor behavior factor with 19q13. \n\nWhile a third of monozygotic twins are concordant for ASD, dizygotic twins are concordant for autism at rates of 4-8%,  which is comparable to siblings. A focused neurogenetic evaluation of children with ASD yields a genetic disorder in two fifths of the children.  For example, mutations in the gene SHANK3 are associated with ASD. \n\nFragile X syndrome, a subtype of ASD, can be identified through genetic testing.  Antagonists to metabotropic glutamate receptors can reverse the symptoms in mouse models of fragile X syndrome.  Another subtype of ASD is tuberous sclerosis, a disorder with specific genetic mutations.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of toxins in the etiology of autism spectrum disorder (ASD)?",
+        "Answer": "Exposures to toxins, chemicals, poisons, and other substances have been hypothesized to cause ASD.\n\nRoberts et al  and Samson  have reported an association between exposure to the organochlorine pesticides dicofol and endosulfan during the first trimester of pregnancy and the subsequent development of ASD in children. Potential mothers can wisely be advised to avoid exposure to organochlorine pesticides.\n\nIn parts of the world, exposure to specific toxins may influence local ASD rates. For example, the high incidence of ASD in areas of Japan has been hypothesized to be due to a toxic effect of certain fish. Although toxins may play a role in the development of isolated cases of ASD in Japan, they have not been proved to be generally causative of ASD there. Another possible explanation for the high ASD rates in Japan is the excellent training of Japanese clinicians; low rates elsewhere may reflect the limited abilities of clinicians to diagnose ASD.\n\nSome studies have documented associations between ASD and air pollution. One, from North Carolina found a link between exposure to traffic-related air pollution, particularly during the third trimester, to the development of ASD in offspring. These results add to the evidence already provided by previous studies conducted in California. \n\nAnother study of children living in counties in Pennsylvania found that children with ASD were 1.4 to two times more likely to have been exposed to higher levels of air pollution, especially the toxins styrene and chromium, during pregnancy and the first 2 years of life than children without the disorder.  Cyanide, methylene chloride, methanol, and arsenic were also linked to increased risk of ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of parental age in the etiology of autism spectrum disorder (ASD)?",
+        "Answer": "Meta-analyses of epidemiologic studies have shown that ASD risk in offspring increases when the age of either parent is 35 years or higher.  Sandin et al reported that, after controlling for paternal age, the adjusted relative risk for ASD was 1.52 in the offspring of mothers aged 35 years or older compared with mothers aged 25\u201329 years.  Hultman et al found that, after controlling for maternal age, offspring of men aged 50 years or older were 2.2 times more likely to have ASD than offspring of men aged 29 years or younger. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of vaccines in the etiology of autism spectrum disorder (ASD)?",
+        "Answer": "Some children have developed ASD after immunizations, including inoculations for measles, mumps, and rubella. However, several population studies have demonstrated no association between childhood immunization and the development of ASD and related conditions. \n\nThompson and colleagues detected no causal association between exposure to vaccines that contain thimerosal and neuropsychological deficits at age 7\u201310 years.  In fact, in early 2010, the Lancet retracted the 1998 article by Wakefield et al that originally linked ASD with measles-mumps-rubella (MMR) vaccination, citing flaws in the study and 2 claims in it that were \"proven to be false.\" \n\nParents can permit the recommended childhood immunizations without fear of causing ASD and related conditions. Adherence to recommended immunization schedules, including immunization for measles, mumps, and rubella, is highly recommended. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are the global trends in the incidence of autism spectrum disorder (ASD)?",
+        "Answer": "Reported rates of autism spectrum disorder (ASD) have been rising in many countries over the past two decades. \n\nIn 2021, the CDC released data showing a record-breaking increase in rates of autism since the organization began tracking the disorder in 2000. Study authors with the CDC's Autism and Developmental Disabilities Monitoring (ADDM) Network attribute this increase to improvements in diagnosis and identification of ASD and not necessarily to an increase in incidence. The researchers found that 2.3% of 8-year-olds in communities in 11 states across the United States had an autism diagnosis in 2018 (prevalence rate of 1 in 44 children), up from 1.9% in 2016. \n\nEpidemiological studies of relatively uncommon conditions such as ASD are expensive. A suitable research strategy is the administration of multiple screenings in a population, each time identifying more likely subjects for detailed investigation.\n\nFor example, a reporting tool, such as the Autism Screening Checklist, can be distributed to all parents and guardians in a target population. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the US prevalence of autism spectrum disorder (ASD)?",
+        "Answer": "Estimates of the prevalence of ASD suggest that as many as 400,000 individuals in the United States have ASD or a related condition.\n\nThe Autism and Developmental Disabilities Monitoring (ADDM) Network surveillance system provides estimates of the prevalence of ASD among children aged 8 years whose parents or guardians reside within 11 ADDM sites in the United States (Arizona, Arkansas, Colorado, Georgia, Maryland, Minnesota, Missouri, New Jersey, North Carolina, Tennessee, and Wisconsin). The Network's 2018 report, based on 2014 data, shows the overall prevalence of ASD among the 11 ADDM sites was 16.8 per 1,000 (one in 59) children aged 8 years. \n\nAccording to survey results from parents across the United States, 1 in 40 children (2.5%) has ASD, representing an estimated 1.5 million children ages 3 to 17 years   an increase from 11 in 1000 in 2007. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the global prevalence of autism spectrum disorder (ASD)?",
+        "Answer": "A global prevalence of 7.6 cases of ASD per 100 (1 in 132) was estimated on review of epidemiological studies.  ASD and related conditions are estimated to affect up to 10-15 people per 10,000 population worldwide. In a population-based study of all 7- to 12-year-old children (N = 55,266) in a South Korean community, Kim et al estimated that the prevalence of ASD was 2.64% \n\nStudies in Japan report much higher rates than are found in other countries.  Japanese investigators suggest that these findings reflect the careful evaluations performed by Japanese clinicians, which may identify cases that would be overlooked in other countries. Alternatively, ASD may be more common in Japan because of gastrointestinal and other infections transmitted through the ingestion of seafood and other aquatically derived foods that are characteristic of the Japanese diet.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which patient groups have the highest prevalence of autism spectrum disorder (ASD)?",
+        "Answer": "Estimates of the prevalence of ASD vary widely by sex. Combining data from all 11 Autism and Developmental Disabilities Monitoring (ADDM) Network communities, ASD prevalence was 26.6 per 1,000 boys and 6.6 per 1,000 girls (prevalence ratio: 4.0). ASD prevalence was significantly (p< 0.01) higher among boys than among girls in all 11 ADDM sites, with male-to-female prevalence ratios ranging from 3.2 (Arizona) to 4.9 (Georgia). \n\nASD is most common in boys who have the 46,XY karyotype (ie, the normal male karyotype). In some studies, fragile X is reported in approximately 10% males with autistic disorder.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the prognosis of autism spectrum disorder (ASD)?",
+        "Answer": "The prognosis in patients with ASD is highly correlated with their IQ. Low-functioning patients may never live independently; they typically need home or residential care for the rest of their lives. High-functioning patients may live independently, hold jobs successfully, and even marry and have children. Remission of ASD has been described in anecdotal case reports.\n\nHigh-functioning individuals with ASD are similar to people with Asperger syndrome. Please refer to the Medscape Reference article Asperger Syndrome for further information and to learn more about high-functioning autism. Under the current nomenclature Asperger syndrome is a subtype of ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are the common comorbidities of autism spectrum disorder (ASD)?",
+        "Answer": "Gastrointestinal disorders, particularly constipation and chronic diarrhea, are more common in children with ASD. The risk of gastrointestinal disorders increases with the severity of autism symptoms.   Additionally, cancer,   cerebral palsy,   attention-deficit/hyperactivity disorder,   insomnia and other sleep disorders,   and epilepsy  are conditions more common in ASD. Psychiatric conditions common in ASD include psychosis,   depression,   and anxiety disorders including specific phobias and obsessive-compulsive disorder (OCD).",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is included in patient education about autism spectrum disorder (ASD)?",
+        "Answer": "Because local boards of education may be ignorant about the needs of children with ASD and related conditions, pediatricians and parents should seek advice from knowledgeable sources such as the Autism Society, which maintains a Web site and offers a toll-free hotline at 1-800-3-AUTISM (1-800-238 8476), providing information and referral services to the public. Legal assistance may be necessary to influence a board of education to fund appropriate education for a child with ASD and related conditions.\n\nPeople with developmental disabilities, including ASD, are vulnerable to sexual abuse, with the most severely disabled being at highest risk. Parents and caregivers need to be aware of this increased risk. Additionally, children with ASD must be trained to recognize impending sexual abuse and to develop plans of action to abort it. \n\nAlmost half of a sample of more than 1000 children with ASD exhibited elopement, wandering away from home, school, and other safe environments.  Parents of children with ASD need to be warned that there is a fair chance that their child, without warning, may walk away from home or school to go to an environment where there is a risk for potential danger. Additionally, parents need to be advised to request that teachers and other caregivers vigilantly watch the child to prevent elopement.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What steps should be taken when obtaining informed consent from patients with autism spectrum disorder (ASD)?",
+        "Answer": "People with ASD are identified as a highly vulnerable population because of the presence of cognitive, social, and mental impairments. Regulatory agencies have expressed particular concern that the rights of children with ASD and related conditions be carefully protected.\n\nSome have suggested that parents may not be impartial guardians and that third parties be used instead of parents to provide informed consent for clinical and research purposes. However, parents are generally excellent advocates seeking the best for their children. Nevertheless, clinicians must take particular care to ensure that informed consent is obtained in order to prevent misinterpretations and eventual medicolegal problems.\n\nExcept in emergencies, patients, parents, guardians, and surrogates must be aware of the diagnostic and treatment possibilities and must provide permission for possible interventions. By making a video recording of the process of explaining to the parent the recommended procedures, in addition to the signing of written release forms, the clinician establishes evidence that he/she imparted appropriate information to the correct party",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Where can patient education resources on autism spectrum disorder (ASD) be found?",
+        "Answer": "Individuals with autism and related conditions, as well as their advocates, can benefit from the experiences of other individuals and advocates who are dealing with autism. (See the organizations and resources listed below.)\n\nAutism Society\n\n4340 East-West Highway, Suite 350\n\nBethesda, MD 20814\n\nPhone: 1-800-328-8476\n\nURL http://www.autism-society.org/\n\n \n\nAutism Canada\n\n140 Yonge Street, Suite 200\n\nToronto, Ontario\n\nMSC 1X6\n\nCanada\n\nURL https://autismcanada.org/about-us/one-strong-voice/autism-society-canada/\n\n \n\nThe National Autistic Society\n\n393 City Road\n\nLondon EC1V 1NG\n\nUnited Kingdom\n\nPhone: +44 (0)20 7833 2299\n\nFAX: +44 (0)20 7833 9666\n\nEmail: nas@nas.org.uk\n\nURL: https://www.autism.org.uk\n\n \n\nThe National Institute of Mental Health Information Resource Center\n\nOffice of Science Policy, Planning, and Communications\n\n6001 Executive Boulevard, Room 6200, MSC 9663\n\nBethesda, Maryland 20892-9663\n\nPhone: 1 866 615 6464\n\nFax:     1 301 443 4279\n\nEmail: nimhinfo@nih.gov\n\nURL: http://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-pervasive-developmental-disorders/index.shtml\n\n \n\nAutism Research Institute\n\nPhone: 833 281 7165\n\nemail info@autism.org\n\nURL: https://www.autism.com/\n\n \n\nAutism Speaks\n\n1 East 33rd Street, 4th Floor\n\nNew York, NY 10016\n\nUSA\n\nPhone (646) 385-8500\n\nFax (212) 252 8676\n\nURL: https://www.autismspeaks.org/",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which clinical history findings are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "Behavioral and developmental features that suggest ASD   include the following:\n\nDevelopmental regression\n\nAbsence of protodeclarative pointing\n\nAbnormal reactions to environmental stimuli\n\nAbnormal social interactions\n\nAbsence of symbolic play\n\nRepetitive and stereotyped behavior",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How common is developmental regression in autism spectrum disorder (ASD)?",
+        "Answer": "Between 13% and 48% of people with ASD have apparently normal development until age 15-30 months, when they lose verbal and nonverbal communication skills. These individuals may have an innate vulnerability to develop ASD. Although regression may be precipitated by an environmental event (eg, immune or toxic exposures), it may result from a combinatiion of epigenetic vulnerabilities and environmental events.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of protodeclarative pointing in predicting a later diagnosis of autism spectrum disorder (ASD)?",
+        "Answer": "Protodeclarative pointing is the use of the index finger to indicate an item of interest to another person. Toddlers typically learn to use protodeclarative pointing to communicate their concern for an object to others. The absence of this behavior is predictive of a later diagnosis of ASD. \n\nThe presence of protodeclarative pointing can be assessed by interview of the parent or caregiver. Screening questions include \"Does your child ever use his or her index finger to point, to indicate interest in something?\" A negative response to this question suggests the need for a specialized assessment for possible ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which responses to environmental stimuli are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "In contrast to toddlers with delayed or normal development, toddlers with ASD are much more interested in geometric patterns. Toddlers who prefer dynamic geometric patterns to participating in physical activities such as dance merit referral for evaluation for possible ASD.\n\nParents of children with ASD report unusual responses to environmental stimuli, including excessive reaction or an unexpected lack of reaction to sensory input. Certain sounds (eg, vacuum cleaners or motorcycles) may elicit incessant screaming. Playing a radio, stereo, or television at a loud level may appear to produce hyperacusis, a condition in which ordinary sounds produce excessive auditory stimulation of a painful magnitude. Sometimes parents must rearrange the family routine so that the child is absent during noisy housekeeping activities.\n\nChildren with ASD may also display exaggerated responses or rage to everyday sensory stimuli, such as bright lights or touching.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which types of social interactions are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "Individuals with ASD may display a lack of appropriate interaction with family members.  Moreover, difficulties in social interactions are common. Children may have problems making friends and understanding the social intentions of other children and may instead show attachments to objects not normally considered child oriented. Although children with ASD may want to have friendships with other children, their actions may actually drive away these potential companions. They may also exhibit inappropriate friendliness and lack of awareness of personal space.\n\nIsolation likely increases in adolescence and young adulthood. Interviews with a representative sample of 725 youths with ASD (mean age 19.2 y) determined that the majority had not in the preceding year gotten together with friends or even spoken with a friend on the telephone. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which pain responses are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "An absence of typical responses to pain and physical injury may also be noted. Rather than crying and running to a parent when cut or bruised, the child may display no change in behavior. Sometimes, parents do not realize that a child with autism sepctrum disorder is hurt until they observe the lesion. Parents often report that they need to ask the child if something is wrong when the child's mood changes, and may need to examine the child's body to detect injury.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which speech development findings are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "Speech abnormalities are common. They take the form of language delays and deviations. Pronominal reversals are common, including saying \"you\" instead of \"I.\" Some speech habits, such as repeating words and sentences after someone else says them, using language only the child understands, or saying things whose meaning is not clear, may occur not only in ASD but in other disorders as well.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which types of play are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "Baron-Cohen and colleagues demonstrated that the absence of symbolic play in infants and toddlers is highly predictive of a later diagnosis of ASD.  Therefore, screening for the presence of symbolic play is a key component of the routine assessment of well babies. The absence of normal pretend play indicates the need for referral for specialized developmental assessment for autism spectrum disorder and other developmental disabilities.\n\nOdd play may take the form of interest in parts of objects instead of functional uses of the whole object. For example, a child with ASD may enjoy repeatedly spinning a wheel of a car instead of moving the entire car on the ground in a functional manner. \n\nObservation of the signs of ASD in young children  is an indication for referral for specialized diagnostic and therapeutic interventions.\n\nChildren with ASD may enjoy repeatedly lining up objects or dropping objects from a particular height. They may also be fascinated with items that are not typical toys, such as pieces of string, and may enjoy hoarding rubber bands, paper clips, and pieces of paper. In addition, children with ASD may spend hours watching traffic lights, fans, and running water. Some parents report that they must lock the bathroom door to prevent the child from flushing the toilet all day long.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How do children with autism spectrum disorder (ASD) react to febrile illness?",
+        "Answer": "Children with ASD may be particularly vulnerable to develop infections and febrile illnesses due to immunologic problems. By seeking pediatric intervention promptly at the onset of infections and febrile illnesses, parents may be able to abort sequelae of chronic infections.\n\nDuring a febrile illness, children with ASD may show a decrease in behavioral abnormalities that plague the parents when the child is well (eg, self-injurious behaviors, aggression toward others, property destruction, temper tantrums, hyperactivity).\n\nThis inhibition of negative behaviors may occur with various febrile illnesses, including ear infections, upper respiratory tract infections, and childhood illnesses. (A parent may say, \"When he is suddenly an angel, I know that he has an ear infection.\") The recovery of the child from the febrile illness may be accompanied by an abrupt return of the child's usual problematic behaviors.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the Autism Screening Checklist?",
+        "Answer": "Having parents fill out the Autism Screening Checklist can identify children who merit further assessment for possible ASD.\nThe significance of answers to individual Autism Screening Checklist items is as follows:\n\nItem 1- A \"yes\" occurs in healthy children and children with some pervasive developmental disorders; a \"no\" occurs in children with ASD and other developmental disorders\n\nItem 2 - A \"yes\" occurs in healthy children, not children with ASD\n\nItem 3 - A \"yes\" occurs in healthy children and children with Asperger syndrome (ie, high-functioning ASD); children with ASD may elicit a \u201cyes\u201d or a \"no\"; some children with ASD never speak; some children with ASD may develop speech normally and then experience a regression with the loss of speech\n\nItem 4 - A \"yes\" occurs in healthy children and children with Asperger syndrome (ie, high-functioning ASD); a \"no\" occurs in children with developmental disorders; children with ASD may elicit a \"yes\" or a \"no\"\n\nItems 5-10 - Scores of \"yes\" occur in some children with ASD.\n\nItem 11 \u2013 A \"yes\" occurs in healthy children; a \"no\" occurs in some children with ASD.\n\nItems 12, 13 - Scores of \"yes\" occur in some children with ASD.\n\nItems 14-19 - Scores of \"yes\" occur in children with schizophrenia and other disorders, not in children with ASD.\n\nThe higher the total score for items 5-10, 12, and 13 on the Autism screening checklist, the more likely that an ASD is present.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How are children screened for autism spectrum disorder (ASD)?",
+        "Answer": "Screening well babies for signs predictive of autism spectrum disorder is important.  Baron-Cohen and colleagues observed that abnormalities in pretend play, gaze monitoring, and protodeclarative pointing noted in toddlers during well-child visits in the United Kingdom were useful in predicting the later diagnosis of ASD. \n\nBaron-Cohen and colleagues developed a set of valid and reliable tools to screen for ASD over the lifespan,  including the Checklist for Autism in Toddlers (CHAT) and its revisions, the Modified CHAT (MCHAT) and the Quantitative CHAT (QCHAT), for newborns and toddlers,  as well as the Autism-Spectrum Quotient (AQ), for children,  adolescents,  and adults.  The possible cultural limitations of these tools in different ethnic groups in various geographic regions remain to be demonstrated.\n\nPretend play\n\nIn screening for the presence of symbolic play, other make-believe play may be substituted based on cultural relevance. The child should respond appropriately to a pretend activity compared with most other children of the same culture.\n\nGaze monitoring\n\nThe assessment of normal gaze monitoring, suggested by Baron-Cohen and colleagues, consists of the following steps: (1) the clinician calls the child's name, points to a toy on the other side of the room, and says, \"Oh look! There's a [name a toy]!\";  (2) if the child looks across the room to see the item indicated by the clinician, then a joint attention is established, indicating normal gaze monitoring.\n\nProtodeclarative pointing\n\nBaron-Cohen and colleagues established the following protocol to assess for the presence of protodeclarative pointing:\n\nSay to the child, \u201cWhere's the light?\u201d or \u201cShow me the light\u201d\n\nA normal response is for the child to point with his or her index finger at the light while looking up at the clinician's face \n\nIf the child does not respond appropriately, the procedure may be repeated with a teddy bear or any other unreachable object\n\nExecutive function\n\nDeficits in executive function have been generally observed in people with ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which body movement findings are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "Clumsiness, awkward walk, and abnormal motor movements are characteristic features of ASD. Manifestations of attention deficit hyperactivity disorder that are very often associated with ASD include hyperkinesis and stereotypies.\n\nCommon abnormal motor movements in children with ASD include hand flapping, in which the upper extremity is rapidly raised and lowered with a flaccid wrist so that the hand flaps like a flag in the wind. Hand flapping typically occurs when the child is happy or excited. It may occur in combination with movement of the entire body, such as bouncing (ie, jumping up and down) and rotating (ie, constantly spinning around a vertical axis in the midline of the body).\n\nChildren with ASD also often display motor tics and are unable to remain still. Because children with ASD are often intellectually impaired and nonverbal, expressing subjective experiences associated with the movement is often impossible for them. Thus, the diagnosis of akathisia cannot be applied in these cases, because this diagnosis requires the verbalization of a sensation of inner restlessness and an urge to move.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which physical findings of the head and hands are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "Aberrant palmar creases and other dermatoglyphic anomalies are more common in children with ASD.\n\nAlthough the head circumference of children with ASD may be small at birth, many children with autism spectrum disorder experience a rapid increase in the rate of growth from age 6 months to 2 years.  The head circumference is increased in a subgroup of approximately one fifth of the population of children with ASD without known comorbid conditions.  Increased head circumference is more common in boys and is associated with poor adaptive behavior. The head circumference may return to normal in adolescence.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How are movements assessed in the physical exam for autism spectrum disorder (ASD)?",
+        "Answer": "Patients with ASD merit a careful assessment of movements. The caregiver and clinicians may be asked whether the patient shows any unusual motions in the mouth, face, hands, or feet and, if so, may be asked to describe them and how they bother the patient.\n\nThe patient may be asked to sit on the chair with legs slightly apart, feet flat on the floor, and hands hanging supported between the legs or hanging over the knees. The patient may be asked to open his or her mouth and then twice to stick out the tongue.\n\nIf the subject does not perform the requested action, the examiner then repeatedly performs the actions in the direct view of the subject to demonstrate the desired actions.\n\nThe patient may be asked to sit, stand, and lie on a sheet on the floor for 2 minutes in each position and to remain motionless while in each posture. In each position, the patient is asked, \"Do you have a sensation of inner restlessness?\" and \"Do you have the urge to move?\" These questions require an appropriate developmental level for a useful response. Therefore, most children with ASD cannot respond appropriately.\n\nIn the absence of a clear verbal response, the subjective items are not rated. Nevertheless, the objective behavior of the child can be observed and rated.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How are stereotypies in the physical exam for autism spectrum disorder (ASD)?",
+        "Answer": "Movements observed in individuals with ASD are frequently classified as stereotypies (eg, purposeless, repetitive, patterned motions, postures, and sounds). Stereotypies are divided into the following 3 topologic classes:\n\nOrofacial - Eg, tongue, mouth, and facial movements; smelling; and sniffing and other sounds\n\nExtremity - Eg, hand, finger, toe, and leg\n\nHead and trunk - Eg, rolling, tilting, or banging of the head, and rocking of the body\n\nStereotypies occur in infants with ASD and in children with intellectual disability. Regular assessment of stereotypies is a valuable practice because stereotypies may bother other people and interfere with performance at school, work, and home. Routine assessment of stereotypies before, during, and after treatment is valuable in determining the effects of interventions.\n\nStereotypies are assessed for clinical purposes through regular use of the Timed Stereotypies Rating Scale. For this procedure, the occurrence of stereotypies is noted during 30-second intervals over a 10-minute period.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which self-injurious behaviors are characteristic of autism spectrum disorder (ASD)?",
+        "Answer": "A particularly serious form of stereotypy is self-injurious behavior. Self-injury may take any of the following forms:\n\nPicking at the skin\n\nSelf-biting\n\nHead punching and slapping\n\nHead-to-object and body-to-object banging\n\nBody punching and slapping\n\nPoking the eye, the anus, and other body parts\n\nLip chewing\n\nRemoval of hair and nails\n\nTeeth banging\n\nSelf-injury can result in morbidity and mortality. For example, eye poking and head banging may cause retinal detachments resulting in blindness. Although only a minority of the population of children with ASD manifest self-injury, they constitute some of the most challenging patients in developmental pediatrics.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which physical findings are characteristic of physical abuse in children with autism spectrum disorder (ASD)?",
+        "Answer": "Children with ASD and related conditions may persist incessantly with repetitive behaviors that annoy others, despite instructions to cease. Children with ASD typically do not respond to spanking and other forms of traditional discipline. Parents, teachers, and others may eventually lose control and inflict physical injury on the child.\n\nFor this reason, children with ASD are at high risk for physical abuse; in addition, when physical abuse occurs, these children may not report it. Therefore, pediatricians and other healthcare providers must maintain a high level of suspicion for the possibility of physical abuse when assessing children with ASD and must conduct regular, careful physical examinations.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which physical findings are characteristic of sexual abuse in children with autism spectrum disorder (ASD)?",
+        "Answer": "Unlike many other children with intellectual disability, children with ASD are typically physically normal in appearance, without dysmorphic features. They may be beautiful children and, thus, may attract the interest of those who are sexually aroused by children. Children with ASD may lack ability to communicate inappropriate sexual contact to responsible authorities.\n\nThus, parents, teachers, health-care providers, and others must maintain a high level of suspicion for the possibility of sexual abuse when assessing children with ASD. On physical examination, external examination of genitalia is appropriate. If bruises and other evidence of trauma are present, then pelvic and rectal examinations may be indicated.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How prevalent is autism spectrum disorder (ASD) among siblings?",
+        "Answer": "Siblings of children with ASD are at risk for developing traits of autism spectrum disorder and even a full-blown diagnosis of ASD. A tenth of the siblings of children with ASD meet the diagnostic criteria for ASD. An additional fifth of siblings of children with ASD have delayed development of language.  Screening should be performed not only for autism-related symptoms but also for language delays, learning difficulties, social problems, and anxiety or depressive symptoms.   The American College of Medical Genetics and Genomics identified the risks of a siblings developing ASD as 4% if the proband is male, 7% if the proband is female, and greater than or equal to 30% if there are two or more affected children. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are the DSM-5 diagnostic criteria for autism spectrum disorder (ASD)?",
+        "Answer": "Criteria for the diagnosis of ASD are included in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), and the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10). \n\nAlthough the criteria for ASD differ between the DSM-5 and the ICD-10, they are both widely accepted and are used around the world by clinicians and researchers.\n\nA discussion of the differences in the criteria for ASD and related conditions in the DSM-5, the ICD-10, and other nomenclatures is beyond the scope of this article. The key point for pediatricians and other clinicians is that the criteria for ASD and related conditions in the DSM-5 and the ICD-10 are presented in an outline form without a discussion of the terms used.\n\nThe DSM-5 and the ICD-10 are poor textbooks of child development and child psychopathology; they do not fully describe the concepts incorporated in the criteria for ASD and related conditions. Therefore, an inexperienced clinician is likely to incorrectly apply the criteria for ASD and related conditions in the DSM-5 and the ICD-10.\n\nThe diagnosis of Autism Spectrum Disorder in DSM-5 has 2 key criteria: \n\nImpairments in social communication and social interaction\n\nA restricted, repetitive range of interests, behaviors, and activities",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Why should patients be referred to autism specialists for a diagnostic evaluation for autism spectrum disorder (ASD)?",
+        "Answer": "To administer tools for the diagnosis of ASD and related conditions in a reliable and valid manner requires extensive training and experience. Therefore, unless they have wide experience with children with ASD and understand the concepts implicit in the diagnostic criteria and rating scales, pediatricians and other clinicians are advised to refer patients with possible ASD to experienced clinicians for definitive diagnostic evaluations.\n\nDelayed diagnosis of ASD and related conditions is a serious problem, because early initiation of treatment increases the likelihood of a favorable outcome. Many parents report raising concerns to their pediatricians about the patient's development in the first months and years and being told only that the child will outgrow the problem.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which screening tests are used to in the diagnostic evaluation for autism spectrum disorder (ASD)?",
+        "Answer": "Procedures are available for diagnostic screening by practicing pediatricians, including the Checklist for Autism in Toddlers (CHAT) and its revisions, the Modified CHAT (MCHAT) and the Quantitative CHAT (QCHAT).  Some items of the CHAT appear to have strong cultural biases that rule out the direct application of this instrument to populations outside the United Kingdom; however, cross-cultural adaptions of CHAT have been prepared. \n\nHowever, the 3 items of the CHAT that are highly predictive of the development of ASD (ie, protodeclarative pointing, gaze monitoring, pretend play) can be quickly assessed by clinicians during well-baby visits (see Presentation for detailed descriptions of these items). Pediatricians can facilitate early diagnosis of ASD and related conditions by performing a screening procedure at every visit, including well-baby check-ups, school examinations, and immunization appointments. \n\nAssessment of motor and self-care skills in children with ASD is recommended to address clumsiness and sensory issues.  If a standardized test to assess sensory processing difficulties is warranted, one of the following tools is recommended: \n\nSensory Processing Measure - For children aged 5-12 years\n\nShort Sensory Profile - For children aged 37 months to 9 years\n\nInfant/Toddler Sensory Profile - For children aged 7-36 months",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are cultural considerations when performing a diagnostic evaluation for autism spectrum disorder (ASD)?",
+        "Answer": "Of note are cultural considerations in the evaluation of a child with possible ASD. Cultural and familial differences exist in expectations regarding eye contact, play, social interaction, and pragmatic use of language. When English is not the family\u2019s primary language, professionals should be conscious of finding ways to communicate effectively with the family, including finding professionals and/or translators who speak the primary language.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which conditions are included in the differential diagnoses of autism spectrum disorder (ASD)?",
+        "Answer": "Other disorders to consider in the differential diagnosis of ASD are as follows:\n\n44,XXX karyotype\n\n47 chromosomes\n\n(7;20) balanced chromosomal translocation\n\nAngelman syndrome\n\nDeletion 1p35\n\nDuplication of bands 15q11-13\n\nExtra bisatellited marker chromosome\n\nHabit disorder\n\nInfantile hydrocephalus\n\nInterstitial deletion of (17)(p11.2)\n\nInv Dup (15)(pter->q13)\n\nLanguage disorder - Mixed, phonologic, receptive, or stuttering\n\nLong Y chromosome\n\nMinamata disease\n\nMoebius syndrome\n\nNonketotic hyperglycinemia (NKH)\n\nPartial 6p trisomy\n\nEpilepsy\n\nInfantile spasms\n\nTourette disorder\n\nTrisomy 22\n\nChildren with lead poisoning may demonstrate neurobehavioral changes. Constipation, abdominal pain, and/or anorexia are common. Lead poisoning in children at risk should be ruled out through appropriate testing.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which conditions are included in the differential diagnoses of autism spectrum disorder (ASD) in children older than 30 months?",
+        "Answer": "Age of onset\nASD manifests in early childhood. For information about individuals with later onset of symptoms consistent with ASD, see the following articles:\n\nChildhood Disintegrative Disorder\n\nRett Syndrome\n\nPervasive Developmental Disorder\n\nMany parents report normal development in their child until age 2 years before noticing the deficits in social and communicative skills.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are the differential diagnoses for Autism Spectrum Disorder?",
+        "Answer": "Anxiety Disorder: Obsessive-Compulsive Disorder\n\nAnxiety Disorder: Trichotillomania\n\nAttachment Disorders\n\nCongenital Rubella Syndrome\n\nCornelia De Lange Syndrome\n\nCri-du-chat Syndrome\n\nDissociative Identity Disorder\n\nDown Syndrome\n\nEmergent Management of Lead Toxicity\n\nFailure to Thrive\n\nFragile X Syndrome\n\nPhysical Child Abuse\n\nPrader-Willi Syndrome\n\nRett Syndrome\n\nWilliams Syndrome",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How are subtypes of autism spectrum disorder (ASD) differentiated?",
+        "Answer": "Several instruments have been developed to diagnose ASD. Administering these tools in a reliable and valid manner requires extensive training and experience. Therefore, unless they have considerable experience with children with ASD and understand the concepts implicit in the diagnostic criteria and rating scales, pediatricians and other clinicians are advised to refer patients with possible ASD  to experienced clinicians for definitive diagnostic evaluations.\n\nExperienced clinicians are able to identify particular deficits in children with ASD and institute effective treatments. Identification of the key dimensions characteristic of ASD may be a more accurate means of distinguishing subtypes of this disorder. \n\nThe utilization of broader criteria for ASD will likely result in innovations in the identification of affected children. There will also likely be further developments in the institution of interventions for this disorder.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of metabolic tests in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Several metabolic abnormalities have been identified in investigations of people with ASD. However, biologic markers for ASD do not yet exist. No blood studies are recommended for the routine assessment of children with ASD",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of neuroimaging in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "There is currently no clinical evidence to support the role of routine clinical neuroimaging in the diagnostic evaluation of ASD, even in the presence of megalencephaly.  Studies of various imaging techniques have yielded inconsistent results, and although characteristic abnormalities have been identified, no single finding is diagnostic.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "When is electroencephalography indicated in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Electroencephalography is useful for ruling out a seizure disorder (present in a third of children with autism spectrum disorder), acquired aphasia with convulsive disorder (Landau-Kleffner syndrome), biotin-responsive infantile encephalopathy, and related conditions.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of psychophysiologic assessment in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Psychophysiologic assessment may be useful to evaluate children with ASD. Children with ASD are not likely to show the response habituation in respiratory period, electrodermal activity, and vasoconstrictive peripheral pulse amplitude response to repeatedly presented stimuli seen in typical children. Children with ASD may also demonstrate auditory overselectivity.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of polysomnography in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Polysomnography may facilitate the diagnosis of treatable comorbid disorders. Most children with ASD have sleep disturbances, including early morning awakening, frequent arousals, and fragmented sleep.  Additionally, children with ASD often display prolonged sleep onset and abnormal sleep architecture. Polysomnography may be useful not only in identifying sleep disorders, but also in demonstrating seizure discharges.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of genetic tests in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Practice guidelines from the American Academy of Neurology and the Child Neurology Society recommend genetic testing (eg, with high-resolution chromosome studies and DNA analysis) for fragile X in children with ASD who meet any of the following criteria: \n\nThe child has an intellectual disability\n\nIntellectual disability cannot be excluded\n\nThere is a family history of fragile X or undiagnosed intellectual disability \n\nDysmorphic features are present",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of MRI in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Magnetic resonance imaging (MRI) studies in patients with ASD yield inconsistent results. However, typical findings include enlargement of the total brain, the total brain tissue, and the lateral and fourth ventricles, along with reductions in the size of the midbrain, the medulla oblongata, the cerebellar hemispheres, and vermal lobules VI and VII.  Although vermal hypoplasia is found in some individuals with ASD, vermal hyperplasia is identified in others. \n\nThe volume of the gray matter is bilaterally decreased in the amygdala, the precuneus, and the hippocampus of people with ASD. Adolescents with ASD have shown greater decreases in the volume of the gray matter of the right precuneus than adults. The volume of the gray matter in the middle-inferior frontal gyrus has been found to be slightly increased in people with ASD. \n\nImaging studies in patients with ASD who exhibit head banging may show enlargement of the diploic space in the parietal and occipital bones, with loss of gray matter adjacent to the bony changes. These findings resemble those of posttraumatic encephalopathy in athletes in contact sports (eg, football, hockey) and professional boxers (dementia pugilistica).\n\nIn one study, MRI performed during the presentation of a bedtime story during natural sleep in children aged 12-48 months provided evidence of atypical hemispheric lateralization for language in toddlers who develop ASD.  Study subjects who developed ASD failed to exhibit the left hemispheric response to spoken language that is typical of normally developing toddlers and instead demonstrated abnormal right temporal cortical responses.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of diffusion tensor imaging in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "On MRI studies, diffusion tensor imaging can provide information about connections among different brain regions. Children with ASD demonstrated higher values for the apparent diffusion coefficient (ADC) in the whole frontal lobe, as well as the long and short association fibers of the frontal lobe. \n\nChildren with ASD and their healthy siblings demonstrate significant reductions in fractional anisotropy (FA) in association, commissural, and projection tracts, in contrast to control groups.  Alterations in FA in the white matter of the frontal, parietal, and temporal lobes suggest an inherited trait characteristic of a vulnerability to develop ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of CT scanning in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Results of computed tomography (CT) studies of the head are inconsistent in patients with ASD. However, they may reveal deficits, including enlargement of the ventricles, hydrocephalus, parenchymal lesions, and reduction in size of the caudate nucleus.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of PET scanning in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Positron emission tomography (PET) scanning reveals multiple deficits, but no finding characterizes all people with ASD, and the results vary with each individual.On 18-fluoro-2-deoxyglucose (FDG) PET scans, the anterior rectal gyrus is larger on the left than the right in some patients, a finding opposite to the asymmetry seen in typical individuals. Some individuals also exhibit an increased glucose metabolic rate in the right posterior calcarine cortex and a decreased glucose metabolic rate in the left posterior putamen and the left medial thalamus. \n\nDecreased dopaminergic neurotransmission occurs in the anterior medial prefrontal cortex of children with ASD.   The dopamine transporter has been reported to be increased in the orbital frontal cortex of adults with ASD and decreased in the striatum of children with ASD. \n\nDecreased serotonin receptors were observed in the thalami of people with ASD and in the cortices of the parents of children with ASD. \n\nIncreased metabotropic glutamate receptor type 5 (mGluR5) was demonstrated in the postcentral gyrus and the cerebellum of men with ASD in contrast to age- and sex-matched healthy controls without ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of SPECT scanning in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Chiron and colleagues found that the normal asymmetry of regional cerebral blood flow (ie, higher in the left hemisphere in right-handed individuals) was lacking in some people with ASD. Tests of regional cerebral blood flow with xenon-133 (133 Xe) revealed left-hemispheric dysfunction, especially in the cortical areas devoted to language and handedness. \n\nRegional cerebral blood flow assessed with technetium-99m (99m Tc) labeled to hexamethylpropyleneamine oxide (HMPAO), a lipophilic substance, in children with ASD demonstrates variable anomalies, including reductions in the vermis, the cerebellar hemispheres, the thalami, the basal ganglia, and the parietal and temporal lobes. These findings suggest that no single abnormality characterizes all individuals with ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of electroencephalography in the workup of autism spectrum disorder (ASD)?",
+        "Answer": "Electroencephalography (EEG) is useful for ruling out seizure disorder (present in a third of children with ASD), acquired aphasia with convulsive disorder (Landau-Kleffner syndrome), biotin-responsive infantile encephalopathy, and related conditions. The American Academy of Neurology and the Child Neurology Society found inadequate evidence to recommend an electroencephalogram (EEG) in all individuals with ASD. \n\nConsultation with an electroencephalographer may help to determine appropriate procedures for individual cases.\n\nA single normal EEG does not rule out a paroxysmal abnormality, such as a seizure disorder. When a routine EEG does not reveal unequivocal evidence of a seizure disorder in a patient who may have one (eg, partial seizures with complex symptomatology), specialized procedures may help to clarify the diagnosis. Measurements of electroencephalographic activity after sleep deprivation and after stimulation with light, noise, and tactile sensations using nasopharyngeal leads, as well as the use of video monitoring simultaneously with electroencephalography, may be helpful in such cases. Neurologic consultation can also be beneficial.\n\nIndications for performing a sleep-deprived EEG with appropriate sampling of slow-wave sleep in patients with ASD are clinical seizures (or suspicion of subclinical seizures) and clinically significant loss of social and communicative function, especially in toddlers and preschoolers. \n\nAdmission to a specialized unit for simultaneous 24-hour video monitoring of electroencephalography and movement of the patient for a few days of assessment may facilitate the establishment of or the exclusion of diagnosis of a paroxysmal disorder. See PET Scanning in Autism Spectrum Disorders for further information.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How is autism spectrum disorder (ASD) treated?",
+        "Answer": "Individual intensive interventions, including behavioral, educational, and psychological components, are the most effective treatments of ASD. Beginning the treatment early in infancy increases the likelihood of a favorable outcome. Thus, regular screening of infants and toddlers for symptoms and signs of ASD is crucial because it allows for early identification of these patients. The American Academy of Pediatrics recommends referral for specialized diagnostic and therapeutic interventions as soon as symptoms or signs of ASD appear. \n\nIndividuals with ASD typically benefit from behaviorally oriented therapeutic programs developed specifically for this population. Children with ASD should be placed in these specialized programs as soon as the diagnosis is entertained.\n\nParents, teachers, pediatricians, and other health care providers are advised to seek the assistance of people who are familiar with early intervention programs for children with ASD. The Autism Society can help parents to obtain appropriate referrals for optimal interventions.\n\nParents understandably become exhausted by the relentless performance of challenging behaviors by their child with ASD. A specially trained educator or behavioral psychologist can help to teach them effective ways to modify these challenging behaviors. Parents also frequently benefit from temporary respite from the child.\n\nThe possible benefits from pharmacotherapy must be balanced against the likely adverse effects on a case-by-case basis. In particular, venlafaxine may increase high-intensity aggression in some adolescents with ASD. \n\nLimited, largely anecdotal evidence suggests that dietary measures may be helpful in some children with ASD. Avoidance of certain foods, notably those containing gluten or casein, and supplementation with specific vitamins and minerals have reportedly proved helpful in select cases.\n\nThe National Autism Center has initiated the National Standards Project, which has the goal of establishing a set of evidence-based standards for educational and behavioral interventions for children with ASD. The project has identified established, emerging, and unestablished treatments. Early identification of children with ASD followed by prompt institution of intensive interventions  facilitates optimal outcomes.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "When is inpatient psychiatric care indicated for autism spectrum disorder (ASD)?",
+        "Answer": "In December 2015, an expert panel released 11 consensus statements on best practices for inpatient care of children with ASD. The panel recommends that children with ASD or intellectual disability (ID) can be treated in general inpatient psychiatric units, with specific accommodations. The recommendations also set out the information that should be obtained from children on admission, including the child's preferences, means of communication, reinforcement items, and sensory sensitivities. Also emphasized is the importance of screening for co-occurring medical and psychiatric conditions.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of special education in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Special education is central to the treatment of ASD. Although parents may choose to use various experimental treatments, including medication, they should concurrently use intensive individual special education by an educator familiar with instructing children who have ASD or a related condition. Intensive behavioral interventions, instituted as early as possible, are indicated for every child in whom ASD is suspected. \n\nThe Education for All Handicapped Children Act of 1975 requires free and appropriate public education for all children, regardless of the extent and severity of their handicaps. Amendments to the Education of the Handicapped Act of 1986 extended the requirement for free and appropriate education to children aged 3\u20135 years.\n\nPediatricians and parents cannot assume, however, that their community\u2019s school will provide satisfactory education for a child with ASD or a related condition. The Individuals with Disabilities Education Act authorized states to determine how to provide educational services to children younger than 3 years. Pediatricians and parents need to determine the best way to proceed with local agencies.\n\nLegal assistance may be necessary to influence a board of education to fund appropriate education for a child with ASD or a related condition. The Autism Society maintains a Web site and offers a toll-free hotline (1-800-3-AUTISM/1-800-328-8476). This resource provides information and referral services to the public.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which types of speech, occupational and physical therapies are used in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Therapies that are reported to help some individuals with autism spectrum disorder include the following:\n\nAssisted communication - Using keyboards, letter boards, word boards, and other devices (eg, the Picture Exchange Communication System  ), with the assistance of a therapist\n\nAuditory integration training - A procedure in which the individual listens to specially prepared sounds through headphones\n\nSensory integration therapy - A treatment for motor and sensory motor problems typically administered by occupational therapists\n\nExercise and physical therapy - Exercise is often therapeutic for individuals with autistic disorder; a regular program of activity prescribed by a physical therapist may be helpful\n\nIn addition, social skills training helps some children with ASD, including those with comorbid anxiety disorders. \n\nIn a 2-year randomized, controlled trial, children who received the Early Start Denver Model (ESDM), a comprehensive developmental behavioral intervention for improving outcomes of toddlers diagnosed with ASD, showed significant improvements in IQ, adaptive behavior, and autism diagnosis compared with children who received intervention commonly available in the community.  A follow-up electroencephalographic study showed normalized patterns of brain activity in the ESDM group.151 Starting intervention at an earlier age and providing a greater number of intervention hours both related to the degree of improvement in children's behavior. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of CBT in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Cognitive behavior therapy (CBT) is a technique that has been valuable for people with anxiety disorders, including social anxiety disorder. Individuals with ASD and social anxiety underwent CBT to address negative thoughts and social situations provoking anxiety to develop effective behavioral techniques. CBT represents a promising psychological treatment for people with ASD and social anxiety. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of family therapy in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Living with a person with ASD can be stressful for family members. Talking therapy to ameliorate conflicts among people with ASD and other family members has been reported to be beneficial to people with ASD and to family members. Research is needed to assess family therapy for people with ASD.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which dietary modifications are used in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "When compared with their typically developing (TD) peers, children with ASD are significantly more likely to experience GI problems and food allergies. According to one study, children with ASD were 6 to 8 times more likely to report frequent gas/bloating, constipation, diarrhea, and sensitivity to foods than TD children. Researchers also discovered a link between GI symptoms and maladaptive behavior in children with ASD. When these children had frequent GI symptoms, they showed worse irritability, social withdrawal, stereotypy, and hyperactivity compared with those without frequent symptoms. \n\nIndividuals with or without ASD need 3 well-balanced meals daily. Dietary consultation may be useful to evaluate the benefits of special diets, including those lacking gluten and casein. Vitamin B-6 and magnesium are among the vitamins and minerals hypothesized to help some patients. \n\nIn a randomized, double-blind, placebo-controlled trial, 3 months of treatment with a vitamin/mineral supplement produced statistically significant improvement in the nutritional and metabolic status of children with ASD. In addition, the supplement group had significantly greater improvements than did the placebo group in its Parental Global Impressions-Revised (PGI-R) Average Change scores. \n\nAdditionally, preclinical and clinical studies indicate that dietary phenols alleviate symptoms of ASD. ",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the efficacy of medications for the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Although 70% of children with ASD receive medications, only limited evidence exists that the beneficial effects outweigh the adverse effects.  No pharmacologic agent is effective in the treatment of the core behavioral manifestations of ASD, but drugs may be effective in treating associated behavioral problems and comorbid disorders. \n\nThe second-generation antipsychotic agents risperidone and aripiprazole provide beneficial effects on challenging and repetitive behaviors in children with ASD, although these patients may experience significant adverse effects.  Risperidone and aripiprazole have been approved by the US Food and Drug Administration (FDA) for irritability associated with ASD. The second-generation antipsychotic agent ziprasidone may help to control aggression, irritability, and agitation. \n\nSerotonergic drugs are reportedly beneficial for improving behavior in ASD. Hyperactivity often improves with methylphenidate therapy.\n\nAdditionally, treatments may be indicated for an underlying condition. For example, children with biotin-responsive infantile encephalopathy improve with the addition of biotin.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of SSRIs in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Selective serotonin reuptake inhibitors (SSRIs) are widely prescribed for children with ASD and related conditions. Beneficial effects on children and adolescents with ASD have been reported with fluoxetine,  escitalopram,  and citalopram. \n\nOn the other hand, a multicenter, randomized, controlled trial by King and colleagues in 149 children with ASD found no difference between citalopram and placebo among children rated as much improved or very much improved. Participants in the treatment arm received liquid citalopram daily for 12 weeks at a mean maximum daily dose of 16.5 mg (maximum 20 mg). Nearly all the citalopram recipients reported adverse effects (eg, impulsiveness, hyperactivity, diarrhea).",
+        "Source": "medscape"
+    },
+    {
+        "Question": "How is serotonin syndrome treatment in autism spectrum disorder (ASD)?",
+        "Answer": "Children with ASD are at risk of developing a serotonin syndrome when treated with serotonergic agents. Therefore, children who are treated with serotonergic agents should be evaluated at baseline before beginning treatment and then regularly evaluated for symptoms of a serotonin syndrome using the serotonin syndrome checklist. See the image below for a printable version",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are the possible adverse effects of medications used in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Children with ASD appear sensitive to medication and may experience serious adverse effects that outweigh any beneficial effects. For example, children may develop catatonia when treated with haloperidol and other traditional neuroleptics.  Additionally, Kem et al noted priapism in an adolescent with ASD who was treated with trazodone. \n\nPractice guidelines from the American Academy of Pediatrics stress the importance of having some quantifiable means of assessing the efficacy of medication used for the treatment of children with ASD. Validated, treatment-sensitive rating scales that have been used in clinical practice to measure the effects of treatment on maladaptive behavior include the Clinical Global Impression Scale, the Aberrant Behavior Checklist, and the Nisonger Child Behavior Rating Form.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of secretin therapy in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Various interventions, including chiropractic manipulations, are reported to help with ASD. The results of individual case reports, however, cannot be generalized to the overall population; scientific research is needed to investigate whether treatments truly are generally helpful.\n\nTranscranial magnetic stimulation\nRepetitive transcranial magnetic stimulation has been reported to alleviate repetitive behaviors and improve social functioning in ASD. \n\nSecretin therapy\nSeveral anecdotal reports suggested that secretin, a gastrointestinal hormone that may function as a neurotransmitter, was an effective intervention for the symptoms of ASD. This led to several scientific studies of secretin for children with ASD.  However, 2 reviews of these trials failed to demonstrate that secretin had a beneficial effect on these children. \n\n",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of hyperbaric oxygen therapy in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Beneficial effects from hyperbaric oxygen therapy have been reported in 6 patients with ASD. The risks of this procedure must be weighed against the benefits for individual patients. Controlled clinical trials and other studies are needed to confirm the potential value of this intervention.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of intranasal oxytocin in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "Research suggests that administration of a single intranasal dose of the hormone oxytocin increases activity in brain regions associated with reward, social perception, and emotional awareness and temporarily improves social information processing in children with ASD. \n\nIn the study of 17 high-functioning children and adolescents with ASD, brain centers associated with reward and emotion recognition responded more during social tasks when children received oxytocin instead of a placebo.\n\nAlthough behavioral studies in children and adults suggest that a single dose of intranasal oxytocin improves social interaction and comprehension of affective speech, results from clinical trials examining the effect of daily administration of the drug have been mixed.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which specialist consultations are beneficial to patients with autism spectrum disorder (ASD)?",
+        "Answer": "Neuropsychological consultation can be helpful to assess intelligence. Deficits in simple and complex problem-solving tasks (verbal and nonverbal), are likely to be demonstrated on the following tests:\n\nWisconsin Card Sorting Test\n\nTrail Making Test\n\nStanford-Binet Intelligence Test\n\nOther consultations include the following:\n\nOphthalmologic consultation - May be indicated to rule out a treatable visual deficit; special lenses are reported to help some individuals with ASD.\n\nNeurologic consultation with a movement disorder specialist - Indicated to evaluate tics and other movement disorders when present\n\nInfectious disease consultation - May be helpful to rule out bacterial or fungal infections\n\nMetabolic consultation - May help to identify any deficiencies\n\nImmunologic consultation - May be useful to rule out immune abnormalities. The possible benefits of experimental treatments, such as intravenous (IV) immunoglobulin therapy, must be weighed against the risks of experimental treatments\n\nOtolaryngologic consultation - May be indicated to rule out deficits in the auditory apparatus; additionally, audiography is indicated to rule out hearing deficits",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What are the AACAP guidelines on the assessment and treatment of autism spectrum disorder (ASD)?",
+        "Answer": "The American Academy of Child and Adolescent Psychiatry's practice guidelines for the assessment and treatment of children and adolescents with ASD include the following recommendations: \n\nQuestions about core symptoms of ASD should be a routine part of psychiatric and developmental assessments of young children. \n\nIf screening reveals significant ASD symptomatology,   a thorough evaluation should be performed and possible comorbid diagnoses should be considered.\n\nChildren with ASD should undergo a multidisciplinary assessment, including a physical examination, a hearing screen, communication and psychological tests, and genetic testing.\n\nClinicians should help families obtain educational and behavioral interventions, such as applied behavioral analysis (ABA) programs.\n\nPharmacotherapy should be offered for specific target symptoms or comorbid conditions.\n\nClinicians should maintain an active role in the planning of long-term treatment.\n\nFamilies should be asked about the use of alternative/complementary treatments.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "What is the role of medications in the treatment of autism spectrum disorder (ASD)?",
+        "Answer": "The established therapies for ASD are nonpharmacologic. These therapies may include behavioral, educational, and psychological treatment. No pharmacologic agent is effective in the treatment of the core behavioral manifestations of ASD. However, medication may be effective in the treatment of comorbid disorders, including self-injurious behaviors and movement disorders.\n\nSimultaneous treatment with two or more antipsychotics may be beneficial to treat agitation/irritability, physical aggression, and self-injurious behaviors of patients with ASD, particularly moderately to severely ill males with ASD and intellectual disability. Generally these treatment regimens are well tolerated without serious adverse events.",
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which medications in the drug class Alpha-2-adrenergic agonists are used in the treatment of Autism Spectrum Disorder?",
+        "Answer": [
+            {
+                "class_summary": "Alpha-2-adrenergic agonists may facilitate the management of inattention, hyperactivity, and impulsivity in children with ASD."
+            },
+            {
+                "clonidine": {
+                    "description": "Clonidine stimulates alpha-2-adrenoreceptors in the brain stem, activating an inhibitory neuron, which in turn results in reduced sympathetic outflow. These effects result in a decrease in vasomotor tone and heart rate. May aid in the treatment of aggression in children and adolescents.",
+                    "brands": [
+                        "Catapres",
+                        "Catapres-TTS",
+                        "Kapvay"
+                    ]
+                }
+            },
+            {
+                "guanfacine": {
+                    "description": "Guanfacine, an alpha-2-adrenergic agonist, may preferentially bind postsynaptic alpha-2A adrenoreceptors in the prefrontal cortex, and this preferential binding may improve delay-related firing of prefrontal cortex neurons. As a result, guanfacine may affect behavioral inhibition. It has been used off label to reduce hyperactivity in children.",
+                    "brands": [
+                        "Intuniv"
+                    ]
+                }
+            }
+        ],
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which medications in the drug class Stimulants are used in the treatment of Autism Spectrum Disorder?",
+        "Answer": [
+            {
+                "class_summary": "Stimulants may be effective for treating hyperactivity associated with ASD. The magnitude of response, however, is less than that seen in developmentally normal children with attention deficit hyperactivity disorder."
+            },
+            {
+                "methylphenidate": {
+                    "description": "Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space. Methylphenidate is a racemic mixture composed of the d- and l-enantiomers. The d-enantiomer is more pharmacologically active than the l-enantiomer.",
+                    "brands": [
+                        "Ritalin",
+                        "Quillivant XR",
+                        "Ritalin LA",
+                        "Concerta"
+                    ]
+                }
+            }
+        ],
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which medications in the drug class SSRI Antidepressants are used in the treatment of Autism Spectrum Disorder?",
+        "Answer": [
+            {
+                "class_summary": "SSRIs are widely prescribed for children with ASD. These agents are used off-label to help with intractable repetitive behaviors, such as compulsion."
+            },
+            {
+                "fluoxetine": {
+                    "description": "Fluoxetine selectively inhibits presynaptic serotonin reuptake, with minimal or no effect on the reuptake of norepinephrine and dopamine.",
+                    "brands": [
+                        "Prozac"
+                    ]
+                }
+            },
+            {
+                "citalopram": {
+                    "description": "Citalopram enhances serotonin activity by selective reuptake inhibition of serotonin at the neuronal membrane. Dose-dependent QT prolongation has been reported with citalopram. This agent is contraindicated in patients with congenital long QT syndrome.",
+                    "brands": [
+                        "Celexa"
+                    ]
+                }
+            },
+            {
+                "escitalopram": {
+                    "description": "Escitalopram is an S-enantiomer of citalopram. The mechanism of action is thought to be potentiation of serotonergic activity in the central nervous system (CNS), resulting from the inhibition of CNS neuronal reuptake of serotonin.",
+                    "brands": [
+                        "Lexapro"
+                    ]
+                }
+            }
+        ],
+        "Source": "medscape"
+    },
+    {
+        "Question": "Which medications in the drug class Second-Generation Antipsychotics are used in the treatment of Autism Spectrum Disorder?",
+        "Answer": [
+            {
+                "class_summary": "The atypical antipsychotic agents risperidone and aripiprazole have been approved by the FDA for irritability associated with ASD."
+            },
+            {
+                "risperidone": {
+                    "description": "Risperidone is an atypical antipsychotic agent that is indicated for irritability associated with ASD in children and adolescents aged 5-16 years. Risperidone is a mixed serotonin-dopamine antagonist that binds to 5-HT2 with very high affinity and binds to the dopamine D2 receptor with less affinity. Affinity for the dopamine D2 receptor is 20 times lower than that for the 5-HT2 receptor. Risperidone is FDA approved for irritability and aggression in children with ASD, 5 years and older. The combination of serotonin antagonism and dopamine antagonism is thought to improve negative symptoms of psychoses and reduce the incidence of extrapyramidal side effects in comparison with conventional antipsychotics.",
+                    "brands": [
+                        "Risperdal",
+                        "Risperdal Consta",
+                        "Risperdal M-Tab"
+                    ]
+                }
+            },
+            {
+                "aripiprazole": {
+                    "description": "Aripiprazole is indicated for irritability associated with ASD in children and adolescents aged 6-17 years. Aripiprazole is thought to be a partial dopamine (D2) and serotonin (5-HT1A) agonist, and to antagonize serotonin (5-HT2A). Aripiprazole is available as a tablet, an orally disintegrating tablet, or an oral solution.",
+                    "brands": [
+                        "Abilify",
+                        "Abilify MyCite"
+                    ]
+                }
+            },
+            {
+                "ziprasidone": {
+                    "description": "Ziprasidone, a second-generation antipsychotic drug, is used off-label to treat serious behavior disorders associated with ASD, such as self-injurious behavior. It elicits its effects through antagonism of D2, D3, 5-HT2A, 5-HT2C, 5-HT1A, 5-HT1D, and alpha1-adrenergic receptors. In addition, it has a moderate antagonistic effect for histamine H1. It moderately inhibits the reuptake of serotonin and norepinephrine.",
+                    "brands": [
+                        "Geodon"
+                    ]
+                }
+            }
+        ],
+        "Source": "medscape"
+    },
+    {
+        "Question": "My daughter is 2 years old and was recently diagnosed with autism. I have some family members who keep insisting she\u2019s just delayed. Can you give me any suggestions for how to respond to them",
+        "Answer": "Your situation is very common in families of children diagnosed with special needs most especially autism. There are so many emotional processes that are occurring for the family as a unit and for each family member individually after getting this diagnosis. Of course there is the initial shock that can send you spiraling into a true grieving process and each of you in the family will work through this in your own time frame. Part of that process includes a stage of denial as particularly seen from family members who aren\u2019t living with your child day-to-day. It\u2019s probable that it will take them longer to come to terms with the diagnosis. In addition to everything else you are doing you must also remain patient for this to happen. Family members who love your child will benefit most from learning about autism so they can adapt their interactions and expectations to more appropriate levels. There are also professionals and effective support groups in your community who have a lot of experience and expertise in understanding this process. They may be able to provide you and your extended family with assistance.",
+        "Source": "parent_guid"
+    },
+    {
+        "Question": "My husband refuses to accept the diagnosis and will not attend appointments with our doctor. What can I do",
+        "Answer": "This is not uncommon where one parent accepts the diagnosis and the other is in denial. Denial happens both to fathers and mothers. As difficult as it may be for you at a time like this you must be patient and supportive. Your spouse will eventually work through his or her denial. Meanwhile you might try to recommend a book or share an article about autism but be careful not to pressure. Most people need to do this on their own terms.",
+        "Source": "parent_guid"
+    },
+    {
+        "Question": "Since my son was diagnosed I\u2019ve felt overwhelmed and I can\u2019t even bring myself to read anything about autism",
+        "Answer": "Being an advocate for your child with autism will most likely be a lifelong activity. Early on when faced with the diagnosis parents are easily overwhelmed by the news. They feel confused fearful and angry. Many tire easily as they try to cope. It is helpful to remember that you are not alone that others are going through this so there is support available for you. Keep a folder of articles and other information material so that when you are able to read it you will have it available. Pace yourself and in time you will do what needs to be done and your efforts over time will make a difference",
+        "Source": "parent_guid"
+    },
+    {
+        "Question": "My family\u2019s involvement in church is important to us. How do I get my church to be more accepting of my son",
+        "Answer": "For many people including those members of your church autism is not something they may have experience with or adequate information about so you must help educate them. A good place to start is with your pastor or minister. See what he or she knows and offer information as needed. Sometimes a leader will incorporate the related issues into a sermon or lesson. He or she can also suggest folks who can be approached as more open to learning about autism. Then suggest the church invite a professional to do a workshop on special needs children with emphasis on the challenges associated with autism. Suggest the church develop a plan to accommodate special needs children in their various activities such as the Sunday school classes the worship service the choir etc. At some point it may be helpful to bring in a behavioral specialist to work with and train the staff. It may mean asking teachers parents and other trained professionals in the church to volunteer time helping out in Sunday school modifying the lessons etc. Get your community involved and they will thank you later!Once members of your congregation are given accurate information they will become more open and supportive. You may have to suggest ways they can become involved with your child and with advocacy organizations. There are so many opportunities for the religious community to get involved and to partner with parents. As advocates parents have a unique opportunity to lead the charge.",
+        "Source": "parent_guid"
+    },
+    {
+        "Question": "How do I know everything possible is being done for my child? Sometimes it seems like not enough progress is being made",
+        "Answer": "Almost daily every parent with a child with autism asks this question: is there more that can be done to help my child? We work as hard as we can yet very often we feel as though we aren\u2019t doing enough. It is also easy for us to project this on to others involved in our child\u2019s life. In fact historically not enough has been done and in many ways more should be done in today\u2019s world. This is what advocacy is all about. We must continue to push for the best treatments and services available",
+        "Source": "parent_guid"
+    },
+    {
+        "Question": "Is there any financial assistance available to assist in the care and education for our child with autism",
+        "Answer": "Financial difficulty is one of the biggest stressors that families with special needs children face. There seems to never be enough funding or financial help available and each family often finds that their own resources are stretched by providing for their child with little hope of reimbursement for all that gets spent.The primary funding source for your child\u2019s services is mandated through a United States federal law the Individuals with Disabilities Education Act (IDEA). IDEA governs how states and public agencies provide early intervention special education and related services to children with disabilities. In addition your family\u2019s medical insurance may reimburse you for autism services such as speech therapy or behavioral health treatment such as Applied Behavior Analysis. Start by speaking with the human resources department where you or your spouse work and inquire about insurance reimbursement for autism services. Many states now have government agencies monitoring the health insurance industry so this can be a back-up resource to explore benefits as needed. Continuing to advocate for increased funding by the government and by the insurance industry is important. For more information about autism insurance reform in your state visit the Autism Speaks website.",
+        "Source": "parent_guid"
+    },
+    {
+        "Question": "My wife and I worry that over time our other children will develop deep resentments for all the attention and \u201cspecial treatment\u201d their brother gets and this could negatively impact their lives. Do you have any suggestions for raising our other children so they don\u2019t feel resentment",
+        "Answer": "Sibling rivalry occurs in all families with more than one child and it can be especially complex when it involves a child with special needs. There is no way to avoid giving some extra attention and treatment to a child with autism. For siblings of children with autism these feelings may develop early because the children may be together all the time. Constantly checking in with your other children about how they are doing what they need etc. is a good start. Finding time to be with each child individually also helps immensely when possible. Involving grandparents aunts uncles trusted neighbors etc. may help as well. Children at various ages have the capacity to understand the special needs of someone else if you take the time to explain in terms they will understand. Explain behaviors they see in their brother or sister and why you respond differently to deal with these situations. While you don\u2019t want them to become surrogate parents they do need to know some basic explanations. Also creating a safe space for them to talk about their feelings with you or with others can prevent later development of toxic resentments. Helping your other children find successful ways to play or interact with their brother or sister is powerful. Siblings may sometimes feel guilty because they do feel resentment and anger or even just because they are \u201cnormal\u201d while their brother or sister is not. Guilt and resentment are normal growing up issues made more complex often because of a special needs sibling. But like any feeling they can be talked about and processed so that your other children move forward in their own emotional development and life journeys.",
+        "Source": "parent_guid"
+    }
+]
