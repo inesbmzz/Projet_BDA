@@ -137,4 +137,3 @@ FROM
     Centers ctr
 JOIN Cities cty ON ctr.cityId = cty.CityID
 JOIN Countries cnt ON cty.CountryID = cnt.CountryID;
-

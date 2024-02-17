@@ -83,5 +83,5 @@ BEGIN
   END IF;
 END;
 /
-TRUNCATE TABLE autism_screening;
+
 SELECT * FROM autism_screening;
