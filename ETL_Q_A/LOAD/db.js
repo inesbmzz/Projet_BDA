@@ -2,6 +2,12 @@
 const {db_uri, db_name} = require('./config');
 const { MongoClient } = require('mongodb');
 
+async function performDatabaseOperations() {
+  // Simulate asynchronous database operations
+  await new Promise(resolve => setTimeout(resolve, 5000));
+  console.log('Database operations completed');
+}
+
 const client = new MongoClient(db_uri);
 
 module.exports = {
@@ -22,11 +28,11 @@ module.exports = {
   close: async function () {
     try {
       await client.close();
-      console.log('Disconnected from MongoDB');
     } catch (err) {
       console.error('Error closing MongoDB', err);
     } finally {
-      process.exit(0);
+      await performDatabaseOperations();
+      // process.exit(0);
     }
   }
 };

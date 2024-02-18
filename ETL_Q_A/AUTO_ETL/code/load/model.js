@@ -14,5 +14,10 @@ module.exports = {
     const db = dbConfig.getDb();
     const result = await db.collection(collectionName).insertMany(questions);
     console.log(`Successfully done : ${result.insertedCount}`)
-  }
+  },
+  deleteAll: async function () {
+    const db = dbConfig.getDb();
+    await db.collection(collectionName).deleteMany({});
+    console.log("Deleted all");
+  },
 };

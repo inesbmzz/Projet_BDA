@@ -37,7 +37,7 @@ describe('Database Tests', () => {
   
 });
 
-describe('Metadata Tests', () => {
+describe('Metadata and quality Tests', () => {
     it('document format', async () => {
         // Query the collection to retrieve documents
         const documents = await db.collection(db_name).find({}).toArray();
@@ -71,3 +71,4 @@ afterAll(async () => {
   //await db.dropDatabase();    // Drop if a virtual dataset
   await client.close();
 });
+

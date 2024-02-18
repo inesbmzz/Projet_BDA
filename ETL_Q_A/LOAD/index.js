@@ -14,16 +14,10 @@ dbConfig.connect();
 // questionModel.insertQuestion(newQuestion);
 questionModel.deleteAll();
 questionModel.insertManyQuestions(data);
-questionModel.disconnect()
-            .then(() => {
-              console.log('Connection to MongoDB closed');
-              // Exit the Node.js process
-              process.exit(0);
-            })
-            .catch(err => {
-              console.error('Error:', err);
-              // Exit the Node.js process with an error code
-              process.exit(1);
-            })
-            ;
-// dbConfig.close();
+
+
+dbConfig.close();
+
+
+
+
