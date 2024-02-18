@@ -207,5 +207,3 @@ INSERT INTO Centers (name, latitude, longitude, address, cityId) VALUES ('BadLon
 INSERT INTO Centers (name, latitude, longitude, address, cityId) VALUES ('BadLong', 0, 181, T_ADRESSE('','','','','',''), 1);
 
 
-
-

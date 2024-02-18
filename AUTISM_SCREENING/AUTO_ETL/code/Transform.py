@@ -37,6 +37,6 @@ data = data[data['age'] <= 150]
 
 # Save the transformed data to CSV
 print("Saving transformed data to CSV...")
-data.to_csv("Autism_test_clean.csv", index=False)
+data.to_csv("Autism_test_clean.csv", index=False, header=False)
 
 

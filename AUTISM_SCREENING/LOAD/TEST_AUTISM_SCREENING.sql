@@ -13,7 +13,7 @@ DECLARE
   v_A8_Score NUMBER(1) := 0;
   v_A9_Score NUMBER(1) := 0;
   v_A10_Score NUMBER(1) := 1;
-  v_age FLOAT := 21;
+  v_age NUMBERS := 21;
   v_gender CHAR(1) := 'f';
   v_ethnicity VARCHAR2(50) := 'Test Ethnicity';
   v_jaundice VARCHAR2(3) := 'no';

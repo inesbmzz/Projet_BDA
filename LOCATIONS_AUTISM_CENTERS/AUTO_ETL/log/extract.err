@@ -1,0 +1,75 @@
+Traceback (most recent call last):
+  File "F:\ESI\2CS_SID\S1\BDA\Projet_BDA\Projet_BDA\LOCATIONS_AUTISM_CENTERS\AUTO_ETL\code\Extract.py", line 45, in <module>
+    modal_info_block_content = [el.text.strip() for el in modal_info_block.find_elements(By.CLASS_NAME, 'card-info__info-clinic')]
+  File "F:\ESI\2CS_SID\S1\BDA\Projet_BDA\Projet_BDA\LOCATIONS_AUTISM_CENTERS\AUTO_ETL\code\Extract.py", line 45, in <listcomp>
+    modal_info_block_content = [el.text.strip() for el in modal_info_block.find_elements(By.CLASS_NAME, 'card-info__info-clinic')]
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\webelement.py", line 90, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)["value"]
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF779837012+3522402]
+	(No symbol) [0x00007FF779458352]
+	(No symbol) [0x00007FF779305ABB]
+	(No symbol) [0x00007FF7792E287C]
+	(No symbol) [0x00007FF779375D97]
+	(No symbol) [0x00007FF77938B3CF]
+	(No symbol) [0x00007FF77936EE03]
+	(No symbol) [0x00007FF77933F4D4]
+	(No symbol) [0x00007FF7793405F1]
+	GetHandleVerifier [0x00007FF779869B9D+3730157]
+	GetHandleVerifier [0x00007FF7798BF02D+4079485]
+	GetHandleVerifier [0x00007FF7798B75D3+4048163]
+	GetHandleVerifier [0x00007FF77958A649+718233]
+	(No symbol) [0x00007FF779464A3F]
+	(No symbol) [0x00007FF77945FA94]
+	(No symbol) [0x00007FF77945FBC2]
+	(No symbol) [0x00007FF77944F2E4]
+	BaseThreadInitThunk [0x00007FFAC70F257D+29]
+	RtlUserThreadStart [0x00007FFAC84EAA58+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\ESI\2CS_SID\S1\BDA\Projet_BDA\Projet_BDA\LOCATIONS_AUTISM_CENTERS\AUTO_ETL\code\Extract.py", line 51, in <module>
+    print(f"Error in Card: {card.get_attribute('index')}")
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\webelement.py", line 178, in get_attribute
+    attribute_value = self.parent.execute_script(
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 407, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python\anaconda\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF779837012+3522402]
+	(No symbol) [0x00007FF779458352]
+	(No symbol) [0x00007FF779305ABB]
+	(No symbol) [0x00007FF7792E287C]
+	(No symbol) [0x00007FF779375D97]
+	(No symbol) [0x00007FF77938B3CF]
+	(No symbol) [0x00007FF77936EE03]
+	(No symbol) [0x00007FF77933F4D4]
+	(No symbol) [0x00007FF7793405F1]
+	GetHandleVerifier [0x00007FF779869B9D+3730157]
+	GetHandleVerifier [0x00007FF7798BF02D+4079485]
+	GetHandleVerifier [0x00007FF7798B75D3+4048163]
+	GetHandleVerifier [0x00007FF77958A649+718233]
+	(No symbol) [0x00007FF779464A3F]
+	(No symbol) [0x00007FF77945FA94]
+	(No symbol) [0x00007FF77945FBC2]
+	(No symbol) [0x00007FF77944F2E4]
+	BaseThreadInitThunk [0x00007FFAC70F257D+29]
+	RtlUserThreadStart [0x00007FFAC84EAA58+40]
+

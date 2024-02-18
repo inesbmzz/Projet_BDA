@@ -28,7 +28,7 @@ CREATE TABLE autism_screening (
     A8_Score NUMBER(1) CONSTRAINT A8_Score_chk CHECK (A8_Score BETWEEN 0 AND 1) NOT NULL,
     A9_Score NUMBER(1) CONSTRAINT A9_Score_chk CHECK (A9_Score BETWEEN 0 AND 1) NOT NULL,
     A10_Score NUMBER(1) CONSTRAINT A10_Score_chk CHECK (A10_Score BETWEEN 0 AND 1) NOT NULL,
-    age FLOAT(126) CONSTRAINT age_chk CHECK (age > 0 AND age < 150) NOT NULL,
+    age NUMBER CONSTRAINT age_chk CHECK (age > 0 AND age < 150) NOT NULL,
     gender CHAR(1) CONSTRAINT gender_chk CHECK (gender IN ('m', 'f')) NOT NULL,
     ethnicity VARCHAR2(50) NOT NULL,
     jaundice VARCHAR2(3) CONSTRAINT jaundice_chk CHECK (jaundice IN ('yes', 'no')) NOT NULL,
