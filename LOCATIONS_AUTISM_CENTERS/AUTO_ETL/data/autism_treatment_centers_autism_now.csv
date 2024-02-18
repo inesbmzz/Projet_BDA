@@ -578,6 +578,7 @@ Winston Marion County Arc,Alabama,Haleyville,Winston,"Winston Marion County Arc
 Haleyville, AL 35565-3602
 arc002@centurytel.net
 (205) 486-2178"
+<<<<<<< HEAD
 name,state,city,county,contact info
 Alabama Autism,Alabama,N/A,N/A,By Website
 Arc Fayette Lamar,Alabama,Fayette,Fayette,"Arc Fayette Lamar
@@ -868,3 +869,5 @@ Winston Marion County Arc,Alabama,Haleyville,Winston,"Winston Marion County Arc
 Haleyville, AL 35565-3602
 arc002@centurytel.net
 (205) 486-2178"
+=======
+>>>>>>> 6ccc5a5bef51b4355936767c8f24b1f878c16464

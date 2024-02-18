@@ -80,3 +80,47 @@ fi
 # Finish transformation
 echo "testing finished successfully."
 
+# Start of loading
+print_separator
+echo "Starting loading..."
+
+# Run the load.py script
+cd code/load
+
+# Install node modules
+echo "Installing node modules..."
+npm install
+
+# Start the loading
+echo "Loading data..."
+npm start
+
+# Check if loading ran successfully
+if [ $? -ne 0 ]; then
+    echo "Error: load.py failed"
+    exit 1
+fi
+
+# Finish loading
+echo "Loading finished successfully."
+
+# Testing loading
+print_separator
+echo "Starting testing loading..."
+npm test
+
+# Check if loading ran successfully
+if [ $? -ne 0 ]; then
+    echo "Error: load.py failed"
+    exit 1
+fi
+
+# Finish loading
+echo "Loading finished successfully."
+
+# End of ETL
+print_separator
+echo "Script execution completed."
+
+# Exit with no error
+exit 0

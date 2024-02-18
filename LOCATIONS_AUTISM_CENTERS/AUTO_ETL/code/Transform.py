@@ -193,10 +193,30 @@ dan.to_csv('data/autism_treatment_centers_autism_now_processed.csv', index=False
 # Read the CSV file
 final_d = pd.read_csv('data/autism_center_b.csv')
 
-# reorder the columns "city"-"country" to "country"-"city"
+# Reorder the columns "city"-"country" to "country"-"city"
 final_d = final_d[['name', 'country', 'city', 'address', 'latitude', 'longitude', 'info', 'free_quote_link']]
 
 merged_df = pd.concat([final_d, dan], ignore_index=True)
+
+# Fill missing Latitude and Longitude values
+
+# Read the CSV file containing the latitude and longitude values of USA states
+usa_lat_lon = pd.read_csv('data/usa_location.csv')
+merged_df = pd.merge(merged_df, usa_lat_lon, left_on='city', right_on='name', how='left')
+
+# Fill missing latitude and longitude values
+merged_df['latitude'] = merged_df['latitude_x'].fillna(merged_df['latitude_y'])
+merged_df['longitude'] = merged_df['longitude_x'].fillna(merged_df['longitude_y'])
+
+# Drop the columns that are not needed
+merged_df.drop(columns=['latitude_x','longitude_x','state','latitude_y','longitude_y','name_y'], inplace=True)
+
+# Rename the "name_x" column to "name"
+merged_df = merged_df.rename(columns={'name_x': 'name'})
+
+# Reorder the columns
+desired_order = ['name', 'country', 'city', 'address', 'latitude', 'longitude', 'info', 'free_quote_link']
+merged_df = merged_df.reindex(columns=desired_order)
+
+# Export the merged dataframe to a new CSV file
 merged_df.to_csv('data/autism_center.csv', index=False)
-
-

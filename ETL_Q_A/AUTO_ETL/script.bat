@@ -69,4 +69,44 @@ if not %errorlevel% == 0 (
 :: Finish testing
 echo "Testing finished successfully."
 
+:: Start of loading
+echo "Starting loading..."
+
+:: Run node loading script
+cd code\load
+
+:: Install node packages
+echo "Install node packages..."
+npm install
+
+:: Start the loading
+echo "Loading data..."
+npm start
+
+:: Check if loading ran successfully
+if not %errorlevel% == 0 (
+    echo "Error: Loading failed"
+    exit /b 1
+)
+
+:: Finish loading
+echo "Loading finished successfully."
+
+:: Testing loading
+echo "Testing loading..."
+npm test
+
+:: Check if loading test ran successfully
+if not %errorlevel% == 0 (
+    echo "Error: Loading test failed"
+    exit /b 1
+)
+
+:: Finish loading test
+echo "Loading test finished successfully."
+
+:: Finish ETL
+echo "Script execution completed."
+
+:: Exit with no error
 exit /b
