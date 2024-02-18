@@ -1,941 +1,939 @@
-A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,austim,result,relation,Class/ASD
-0,0,0,1,1,1,1,1,1,0,15.0,m,Hispanic,yes,yes,6.0,Parent,NO
-0,0,0,0,0,0,0,0,1,1,15.0,m,Black,no,no,2.0,Relative,NO
-0,1,1,1,1,1,0,1,1,0,14.0,f,White-European,no,no,7.0,Self,YES
-1,1,0,1,1,0,1,1,0,1,15.0,f,Middle Eastern ,no,no,7.0,Parent,YES
-1,1,1,1,1,1,0,0,0,0,12.0,m,Black,yes,yes,6.0,Parent,NO
-0,1,1,0,0,1,0,0,1,0,12.0,f,South Asian,no,no,4.0,Parent,NO
-1,0,0,0,1,1,0,1,1,0,13.0,f,Middle Eastern ,yes,no,5.0,Parent,NO
-1,0,0,0,1,1,0,0,1,1,13.0,f,White-European,no,no,5.0,Self,NO
-1,0,0,1,1,1,0,1,1,1,12.0,f,Others,no,no,7.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,12.0,f,Others,no,no,9.0,Parent,YES
-1,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,no,8.0,Self,YES
-1,1,0,1,1,1,1,1,1,1,15.0,f,White-European,no,yes,9.0,Parent,YES
-1,0,0,0,1,0,0,1,0,1,12.0,f,Others,yes,yes,4.0,Parent,NO
-1,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,no,8.0,Parent,YES
-1,1,1,1,1,0,0,1,1,0,13.0,f,White-European,no,no,7.0,Parent,YES
-1,1,1,0,1,1,1,0,1,1,12.0,m,White-European,no,no,8.0,Parent,YES
-0,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,no,7.0,Parent,YES
-1,1,1,1,0,1,1,1,1,1,14.0,m,White-European,no,no,9.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,15.0,f,White-European,no,no,10.0,Parent,YES
-1,0,1,1,1,1,1,1,1,1,13.0,m,Middle Eastern ,no,yes,9.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,14.0,m,Hispanic,no,no,10.0,Self,YES
-1,0,1,1,1,1,0,1,1,1,12.0,f,Others,no,no,8.0,Health care professional,YES
-1,1,0,1,0,0,0,0,0,0,12.0,m,Middle Eastern ,no,no,3.0,Self,NO
-1,0,1,1,1,0,0,0,1,1,14.0,f,White-European,no,no,6.0,Self,NO
-0,1,1,1,1,1,1,1,1,1,16.0,m,Others,no,no,9.0,Parent,YES
-1,0,1,1,1,1,0,1,1,1,14.0,f,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,1,0,0,0,1,13.0,m,White-European,no,no,7.0,Self,YES
-1,0,1,1,1,1,0,1,1,1,16.0,f,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,1,1,0,1,1,12.0,m,Middle Eastern ,yes,no,9.0,Parent,YES
-1,0,1,1,1,1,1,1,1,1,14.0,f,Others,no,no,9.0,Self,YES
-1,1,1,1,0,1,1,1,1,1,16.0,f,Latino,no,yes,9.0,Self,YES
-1,0,1,1,1,1,1,1,1,1,15.0,f,Black,no,no,9.0,Self,YES
-0,0,1,1,1,1,1,1,1,1,14.0,f,Others,no,no,8.0,Self,YES
-0,0,1,1,1,1,1,1,1,1,12.0,m,White-European,no,no,8.0,Relative,YES
-1,0,1,0,1,1,1,1,1,1,15.0,m,White-European,no,no,8.0,Health care professional,YES
-1,1,0,0,1,1,0,0,1,0,13.0,f,Others,yes,yes,5.0,Self,NO
-1,0,0,0,1,1,0,0,0,0,16.0,m,Hispanic,no,no,3.0,Self,NO
-0,1,1,1,1,1,1,1,1,1,16.0,m,Hispanic,no,no,9.0,Self,YES
-0,0,1,1,1,1,1,1,1,0,15.0,f,White-European,no,no,7.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,16.0,m,Asian,yes,no,10.0,Relative,YES
-0,1,1,1,1,1,1,1,1,1,16.0,m,Asian,yes,no,9.0,Relative,YES
-1,1,1,1,0,1,0,0,1,0,12.0,m,Asian,no,no,6.0,Parent,NO
-1,1,1,0,1,1,1,1,1,1,12.0,f,Black,no,no,9.0,Parent,YES
-1,1,0,1,1,1,0,0,1,1,14.0,f,South Asian,no,no,7.0,Self,YES
-0,0,1,1,0,1,0,1,1,1,13.0,m,Asian,no,no,6.0,Parent,NO
-0,1,1,1,1,1,1,1,1,1,13.0,m,Asian,no,no,9.0,Parent,YES
-1,0,0,1,1,1,0,1,1,1,16.0,f,Black,no,no,7.0,Self,YES
-0,0,0,1,1,1,0,0,0,1,13.0,m,Middle Eastern ,no,no,4.0,Others,NO
-1,0,0,0,0,0,0,0,0,0,15.0,f,Hispanic,no,no,1.0,Self,NO
-0,0,0,1,0,0,1,1,0,0,15.0,m,Latino,no,no,3.0,Self,NO
-0,1,0,0,0,0,0,0,0,0,15.0,m,Black,no,no,1.0,Parent,NO
-1,1,1,1,1,1,1,1,0,0,16.0,m,White-European,no,no,8.0,Self,YES
-0,0,0,0,0,0,1,0,0,0,16.0,m,Latino,no,no,1.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,16.0,m,Latino,no,no,10.0,Self,YES
-1,1,1,1,1,1,1,1,1,1,12.0,f,White-European,no,yes,10.0,Self,YES
-1,1,0,0,0,0,0,1,0,0,16.0,f,White-European,no,no,3.0,Self,NO
-0,0,1,1,1,1,1,1,1,1,16.0,f,White-European,no,no,8.0,Parent,YES
-1,0,1,1,1,1,0,0,1,1,16.0,f,White-European,yes,no,7.0,Self,YES
-1,0,1,1,1,0,1,1,1,0,14.0,f,White-European,no,yes,7.0,Self,YES
-1,0,1,1,1,1,0,1,1,1,15.0,f,White-European,no,no,8.0,Health care professional,YES
-1,0,1,1,1,1,0,1,1,1,15.0,f,Asian,no,no,8.0,Self,YES
-0,0,1,0,1,1,1,0,0,0,16.0,m,White-European,no,no,4.0,Others,NO
-1,1,1,1,1,1,0,0,1,1,13.0,f,White-European,no,no,8.0,Self,YES
-1,1,0,0,1,0,1,1,1,1,14.0,m,Others,no,no,7.0,Self,YES
-1,1,0,0,0,1,0,1,1,1,13.0,f,White-European,no,yes,6.0,Health care professional,NO
-0,1,0,1,1,1,0,1,1,1,16.0,f,White-European,no,no,7.0,Self,YES
-1,1,1,1,0,1,0,0,1,1,12.0,f,Black,no,yes,7.0,Self,YES
-1,1,1,1,1,1,0,1,1,0,12.0,m,White-European,no,no,8.0,Health care professional,YES
-1,1,1,1,1,1,1,0,1,0,16.0,m,Asian,no,no,8.0,Parent,YES
-1,1,1,0,1,0,1,0,1,0,16.0,m,Asian,no,yes,6.0,Self,NO
-1,1,1,1,1,1,1,0,1,1,14.0,f,White-European,no,no,9.0,Parent,YES
-1,1,0,0,1,0,1,0,0,0,12.0,m,Asian,yes,no,4.0,Self,NO
-1,1,1,1,1,1,1,1,1,0,14.0,m,White-European,no,no,9.0,Parent,YES
-1,0,1,1,0,1,1,1,1,1,16.0,f,White-European,yes,no,8.0,Parent,YES
-0,0,1,1,0,1,0,1,1,1,13.0,f,Black,no,no,6.0,Parent,NO
-1,0,0,0,1,1,0,1,0,0,16.0,m,South Asian,no,no,4.0,Self,NO
-1,1,1,0,1,1,1,0,1,1,16.0,m,Asian,no,no,8.0,Relative,YES
-1,1,0,1,1,1,0,0,1,0,15.0,m,White-European,no,no,6.0,Self,NO
-1,0,0,1,1,1,0,0,1,1,14.0,m,White-European,no,no,6.0,Parent,NO
-0,0,1,1,1,0,1,1,1,1,16.0,m,Asian,yes,no,7.0,Others,YES
-1,1,1,1,1,1,1,0,1,1,16.0,m,Asian,yes,no,9.0,Relative,YES
-0,1,1,1,0,0,0,1,1,1,16.0,f,White-European,yes,no,6.0,Self,NO
-1,1,1,1,1,1,0,0,1,1,14.0,m,White-European,no,no,8.0,Parent,YES
-1,0,1,0,0,1,0,0,1,1,13.0,m,White-European,no,no,5.0,Self,NO
-1,1,0,1,1,1,1,1,1,1,16.0,m,White-European,no,no,9.0,Self,YES
-1,1,0,1,1,1,1,1,1,1,15.0,m,White-European,yes,yes,9.0,Self,YES
-1,0,1,0,1,0,1,0,0,0,12.0,m,Asian,no,no,4.0,Relative,NO
-1,1,1,0,1,1,0,0,1,1,16.0,m,White-European,yes,no,7.0,Self,YES
-1,1,0,1,0,0,1,1,0,0,15.0,m,Asian,no,no,5.0,Self,NO
-1,1,1,0,1,1,1,1,1,1,15.0,f,Middle Eastern ,no,yes,9.0,Parent,YES
-1,1,1,1,1,1,1,1,0,0,16.0,f,Latino,no,no,8.0,Health care professional,YES
-0,1,1,1,0,1,1,0,1,0,12.0,f,Middle Eastern ,no,no,6.0,Parent,NO
-0,1,1,1,0,1,1,0,1,0,16.0,f,Middle Eastern ,no,no,6.0,Parent,NO
-1,0,1,0,0,0,0,1,0,1,16.0,m,Asian,no,no,4.0,Parent,NO
-1,0,0,1,1,1,1,1,1,1,12.0,f,White-European,no,no,8.0,Self,YES
-1,1,0,1,1,0,0,0,1,1,13.0,f,White-European,no,no,6.0,Self,NO
-1,0,1,0,0,1,1,1,1,0,12.0,m,Asian,no,no,6.0,Parent,NO
-1,1,1,1,0,0,1,1,0,0,26.0,f,White-European,no,no,6.0,Self,NO
-1,1,0,1,0,0,0,1,0,1,24.0,m,Latino,no,yes,5.0,Self,NO
-1,1,0,1,1,0,1,1,1,1,27.0,m,Latino,yes,yes,8.0,Parent,YES
-1,1,0,1,0,0,1,1,0,1,35.0,f,White-European,no,yes,6.0,Self,NO
-1,1,1,1,1,0,1,1,1,1,36.0,m,Others,yes,no,9.0,Self,YES
-0,1,0,0,0,0,0,1,0,0,17.0,f,Black,no,no,2.0,Self,NO
-1,1,1,1,0,0,0,0,1,0,64.0,m,White-European,no,no,5.0,Parent,NO
-1,1,0,0,1,0,0,1,1,1,29.0,m,White-European,no,no,6.0,Self,NO
-1,1,1,1,0,1,1,1,1,0,17.0,m,Asian,yes,yes,8.0,Health care professional,YES
-1,1,1,1,1,1,1,1,1,1,33.0,m,White-European,no,no,10.0,Relative,YES
-0,1,0,1,1,1,1,0,0,1,18.0,f,Middle Eastern ,no,no,6.0,Parent,NO
-1,1,0,1,1,0,0,1,0,1,18.0,m,Middle Eastern ,no,yes,6.0,Parent,NO
-1,0,0,0,0,0,1,1,1,1,31.0,m,Middle Eastern ,no,no,5.0,Self,NO
-0,0,0,0,0,0,0,1,0,1,30.0,m,White-European,no,no,2.0,Self,NO
-0,0,1,0,1,1,0,0,0,0,35.0,f,Middle Eastern ,no,yes,3.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,27.0,f,Black,no,no,0.0,Self,NO
-0,0,0,1,0,0,1,1,1,1,27.0,m,Middle Eastern ,no,no,5.0,Self,NO
-0,0,0,0,0,0,0,1,0,1,42.0,m,Middle Eastern ,yes,no,2.0,Relative,NO
-0,0,0,0,0,0,0,1,0,0,40.0,m,Pasifika,yes,yes,1.0,Self,NO
-0,0,0,0,0,0,0,1,0,0,40.0,m,Middle Eastern ,yes,yes,1.0,Parent,NO
-0,0,0,0,0,0,0,1,0,0,48.0,m,Black,no,no,1.0,Self,NO
-0,1,1,0,0,0,0,0,1,1,31.0,m,Middle Eastern ,no,no,4.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,18.0,m,White-European,no,no,0.0,Self,NO
-1,0,0,1,1,1,1,1,0,1,37.0,f,White-European,no,yes,7.0,Self,YES
-1,1,0,0,0,0,1,0,0,1,55.0,f,Others,no,no,4.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,18.0,f,White-European,yes,no,10.0,Self,YES
-1,1,1,1,1,1,1,1,1,1,18.0,f,White-European,no,no,10.0,Self,YES
-0,0,1,0,0,0,0,0,0,0,55.0,m,White-European,no,no,1.0,Self,NO
-0,1,1,0,1,0,0,1,1,1,50.0,m,Middle Eastern ,no,no,6.0,Self,NO
-1,0,1,1,1,1,0,0,1,0,34.0,f,White-European,no,no,6.0,Self,NO
-1,0,0,1,1,1,1,0,1,1,53.0,f,White-European,no,no,7.0,Self,YES
-1,0,1,1,0,1,1,1,1,1,35.0,f,White-European,no,yes,8.0,Self,YES
-1,0,1,1,1,0,1,1,0,1,20.0,f,Latino,yes,no,7.0,Self,YES
-0,0,0,0,1,1,0,0,0,0,28.0,f,Asian,no,no,2.0,Self,NO
-0,0,1,1,0,0,0,0,0,1,34.0,f,Middle Eastern ,no,yes,3.0,Self,NO
-0,1,1,1,0,0,0,0,0,1,36.0,f,White-European,yes,yes,4.0,Self,NO
-1,1,1,1,1,1,0,1,0,1,27.0,f,White-European,no,no,8.0,Self,YES
-1,0,1,1,1,1,0,1,1,0,53.0,f,White-European,no,no,7.0,Relative,YES
-1,1,1,1,0,1,0,0,0,0,24.0,f,Pasifika,no,no,5.0,Relative,NO
-0,0,1,1,1,0,1,0,0,0,24.0,m,Pasifika,no,no,4.0,Relative,NO
-0,1,1,0,0,1,0,0,0,0,55.0,m,White-European,no,no,3.0,Relative,NO
-1,1,0,0,0,1,1,1,0,1,30.0,f,Asian,no,no,6.0,Self,NO
-1,0,0,1,0,0,0,1,0,0,21.0,f,Latino,no,no,3.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,35.0,f,Black,no,no,10.0,Parent,YES
-1,0,0,0,0,0,0,0,0,0,383.0,f,Pasifika,no,no,1.0,Self,NO
-1,0,1,1,1,1,1,1,0,1,21.0,m,Latino,no,yes,8.0,Self,YES
-1,1,1,1,1,1,1,1,1,1,47.0,m,White-European,no,no,10.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,30.0,f,Asian,no,no,9.0,Self,YES
-1,0,1,1,1,1,0,1,1,1,28.0,f,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,43.0,f,White-European,no,no,9.0,Self,YES
-1,0,0,0,1,0,0,1,0,0,32.0,f,South Asian,no,yes,3.0,Self,NO
-1,1,1,1,0,0,0,1,0,0,44.0,f,White-European,no,no,5.0,Self,NO
-1,0,1,1,1,1,1,1,0,1,20.0,f,Others,no,no,8.0,Self,YES
-1,0,1,1,0,1,1,1,0,1,20.0,f,Others,no,no,7.0,Self,YES
-1,0,0,1,1,0,0,1,1,0,19.0,m,White-European,no,no,5.0,Parent,NO
-1,1,1,1,1,1,1,1,0,1,29.0,f,White-European,no,no,9.0,Self,YES
-1,0,1,0,0,0,0,1,0,0,21.0,m,Middle Eastern ,no,no,3.0,Self,NO
-0,1,0,0,0,0,0,1,0,0,27.0,m,Middle Eastern ,no,no,2.0,Parent,NO
-1,0,1,0,1,1,1,1,0,0,21.0,m,Hispanic,no,no,6.0,Self,NO
-1,0,0,0,1,0,1,0,0,1,35.0,m,Middle Eastern ,no,no,4.0,Self,NO
-0,0,0,0,1,0,0,0,0,0,42.0,m,Black,no,no,1.0,Self,NO
-1,1,0,0,0,0,1,1,0,1,29.0,f,South Asian,no,no,5.0,Self,NO
-0,0,1,1,0,0,0,1,0,0,58.0,m,Asian,no,no,3.0,Self,NO
-1,0,1,1,0,0,1,1,0,1,21.0,m,Others,no,no,6.0,Self,NO
-1,1,1,0,0,0,0,1,1,1,21.0,m,Others,no,no,6.0,Self,NO
-0,0,1,1,1,0,0,1,1,1,37.0,f,White-European,no,yes,6.0,Self,NO
-1,1,0,1,1,1,1,1,0,0,21.0,m,Hispanic,no,no,7.0,Self,YES
-1,0,0,0,0,0,1,1,0,0,20.0,m,Middle Eastern ,no,no,3.0,Self,NO
-1,1,0,1,1,1,1,1,1,0,33.0,f,Black,no,yes,8.0,Self,YES
-1,0,0,1,1,0,0,0,0,1,20.0,m,Middle Eastern ,no,no,4.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,33.0,f,White-European,no,yes,10.0,Self,YES
-0,0,1,0,1,0,0,1,0,1,42.0,f,Middle Eastern ,no,no,4.0,Self,NO
-1,1,0,0,0,0,0,0,0,0,17.0,f,White-European,no,no,2.0,Self,NO
-1,0,0,0,0,0,0,1,0,1,27.0,f,Middle Eastern ,no,no,3.0,Self,NO
-1,0,0,1,1,1,1,1,1,1,35.0,f,Middle Eastern ,no,yes,8.0,Parent,YES
-1,0,0,0,0,0,0,0,0,0,37.0,m,White-European,no,no,1.0,Self,NO
-1,0,0,0,0,0,0,1,1,1,30.0,f,White-European,no,yes,4.0,Self,NO
-1,1,1,1,1,1,0,1,1,1,29.0,f,White-European,no,no,9.0,Self,YES
-1,0,1,1,0,0,0,0,0,1,17.0,f,White-European,no,yes,4.0,Self,NO
-0,0,0,1,1,1,0,1,0,1,22.0,f,Pasifika,no,no,5.0,Self,NO
-1,1,1,0,1,1,1,0,1,1,19.0,f,Latino,no,yes,8.0,Self,YES
-1,1,1,1,1,0,0,1,1,1,42.0,f,White-European,no,yes,8.0,Self,YES
-1,1,0,0,0,0,0,1,0,1,37.0,f,White-European,no,no,4.0,Self,NO
-1,0,0,0,1,0,1,1,0,0,28.0,f,White-European,no,no,4.0,Self,NO
-1,0,0,1,1,0,1,0,0,0,22.0,m,Others,no,no,4.0,Self,NO
-1,1,0,0,0,0,0,1,0,0,26.0,f,Pasifika,no,no,3.0,Self,NO
-0,0,0,0,0,0,0,0,1,0,21.0,m,Pasifika,no,no,1.0,Self,NO
-0,1,1,0,0,0,0,1,0,0,26.0,f,South Asian,no,no,3.0,Self,NO
-1,0,0,0,0,0,0,1,0,0,39.0,f,Asian,no,no,2.0,Self,NO
-1,0,0,0,0,0,0,0,1,1,26.0,m,Asian,no,no,3.0,Self,NO
-1,1,0,0,1,0,1,1,0,0,26.0,m,Asian,no,no,5.0,Self,NO
-0,0,0,0,1,1,0,1,0,1,21.0,m,South Asian,no,no,4.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,25.0,m,Asian,no,no,0.0,Self,NO
-0,0,1,0,1,1,1,1,0,1,26.0,m,South Asian,no,no,6.0,Self,NO
-1,1,0,1,1,0,1,1,0,1,30.0,f,White-European,no,no,7.0,Self,YES
-1,0,0,1,1,1,1,0,0,0,19.0,f,Asian,no,no,5.0,Parent,NO
-1,0,0,0,0,1,1,0,0,0,19.0,f,Asian,no,no,3.0,Parent,NO
-1,0,1,1,1,1,1,1,1,1,25.0,f,White-European,no,yes,9.0,Self,YES
-0,0,1,1,0,1,0,1,1,1,23.0,m,White-European,no,no,6.0,Self,NO
-1,0,0,0,1,0,0,0,0,1,31.0,m,Asian,no,no,3.0,Parent,NO
-0,1,0,0,0,0,0,1,1,1,27.0,m,Asian,no,no,4.0,Self,NO
-1,1,0,1,1,1,1,1,0,1,29.0,f,Middle Eastern ,no,no,8.0,Self,YES
-1,0,1,1,1,1,0,1,1,0,38.0,f,White-European,no,no,7.0,Parent,YES
-1,1,1,1,1,1,0,1,0,1,23.0,f,White-European,no,no,8.0,Self,YES
-1,1,1,0,1,0,1,1,0,0,27.0,m,White-European,no,no,6.0,Self,NO
-1,1,1,1,1,1,0,1,1,1,27.0,f,White-European,no,no,9.0,Self,YES
-1,1,1,1,1,1,0,0,1,0,42.0,m,White-European,no,no,7.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,20.0,m,White-European,no,no,9.0,Self,YES
-1,0,1,1,1,1,1,1,1,1,17.0,f,White-European,no,no,9.0,Self,YES
-1,0,0,0,0,0,0,0,0,0,20.0,f,Black,no,no,1.0,Self,NO
-1,0,0,1,1,1,1,1,0,1,30.0,m,Asian,yes,no,7.0,Self,YES
-1,0,1,1,1,1,1,1,1,1,28.0,f,White-European,no,yes,9.0,Self,YES
-1,1,0,0,1,1,1,1,0,1,26.0,f,White-European,no,no,7.0,Self,YES
-0,0,0,0,0,0,0,0,0,0,26.0,f,White-European,no,no,0.0,Self,NO
-1,0,0,1,1,1,0,1,0,1,31.0,m,Middle Eastern ,no,yes,6.0,Self,NO
-1,0,1,1,0,0,1,0,0,1,40.0,f,White-European,no,no,5.0,Self,NO
-1,0,0,0,1,0,0,0,1,1,39.0,f,White-European,no,yes,4.0,Relative,NO
-1,1,0,0,0,0,0,1,0,0,18.0,f,White-European,no,no,3.0,Self,NO
-1,0,0,0,0,0,0,1,0,1,24.0,m,Black,no,no,3.0,Self,NO
-1,1,0,0,0,0,0,1,0,0,23.0,m,South Asian,no,no,3.0,Self,NO
-1,0,1,1,0,0,0,1,0,1,24.0,m,Asian,no,no,5.0,Self,NO
-0,1,0,0,1,1,0,1,1,0,24.0,m,Asian,no,no,5.0,Self,NO
-1,0,1,1,0,0,0,1,1,1,27.0,m,Asian,no,no,6.0,Self,NO
-0,1,1,0,0,1,0,0,1,1,24.0,m,Asian,no,no,5.0,Self,NO
-0,0,0,0,1,0,0,0,0,1,25.0,m,Asian,no,no,2.0,Self,NO
-1,0,0,0,0,0,1,0,0,1,22.0,m,Asian,no,no,3.0,Self,NO
-0,1,0,0,0,0,0,0,0,1,40.0,f,Asian,no,no,2.0,Self,NO
-0,0,1,1,0,0,0,1,0,1,23.0,m,Asian,no,no,4.0,Self,NO
-1,0,0,0,0,0,0,1,0,0,29.0,m,South Asian,no,no,2.0,Self,NO
-1,0,1,0,0,0,0,1,0,0,25.0,m,Asian,no,no,3.0,Self,NO
-1,0,0,1,1,0,0,1,0,0,27.0,m,Asian,no,no,4.0,Self,NO
-0,0,0,0,0,0,0,1,0,0,22.0,m,South Asian,no,no,1.0,Self,NO
-1,0,0,1,1,1,1,1,1,1,28.0,m,White-European,no,no,8.0,Parent,YES
-1,0,1,1,1,1,1,1,1,1,20.0,m,White-European,no,no,9.0,Self,YES
-1,1,1,1,1,1,1,1,1,1,19.0,f,White-European,no,no,10.0,Self,YES
-1,1,0,0,1,1,1,1,0,1,37.0,f,Others,no,no,7.0,Self,YES
-1,1,1,1,1,0,1,1,1,0,35.0,m,White-European,yes,yes,8.0,Self,YES
-0,0,0,0,1,0,0,1,0,0,26.0,m,Asian,no,no,2.0,Self,NO
-0,1,1,1,1,0,1,1,0,1,23.0,m,Asian,no,no,7.0,Self,YES
-1,1,0,0,1,0,0,0,0,1,32.0,f,South Asian,no,no,4.0,Self,NO
-0,0,1,0,1,0,1,0,1,1,30.0,m,Asian,no,no,5.0,Self,NO
-1,0,0,0,1,0,1,0,0,1,31.0,m,Asian,no,no,4.0,Self,NO
-0,0,0,0,0,0,1,1,0,1,28.0,f,Asian,no,no,3.0,Self,NO
-1,0,0,0,0,1,0,1,0,1,29.0,f,Asian,no,no,4.0,Self,NO
-0,1,0,0,1,0,0,1,0,1,29.0,f,South Asian,no,no,4.0,Self,NO
-1,0,0,1,0,0,0,0,1,1,29.0,f,Asian,no,no,4.0,Self,NO
-1,0,0,0,0,0,1,1,0,0,31.0,m,Asian,no,no,3.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,36.0,m,Asian,no,no,0.0,Parent,NO
-0,1,0,0,0,0,0,1,0,0,32.0,f,South Asian,no,no,2.0,Self,NO
-0,0,0,0,0,0,0,1,0,0,34.0,f,South Asian,no,no,1.0,Self,NO
-1,1,0,0,0,0,0,1,0,0,24.0,m,Asian,no,no,3.0,Self,NO
-1,0,1,0,1,0,1,1,0,1,24.0,f,Asian,no,no,6.0,Self,NO
-1,0,0,0,1,0,1,1,0,1,42.0,m,Asian,no,no,5.0,Self,NO
-0,0,1,0,0,0,0,1,1,1,26.0,f,Others,no,no,4.0,Self,NO
-1,0,0,0,1,0,1,1,0,0,27.0,f,Asian,no,no,4.0,Self,NO
-0,0,1,1,1,0,0,1,1,1,36.0,f,Latino,no,yes,6.0,Self,NO
-1,1,1,1,1,0,0,1,1,1,36.0,f,Latino,no,yes,8.0,Self,YES
-1,0,1,1,0,0,1,1,0,1,55.0,m,Hispanic,no,no,6.0,Self,NO
-1,1,0,1,0,0,1,0,0,0,23.0,f,Asian,no,no,4.0,Self,NO
-0,0,1,1,1,0,0,0,0,1,22.0,f,Asian,no,no,4.0,Self,NO
-1,0,0,0,0,0,0,1,0,0,42.0,f,Middle Eastern ,no,no,2.0,Parent,NO
-1,0,0,1,0,0,0,1,0,0,54.0,m,White-European,no,no,3.0,Self,NO
-1,1,0,0,0,0,1,1,1,1,43.0,f,Black,no,no,6.0,Self,NO
-1,1,1,1,1,1,0,1,1,1,43.0,f,Black,no,no,9.0,Self,YES
-0,0,1,1,1,0,0,1,1,1,29.0,m,Middle Eastern ,no,no,6.0,Self,NO
-1,0,1,0,1,0,0,1,0,1,29.0,m,Middle Eastern ,no,no,5.0,Self,NO
-1,0,1,0,1,0,1,0,0,0,37.0,m,White-European,no,no,4.0,Self,NO
-1,0,0,0,1,0,1,0,0,1,39.0,f,White-European,no,no,4.0,Self,NO
-1,1,1,1,1,0,0,0,0,0,18.0,f,Asian,no,no,5.0,Self,NO
-0,1,0,1,1,1,0,1,0,1,31.0,m,White-European,no,no,6.0,Others,NO
-0,0,1,1,1,0,0,0,0,1,34.0,m,Asian,no,no,4.0,Self,NO
-0,0,1,1,1,0,1,0,0,1,22.0,m,White-European,no,no,5.0,Self,NO
-1,0,1,1,1,1,1,0,1,0,28.0,m,South Asian,no,no,7.0,Self,YES
-1,0,0,0,0,0,1,1,0,1,38.0,m,Others,no,yes,4.0,Self,NO
-1,0,0,0,0,0,1,1,0,1,28.0,f,White-European,no,no,4.0,Self,NO
-1,1,0,1,1,1,0,1,1,1,53.0,f,White-European,no,yes,8.0,Self,YES
-1,1,1,0,1,0,1,0,0,0,26.0,m,White-European,no,no,5.0,Self,NO
-1,1,1,1,1,1,0,1,1,1,37.0,m,White-European,no,no,9.0,Self,YES
-1,1,0,1,0,0,0,1,0,1,42.0,m,Latino,yes,yes,5.0,Parent,NO
-1,0,0,0,0,0,0,1,0,1,43.0,m,Hispanic,no,no,3.0,Self,NO
-1,0,0,0,0,0,0,1,0,0,32.0,f,Asian,no,no,2.0,Self,NO
-0,1,0,1,0,0,0,1,0,0,31.0,m,White-European,no,yes,3.0,Self,NO
-1,0,1,1,1,1,1,1,1,1,53.0,f,White-European,no,no,9.0,Self,YES
-1,1,1,1,1,1,1,1,1,1,28.0,m,White-European,no,no,10.0,Self,YES
-1,0,1,1,1,1,1,1,1,1,38.0,m,White-European,no,no,9.0,Self,YES
-1,1,1,0,1,1,0,1,1,0,31.0,m,White-European,no,no,7.0,Self,YES
-1,1,1,1,0,0,0,0,0,0,31.0,f,Pasifika,no,yes,4.0,Self,NO
-1,1,1,1,1,0,1,1,1,1,21.0,f,White-European,no,no,9.0,Self,YES
-1,1,0,1,1,0,0,0,1,1,25.0,f,White-European,no,no,6.0,Self,NO
-1,1,0,1,1,0,0,1,1,1,25.0,f,White-European,no,no,7.0,Self,YES
-1,1,1,1,1,1,1,0,1,1,60.0,f,White-European,no,yes,9.0,Relative,YES
-1,0,1,1,0,0,0,0,0,0,39.0,m,White-European,no,yes,3.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,53.0,m,White-European,no,no,10.0,Self,YES
-1,1,1,1,1,1,1,1,1,1,20.0,m,Middle Eastern ,no,yes,10.0,Parent,YES
-1,1,1,0,1,0,0,1,1,1,25.0,f,White-European,no,no,7.0,Self,YES
-1,1,1,1,0,0,1,1,0,0,50.0,m,White-European,no,no,6.0,Self,NO
-1,0,0,1,1,1,1,1,1,1,28.0,f,White-European,no,no,8.0,Self,YES
-1,0,1,1,1,1,1,1,1,1,37.0,f,White-European,no,yes,9.0,Self,YES
-0,0,0,1,0,1,0,1,1,1,30.0,m,Asian,no,yes,5.0,Self,NO
-1,1,0,0,0,1,1,1,0,1,32.0,f,White-European,no,no,6.0,Self,NO
-1,0,1,1,0,0,0,0,0,1,34.0,f,White-European,no,no,4.0,Self,NO
-1,1,1,1,0,0,0,0,0,1,42.0,m,White-European,no,no,5.0,Self,NO
-1,1,0,0,1,1,1,1,1,1,22.0,f,Black,no,no,8.0,Self,YES
-1,1,0,0,0,0,0,1,0,1,39.0,m,White-European,no,yes,4.0,Parent,NO
-1,1,0,1,1,0,1,1,0,1,18.0,m,White-European,no,no,7.0,Self,YES
-1,0,0,1,0,0,0,0,0,0,54.0,f,White-European,no,yes,2.0,Parent,NO
-1,1,0,0,0,0,0,1,0,0,42.0,m,White-European,no,no,3.0,Self,NO
-1,1,1,1,1,0,0,1,0,0,22.0,m,White-European,no,no,6.0,Self,NO
-1,0,1,1,0,1,1,1,1,1,22.0,m,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,1,1,0,1,1,21.0,f,White-European,no,no,9.0,Self,YES
-0,1,0,1,0,0,0,1,0,1,28.0,f,White-European,no,no,4.0,Self,NO
-1,1,1,1,1,1,1,0,1,1,17.0,m,Asian,yes,no,9.0,Relative,YES
-0,1,0,0,0,0,0,0,0,0,28.0,m,White-European,no,no,1.0,Self,NO
-0,0,0,1,1,0,1,1,0,1,21.0,m,Latino,no,no,5.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,31.0,f,Asian,no,no,10.0,Self,YES
-1,0,0,0,0,0,1,1,0,0,20.0,m,South Asian,no,no,3.0,Self,NO
-1,0,0,1,0,0,0,0,0,0,21.0,m,White-European,no,no,2.0,Self,NO
-1,1,0,0,1,0,0,0,0,0,22.0,m,White-European,no,no,3.0,Self,NO
-0,1,0,0,0,0,0,1,1,1,21.0,m,White-European,no,no,4.0,Self,NO
-0,1,1,0,0,0,0,0,0,0,24.0,m,Black,no,no,2.0,Self,NO
-1,0,0,0,0,0,0,1,0,0,24.0,m,South Asian,no,no,2.0,Self,NO
-1,0,0,0,1,1,1,1,0,1,25.0,m,Asian,no,no,6.0,Self,NO
-1,0,0,0,0,0,0,0,0,1,17.0,m,South Asian,no,no,2.0,Self,NO
-1,0,0,0,0,0,0,1,0,0,23.0,m,Pasifika,no,no,2.0,Self,NO
-1,0,0,1,1,0,1,1,0,0,21.0,m,Asian,no,no,5.0,Self,NO
-1,0,0,0,1,0,1,1,1,1,22.0,m,Others,no,no,6.0,Self,NO
-1,0,0,0,1,0,0,1,0,1,24.0,f,Asian,no,no,4.0,Self,NO
-0,0,1,0,1,1,0,0,1,1,34.0,m,Others,no,no,5.0,Self,NO
-1,0,1,0,1,0,1,1,0,1,30.0,m,Asian,no,no,6.0,Self,NO
-1,0,0,0,0,0,1,1,0,1,29.0,f,Asian,no,no,4.0,Self,NO
-1,0,0,1,1,0,1,1,0,0,20.0,m,Pasifika,no,no,5.0,Self,NO
-0,0,0,0,0,0,0,1,0,1,26.0,m,Asian,no,no,2.0,Self,NO
-1,0,0,1,1,1,1,1,1,1,20.0,m,South Asian,no,no,8.0,Self,YES
-1,0,0,0,0,0,1,1,0,0,41.0,m,Asian,no,no,3.0,Self,NO
-1,0,0,1,0,0,1,1,0,0,24.0,m,Asian,no,no,4.0,Self,NO
-0,0,0,1,0,0,0,1,0,0,35.0,m,Asian,no,no,2.0,Self,NO
-0,0,0,1,0,0,1,0,0,0,23.0,m,South Asian,no,no,2.0,Self,NO
-1,0,1,0,0,0,1,0,0,0,36.0,m,White-European,no,no,3.0,Self,NO
-1,1,0,0,1,0,0,1,0,0,33.0,m,Turkish,no,no,4.0,Self,NO
-1,0,0,0,0,1,0,1,1,1,24.0,m,South Asian,no,no,5.0,Self,NO
-1,0,0,0,1,1,0,1,0,1,25.0,m,Asian,no,no,5.0,Self,NO
-1,0,0,0,0,0,1,1,1,1,25.0,m,Asian,no,no,5.0,Self,NO
-0,0,0,0,0,0,1,1,0,1,24.0,m,Asian,no,no,3.0,Self,NO
-1,0,1,0,1,0,0,1,0,1,27.0,f,South Asian,no,no,5.0,Self,NO
-1,0,0,0,0,0,1,1,0,0,26.0,m,Asian,no,no,3.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,26.0,m,Others,no,no,0.0,Self,NO
-1,0,0,0,1,0,0,1,1,0,23.0,f,Asian,no,no,4.0,Self,NO
-1,1,1,0,1,0,1,1,0,1,30.0,m,Asian,no,no,7.0,Self,YES
-1,0,0,1,0,0,0,0,1,0,25.0,m,Asian,no,no,3.0,Self,NO
-1,0,0,0,0,0,0,1,0,1,23.0,m,Pasifika,no,no,3.0,Self,NO
-1,0,1,1,1,0,0,1,0,0,34.0,f,White-European,no,no,5.0,Self,NO
-1,0,0,1,1,0,1,1,0,1,20.0,f,Asian,no,no,6.0,Self,NO
-1,1,1,1,0,0,0,1,1,1,33.0,f,Black,no,yes,7.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,46.0,m,White-European,no,no,10.0,Self,YES
-1,1,0,0,0,0,0,0,0,0,17.0,m,White-European,no,no,2.0,Others,NO
-1,1,1,0,0,0,0,1,0,0,45.0,f,White-European,no,yes,4.0,Self,NO
-0,1,1,1,0,0,0,0,1,0,26.0,m,Asian,no,no,4.0,Others,NO
-1,0,1,1,1,1,1,1,1,1,38.0,f,White-European,no,no,9.0,Self,YES
-0,1,1,0,1,0,0,0,0,0,26.0,m,Hispanic,yes,no,3.0,Self,NO
-1,0,0,0,0,0,0,0,0,0,29.0,f,Hispanic,no,yes,1.0,Self,NO
-1,1,1,1,1,0,0,1,1,1,33.0,m,White-European,no,no,8.0,Self,YES
-0,1,1,0,1,1,1,0,1,1,32.0,f,Black,no,no,7.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,44.0,f,White-European,no,no,10.0,Self,YES
-0,1,0,0,0,0,1,0,0,1,47.0,f,White-European,yes,no,3.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,40.0,m,White-European,no,no,0.0,Self,NO
-1,0,0,1,1,0,0,1,0,1,40.0,m,White-European,no,no,5.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,44.0,f,White-European,no,no,0.0,Self,NO
-1,1,1,0,1,1,1,0,1,1,56.0,m,White-European,yes,no,8.0,Self,YES
-1,1,1,0,1,1,1,0,1,1,23.0,f,White-European,no,no,8.0,Self,YES
-1,1,0,1,1,0,0,1,1,1,32.0,f,Black,no,no,7.0,Self,YES
-0,1,1,1,0,0,0,1,0,1,27.0,m,White-European,no,yes,5.0,Self,NO
-1,0,0,0,1,0,1,0,0,1,28.0,f,White-European,no,yes,4.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,40.0,f,Middle Eastern ,no,no,0.0,Parent,NO
-1,0,1,1,1,1,0,0,1,1,45.0,f,White-European,no,no,7.0,Self,YES
-1,1,1,1,1,1,0,0,1,1,19.0,f,White-European,yes,no,8.0,Parent,YES
-1,1,1,1,0,1,0,1,1,1,55.0,m,White-European,no,yes,8.0,Others,YES
-1,0,0,1,0,0,1,1,0,1,27.0,f,White-European,yes,no,5.0,Self,NO
-1,1,1,1,1,1,1,0,1,1,19.0,f,White-European,yes,no,9.0,Self,YES
-1,0,0,1,0,0,0,1,0,0,29.0,m,White-European,no,no,3.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,33.0,f,White-European,yes,no,10.0,Self,YES
-0,0,1,1,1,1,1,1,0,0,48.0,f,White-European,no,no,6.0,Self,NO
-0,0,0,0,0,0,0,1,1,0,37.0,f,Others,no,no,2.0,Self,NO
-1,1,1,1,1,0,0,0,1,0,30.0,m,Asian,no,no,6.0,Self,NO
-1,1,0,1,0,0,0,0,0,1,37.0,f,White-European,no,no,4.0,Self,NO
-1,0,0,1,1,1,1,1,1,1,20.0,f,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,1,0,0,1,1,25.0,f,Others,no,no,8.0,Self,YES
-1,1,1,1,1,1,0,1,0,0,58.0,f,Middle Eastern ,no,no,7.0,Self,YES
-1,0,1,0,0,0,0,0,0,0,36.0,f,White-European,no,no,2.0,Self,NO
-0,0,1,1,1,0,0,1,0,0,36.0,m,White-European,yes,no,4.0,Self,NO
-1,0,1,0,1,1,1,1,1,0,19.0,m,Hispanic,no,no,7.0,Self,YES
-1,0,1,1,1,1,0,1,1,0,19.0,m,Hispanic,no,no,7.0,Self,YES
-1,0,0,1,1,0,0,1,0,1,22.0,f,White-European,no,no,5.0,Self,NO
-0,1,0,0,0,0,1,1,0,1,24.0,f,Middle Eastern ,no,no,4.0,Self,NO
-0,0,0,1,1,0,0,1,1,0,19.0,m,Middle Eastern ,no,no,4.0,Self,NO
-1,1,1,0,1,0,0,1,0,1,21.0,m,Others,no,no,6.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,20.0,m,Middle Eastern ,no,no,0.0,Self,NO
-1,1,0,0,0,0,0,0,0,0,18.0,f,Middle Eastern ,no,no,2.0,Self,NO
-0,1,1,0,0,0,0,1,0,1,23.0,f,Middle Eastern ,no,no,4.0,Self,NO
-1,1,1,0,1,1,1,1,0,1,22.0,m,Middle Eastern ,no,no,8.0,Self,YES
-1,1,0,1,1,0,0,0,0,0,18.0,f,South Asian,no,yes,4.0,Self,NO
-1,1,1,0,1,0,0,1,0,0,18.0,m,Middle Eastern ,no,no,5.0,Relative,NO
-0,0,0,0,1,0,0,1,0,0,18.0,m,Middle Eastern ,no,no,2.0,Relative,NO
-1,1,1,0,0,0,0,1,0,0,18.0,m,Middle Eastern ,no,no,4.0,Relative,NO
-0,1,0,0,0,0,1,1,0,0,18.0,m,Middle Eastern ,no,no,3.0,Relative,NO
-1,1,1,1,1,1,1,1,1,1,19.0,m,White-European,no,no,10.0,Self,YES
-1,0,0,1,1,1,1,0,1,1,55.0,m,White-European,no,no,7.0,Self,YES
-1,0,0,0,0,1,1,0,1,1,32.0,f,Asian,no,no,5.0,Parent,NO
-1,1,0,1,0,0,1,1,0,0,50.0,m,White-European,yes,no,5.0,Self,NO
-1,1,1,1,0,0,1,1,0,0,40.0,m,White-European,no,no,6.0,Self,NO
-1,0,0,1,1,1,0,0,0,0,47.0,m,Middle Eastern ,no,no,4.0,Self,NO
-1,0,0,1,0,0,0,1,0,1,22.0,m,Middle Eastern ,no,no,4.0,Parent,NO
-1,0,0,0,0,0,0,1,0,0,19.0,f,Middle Eastern ,no,no,2.0,Self,NO
-1,0,0,1,0,0,1,0,0,1,22.0,m,Middle Eastern ,no,no,4.0,Self,NO
-0,0,1,0,0,0,0,0,0,1,20.0,m,Middle Eastern ,no,no,2.0,Self,NO
-1,0,1,0,1,0,0,1,0,0,23.0,m,Middle Eastern ,no,no,4.0,Self,NO
-0,0,0,0,1,0,0,1,0,1,20.0,m,Middle Eastern ,no,no,3.0,Parent,NO
-0,1,0,1,0,0,0,0,0,0,24.0,m,Middle Eastern ,no,no,2.0,Self,NO
-0,1,1,0,0,0,0,1,0,1,19.0,m,Middle Eastern ,no,no,4.0,Self,NO
-1,0,1,0,1,0,0,1,0,1,23.0,m,Middle Eastern ,no,yes,5.0,Self,NO
-0,0,1,1,0,0,1,0,0,1,20.0,m,Others,no,no,4.0,Self,NO
-1,0,1,0,1,0,0,1,0,1,20.0,m,Middle Eastern ,no,no,5.0,Self,NO
-1,0,0,1,1,0,0,1,0,1,21.0,f,Asian,no,no,5.0,Self,NO
-1,0,0,0,0,0,0,1,0,1,20.0,f,Middle Eastern ,no,no,3.0,Self,NO
-1,0,0,1,1,0,1,0,0,1,20.0,m,Middle Eastern ,no,no,5.0,Self,NO
-1,0,0,0,0,1,0,0,1,0,25.0,m,Middle Eastern ,yes,yes,3.0,Relative,NO
-1,0,0,0,0,0,0,1,0,0,20.0,f,Middle Eastern ,no,no,2.0,Self,NO
-1,0,0,0,0,1,1,1,0,1,22.0,m,Middle Eastern ,no,no,5.0,Self,NO
-0,1,0,0,0,0,0,1,0,0,20.0,f,Middle Eastern ,no,no,2.0,Self,NO
-1,0,1,1,1,0,0,0,1,1,21.0,m,Middle Eastern ,no,no,6.0,Self,NO
-0,1,0,0,0,1,0,1,0,1,23.0,f,Middle Eastern ,no,no,4.0,Self,NO
-1,1,0,0,0,0,0,1,0,0,21.0,f,Turkish,no,no,3.0,Self,NO
-1,0,0,0,1,1,0,1,0,1,22.0,f,Black,no,no,5.0,Self,NO
-1,1,1,0,1,0,0,0,0,0,20.0,f,Asian,no,no,4.0,Self,NO
-0,1,0,0,0,0,0,1,0,1,21.0,f,Others,no,no,3.0,Self,NO
-0,1,1,0,0,0,0,1,0,0,26.0,m,Middle Eastern ,no,no,3.0,Self,NO
-1,0,0,1,0,0,1,0,0,1,23.0,f,Black,no,no,4.0,Self,NO
-0,1,0,1,1,0,0,0,0,0,19.0,f,Middle Eastern ,no,no,3.0,Self,NO
-1,0,0,0,0,0,1,1,0,0,20.0,f,Middle Eastern ,no,no,3.0,Self,NO
-0,1,0,0,1,0,1,1,0,1,19.0,f,Black,no,no,5.0,Self,NO
-1,0,1,1,1,1,1,1,1,0,24.0,m,Asian,no,no,8.0,Self,YES
-1,0,0,1,1,0,0,1,0,1,19.0,f,South Asian,no,no,5.0,Self,NO
-1,1,0,0,0,0,0,0,0,0,22.0,f,Middle Eastern ,no,no,2.0,Self,NO
-1,1,0,1,0,0,0,0,0,1,20.0,f,Middle Eastern ,no,no,4.0,Self,NO
-0,1,0,1,0,0,0,1,0,0,21.0,m,Middle Eastern ,no,no,3.0,Self,NO
-0,0,1,1,1,0,0,1,0,0,24.0,f,Others,no,no,4.0,Self,NO
-0,0,1,1,1,0,0,0,0,1,18.0,f,Middle Eastern ,no,no,4.0,Self,NO
-1,0,1,1,1,0,1,1,0,1,19.0,f,Middle Eastern ,no,no,7.0,Self,YES
-1,0,1,0,0,0,0,0,0,0,19.0,f,Middle Eastern ,no,no,2.0,Self,NO
-1,0,0,0,0,0,1,1,0,1,31.0,m,Middle Eastern ,yes,no,4.0,Self,NO
-1,1,0,1,0,0,1,1,0,0,19.0,m,Middle Eastern ,no,no,5.0,Self,NO
-1,0,0,0,0,0,1,0,1,1,21.0,f,Middle Eastern ,no,no,4.0,Self,NO
-1,0,0,0,1,0,1,0,0,1,20.0,m,Middle Eastern ,no,no,4.0,Self,NO
-1,0,1,0,1,0,1,1,0,1,26.0,f,Middle Eastern ,no,no,6.0,Self,NO
-0,0,0,0,0,0,1,0,0,0,27.0,m,Middle Eastern ,no,no,1.0,Self,NO
-1,0,1,0,0,1,0,1,0,0,23.0,f,Middle Eastern ,no,no,4.0,Self,NO
-1,1,1,1,0,0,1,0,0,0,23.0,m,Middle Eastern ,no,no,5.0,Self,NO
-1,0,0,0,0,0,1,1,0,1,23.0,m,Turkish,no,no,4.0,Others,NO
-1,0,1,1,1,1,0,1,1,1,24.0,m,Asian,no,yes,8.0,Self,YES
-1,1,1,1,1,1,1,0,1,1,32.0,f,Black,no,no,9.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,61.0,m,White-European,yes,yes,10.0,Self,YES
-1,1,1,1,1,1,0,1,1,0,35.0,f,White-European,no,no,8.0,Self,YES
-1,0,0,0,0,1,0,0,0,1,34.0,f,White-European,no,no,3.0,Self,NO
-0,0,1,1,0,0,0,0,0,0,23.0,f,Middle Eastern ,no,no,2.0,Self,NO
-1,1,1,1,0,0,0,0,0,1,19.0,f,White-European,no,no,5.0,Self,NO
-1,1,0,0,1,1,0,1,0,1,36.0,f,Others,no,no,6.0,Parent,NO
-0,1,0,0,0,0,0,1,0,0,23.0,m,White-European,no,no,2.0,Self,NO
-1,0,1,1,1,0,1,0,0,1,17.0,m,Black,no,no,6.0,Relative,NO
-1,0,1,0,0,0,0,0,0,0,22.0,m,White-European,no,no,2.0,Self,NO
-0,1,1,1,1,0,1,0,0,1,33.0,m,White-European,no,yes,6.0,Relative,NO
-1,1,1,1,1,0,0,1,0,1,23.0,f,Asian,no,no,7.0,Self,YES
-0,1,1,1,1,1,0,1,0,1,35.0,f,White-European,no,yes,7.0,Self,YES
-1,0,0,0,0,0,0,1,0,1,21.0,m,White-European,no,yes,3.0,Self,NO
-1,0,0,1,1,0,1,1,1,1,20.0,f,White-European,no,no,7.0,Self,YES
-1,0,0,0,0,0,0,1,0,0,29.0,m,White-European,no,no,2.0,Health care professional,NO
-1,1,1,1,1,1,1,0,1,1,59.0,m,White-European,no,no,9.0,Self,YES
-1,1,1,0,0,0,0,1,0,1,18.0,f,White-European,no,no,5.0,Self,NO
-1,1,0,0,0,0,0,1,0,0,19.0,f,Middle Eastern ,no,no,3.0,Self,NO
-0,0,1,1,0,0,0,1,0,0,24.0,m,Middle Eastern ,no,no,3.0,Self,NO
-1,1,1,1,1,0,0,1,1,0,36.0,f,White-European,no,no,7.0,Self,YES
-1,1,0,0,0,0,1,0,0,0,17.0,f,Black,no,no,3.0,Self,NO
-1,0,0,0,0,0,0,1,0,1,52.0,m,White-European,yes,no,3.0,Self,NO
-1,1,0,1,1,0,0,0,0,0,18.0,m,Middle Eastern ,no,no,4.0,Self,NO
-0,0,0,0,0,0,1,0,0,0,30.0,m,Asian,no,no,1.0,Self,NO
-0,1,1,1,1,1,0,1,1,1,18.0,m,Middle Eastern ,yes,no,8.0,Self,YES
-1,1,1,1,1,0,0,1,0,0,27.0,m,Latino,no,no,6.0,Self,NO
-0,0,0,1,0,0,0,0,0,0,52.0,f,White-European,no,no,1.0,Self,NO
-0,0,0,0,0,0,0,1,0,0,45.0,f,Asian,no,no,1.0,Self,NO
-0,1,1,1,1,1,0,0,1,0,25.0,f,Others,no,no,6.0,Health care professional,NO
-0,0,0,1,0,0,1,0,0,1,29.0,f,White-European,no,no,3.0,Self,NO
-1,1,0,1,1,1,1,1,0,1,29.0,f,White-European,yes,no,8.0,Self,YES
-1,0,0,0,0,1,0,0,0,1,18.0,m,White-European,no,yes,3.0,Self,NO
-0,0,1,1,0,1,1,1,1,1,18.0,m,White-European,no,no,7.0,Relative,YES
-1,0,1,1,0,1,0,0,0,1,17.0,m,White-European,no,no,5.0,Relative,NO
-1,1,1,1,1,1,1,1,1,1,27.0,f,Asian,no,no,10.0,Self,YES
-0,0,0,0,0,0,0,1,0,0,22.0,f,Asian,yes,no,1.0,Self,NO
-0,0,0,0,0,1,0,1,1,0,23.0,m,Asian,no,no,3.0,Self,NO
-1,1,1,1,1,0,1,1,0,0,25.0,m,Latino,no,no,7.0,Self,YES
-1,0,1,1,1,0,0,0,0,0,23.0,f,South Asian,no,no,4.0,Self,NO
-1,0,0,0,0,0,0,1,0,1,29.0,m,Asian,no,no,3.0,Self,NO
-1,0,0,1,1,0,1,0,0,0,27.0,f,Asian,no,no,4.0,Self,NO
-1,0,0,0,0,1,0,1,0,0,27.0,f,Asian,no,no,3.0,Self,NO
-0,0,0,0,0,0,0,0,0,0,43.0,f,South Asian,no,no,0.0,Parent,NO
-1,0,0,0,0,0,0,1,0,0,26.0,f,Asian,no,no,2.0,Self,NO
-1,0,0,0,1,0,0,1,0,1,30.0,f,Asian,no,no,4.0,Self,NO
-0,0,0,0,0,0,0,1,0,0,23.0,m,White-European,no,no,1.0,Self,NO
-1,0,0,0,1,0,1,1,0,0,29.0,f,Asian,no,no,4.0,Self,NO
-0,0,0,0,0,0,0,1,0,1,37.0,m,White-European,no,no,2.0,Parent,NO
-0,0,0,0,0,0,1,0,0,1,28.0,f,White-European,no,no,2.0,Self,NO
-1,1,1,1,0,0,1,1,0,0,25.0,m,South Asian,no,no,6.0,Self,NO
-1,0,1,1,0,0,1,1,0,0,25.0,m,Others,no,no,5.0,Self,NO
-1,1,1,1,1,1,1,0,1,1,43.0,m,White-European,no,no,9.0,Self,YES
-1,1,0,1,1,1,0,0,1,1,30.0,f,White-European,no,no,7.0,Self,YES
-0,1,1,0,0,0,1,0,0,1,18.0,m,Black,no,no,4.0,Self,NO
-1,1,1,1,0,0,0,1,0,0,18.0,f,White-European,no,no,5.0,Self,NO
-1,1,1,1,0,0,1,1,1,0,30.0,m,Others,no,no,7.0,Self,YES
-0,0,0,0,0,0,0,0,0,0,31.0,f,White-European,no,no,0.0,Self,NO
-1,0,0,0,1,0,1,1,0,1,33.0,m,Latino,no,no,5.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,33.0,m,Latino,no,no,10.0,Self,YES
-1,1,1,1,0,0,1,0,0,1,26.0,m,White-European,no,no,6.0,Self,NO
-1,0,1,1,0,0,0,0,0,0,61.0,f,White-European,no,no,3.0,Self,NO
-0,0,0,1,0,0,0,1,0,1,46.0,m,Others,no,no,3.0,Self,NO
-0,1,1,1,1,1,1,0,1,1,33.0,m,Asian,no,no,8.0,Self,YES
-1,1,1,1,1,0,1,1,0,1,38.0,f,Black,no,no,8.0,Self,YES
-1,1,0,0,0,0,0,1,0,0,44.0,m,Black,no,no,3.0,Parent,NO
-0,1,1,1,1,0,0,0,1,0,48.0,f,Black,no,yes,5.0,Parent,NO
-1,1,0,1,1,1,0,1,1,1,42.0,f,Latino,yes,no,8.0,Self,YES
-0,1,0,0,1,0,1,1,0,0,37.0,m,White-European,no,no,4.0,Self,NO
-1,0,1,1,1,0,0,1,0,1,23.0,f,White-European,no,yes,6.0,Self,NO
-1,0,1,1,1,0,1,1,1,1,24.0,m,White-European,no,yes,8.0,Relative,YES
-1,0,1,0,0,0,1,0,0,1,41.0,m,Asian,no,no,4.0,Self,NO
-0,1,1,0,1,0,0,1,0,0,27.0,m,White-European,no,no,4.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,46.0,f,White-European,yes,yes,10.0,Self,YES
-0,1,0,0,0,0,0,0,0,1,40.0,f,White-European,yes,no,2.0,Self,NO
-0,1,1,1,1,1,1,1,0,1,22.0,f,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,1,1,0,1,1,42.0,m,White-European,no,no,9.0,Self,YES
-1,1,1,0,0,0,0,0,0,1,18.0,f,Asian,no,no,4.0,Self,NO
-1,0,1,1,0,0,0,0,0,0,44.0,f,White-European,no,no,3.0,Self,NO
-1,1,1,1,1,0,1,1,1,1,30.0,f,White-European,no,no,9.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,42.0,m,White-European,no,no,9.0,Self,YES
-1,1,0,1,0,0,1,0,0,0,35.0,f,White-European,no,yes,4.0,Parent,NO
-1,0,1,1,1,0,1,0,1,1,40.0,m,Black,no,no,7.0,Self,YES
-0,0,1,1,0,0,0,0,0,1,38.0,m,Middle Eastern ,no,no,3.0,Self,NO
-1,1,1,1,1,0,0,1,1,1,26.0,f,White-European,no,yes,8.0,Self,YES
-1,1,1,1,1,0,0,1,0,1,27.0,f,White-European,no,no,7.0,Self,YES
-1,1,1,1,1,0,1,0,1,0,47.0,f,White-European,yes,yes,7.0,Self,YES
-1,1,0,1,1,1,0,0,0,1,21.0,m,Black,yes,yes,6.0,Parent,NO
-1,1,1,1,0,1,0,1,1,1,37.0,m,White-European,no,no,8.0,Self,YES
-1,0,0,0,0,0,1,1,0,1,19.0,f,Others,no,no,4.0,Self,NO
-0,0,0,1,0,0,1,1,0,1,32.0,m,Asian,no,no,4.0,Self,NO
-0,1,0,0,0,0,0,1,0,0,29.0,m,Black,no,no,2.0,Self,NO
-1,0,0,0,1,0,0,0,0,0,30.0,f,Black,no,no,2.0,Self,NO
-1,1,0,0,0,0,1,1,0,0,32.0,f,Latino,no,no,4.0,Relative,NO
-0,1,1,1,0,0,0,0,0,1,35.0,f,White-European,yes,no,4.0,Self,NO
-0,1,1,1,1,1,1,1,1,1,22.0,m,White-European,no,no,9.0,Self,YES
-1,0,1,0,0,1,0,1,0,0,32.0,f,White-European,no,no,4.0,Self,NO
-0,1,1,1,1,1,0,0,0,1,24.0,m,White-European,no,no,6.0,Relative,NO
-1,1,1,1,1,1,0,1,1,1,24.0,m,White-European,no,no,9.0,Relative,YES
-0,1,0,0,0,0,0,0,0,0,49.0,f,Middle Eastern ,yes,no,1.0,Parent,NO
-0,1,1,1,1,1,1,1,1,1,30.0,f,Asian,no,no,9.0,Self,YES
-0,1,1,1,1,1,1,1,1,1,30.0,f,Asian,no,yes,9.0,Self,YES
-1,0,1,1,1,1,1,1,1,1,35.0,f,White-European,yes,no,9.0,Self,YES
-1,0,1,1,1,1,1,0,0,1,35.0,f,White-European,yes,no,7.0,Self,YES
-1,0,1,1,0,0,0,0,0,1,37.0,f,White-European,no,yes,4.0,Self,NO
-0,1,1,1,0,0,0,1,0,1,43.0,m,White-European,no,no,5.0,Self,NO
-1,1,1,1,0,0,1,0,0,1,52.0,m,White-European,no,no,6.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,44.0,m,White-European,no,yes,10.0,Self,YES
-1,1,0,0,0,0,0,0,0,0,46.0,f,White-European,no,yes,2.0,Self,NO
-1,0,0,0,1,0,0,0,0,1,42.0,f,White-European,no,yes,3.0,Self,NO
-0,0,1,0,0,0,0,0,0,0,20.0,m,Asian,no,no,1.0,Self,NO
-1,1,1,0,1,0,1,0,1,1,18.0,m,Middle Eastern ,no,no,7.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,38.0,m,White-European,no,no,9.0,Relative,YES
-1,0,0,1,1,0,0,1,0,0,24.0,f,Latino,no,yes,4.0,Self,NO
-1,1,0,1,1,0,0,0,0,0,29.0,m,Turkish,no,no,4.0,Self,NO
-1,1,1,1,1,1,1,1,0,1,22.0,f,White-European,no,no,9.0,Self,YES
-0,1,1,1,1,1,0,0,0,1,19.0,f,White-European,yes,no,6.0,Self,NO
-1,1,1,1,1,1,1,0,1,1,39.0,f,White-European,no,yes,9.0,Self,YES
-1,0,0,1,1,1,1,1,1,1,17.0,m,Black,no,no,8.0,Self,YES
-0,1,0,1,0,1,1,0,1,1,19.0,f,Middle Eastern ,no,no,6.0,Parent,NO
-1,0,0,0,0,0,1,1,1,0,18.0,m,White-European,no,no,4.0,Parent,NO
-0,1,0,0,0,0,0,1,0,0,28.0,f,Turkish,no,no,2.0,Self,NO
-0,1,0,1,0,1,0,0,0,1,29.0,m,Asian,no,no,4.0,Self,NO
-1,1,0,0,0,0,1,1,0,0,48.0,m,White-European,no,no,4.0,Self,NO
-1,1,1,1,1,1,0,1,1,1,27.0,f,White-European,yes,yes,9.0,Self,YES
-1,0,1,1,0,0,0,0,0,0,34.0,f,White-European,no,no,3.0,Self,NO
-1,1,0,1,0,0,0,0,0,1,31.0,m,White-European,no,no,4.0,Self,NO
-1,0,0,0,1,0,1,1,0,0,25.0,f,White-European,no,no,4.0,Self,NO
-1,1,0,0,1,1,1,1,1,1,20.0,m,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,0,1,1,1,1,43.0,m,White-European,yes,no,9.0,Self,YES
-1,1,1,1,1,0,0,1,1,1,36.0,f,White-European,no,yes,8.0,Self,YES
-1,1,0,0,0,0,0,1,0,0,30.0,f,Asian,no,yes,3.0,Self,NO
-0,0,1,1,0,0,0,0,0,0,44.0,m,Black,no,no,2.0,Self,NO
-1,1,0,0,1,0,0,0,0,1,40.0,f,Black,no,no,4.0,Parent,NO
-1,1,0,0,1,1,0,1,1,0,40.0,f,Black,yes,no,6.0,Relative,NO
-1,1,0,1,1,1,0,1,1,0,40.0,f,Black,yes,yes,7.0,Relative,YES
-1,1,1,1,1,0,0,1,0,1,30.0,m,Others,no,no,7.0,Self,YES
-1,0,1,1,0,0,1,0,0,1,47.0,f,White-European,no,no,5.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,21.0,m,Black,no,no,10.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,21.0,m,Black,no,no,9.0,Self,YES
-1,1,1,0,0,0,0,0,0,0,21.0,f,Asian,no,no,3.0,Self,NO
-0,1,1,1,0,0,0,1,1,0,29.0,f,Asian,no,no,5.0,Self,NO
-0,1,1,1,1,0,1,0,1,0,22.0,m,Middle Eastern ,no,no,6.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,51.0,m,White-European,yes,no,10.0,Self,YES
-1,0,0,0,1,0,0,0,1,1,30.0,m,Asian,no,no,4.0,Self,NO
-1,1,0,0,0,0,0,1,0,0,22.0,m,Others,no,no,3.0,Self,NO
-1,1,0,0,0,0,0,1,0,1,22.0,m,Asian,no,no,4.0,Self,NO
-1,0,0,0,1,0,1,1,0,1,24.0,m,Asian,no,no,5.0,Self,NO
-1,0,0,0,0,0,0,1,0,1,26.0,f,South Asian,no,no,3.0,Self,NO
-1,0,1,1,0,0,0,1,1,1,33.0,f,Asian,no,no,6.0,Parent,NO
-1,0,0,0,0,0,0,1,1,0,23.0,m,Asian,no,no,3.0,Self,NO
-1,0,1,0,0,0,0,1,0,0,42.0,f,Asian,no,no,3.0,Self,NO
-1,0,1,0,0,0,0,0,0,0,26.0,f,Asian,no,no,2.0,Self,NO
-1,0,0,0,0,0,0,1,0,0,29.0,f,Asian,no,no,2.0,Self,NO
-1,0,0,0,0,0,1,0,0,1,35.0,f,Asian,no,no,3.0,Self,NO
-1,0,0,0,1,1,0,1,0,0,25.0,f,South Asian,no,no,4.0,Self,NO
-1,0,0,0,0,0,1,1,0,0,25.0,m,Asian,no,no,3.0,Self,NO
-0,0,0,0,0,0,0,1,0,0,28.0,f,Asian,yes,no,1.0,Self,NO
-1,0,0,0,0,0,0,0,0,0,33.0,m,White-European,no,no,1.0,Self,NO
-1,0,0,1,0,0,1,1,0,0,25.0,m,Asian,no,no,4.0,Self,NO
-0,0,1,0,1,1,0,1,0,1,25.0,m,Asian,no,no,5.0,Self,NO
-1,0,0,0,1,0,1,1,0,0,24.0,m,Asian,no,no,4.0,Self,NO
-1,1,1,1,0,0,0,0,0,1,27.0,f,South Asian,no,no,5.0,Self,NO
-1,0,0,0,0,0,0,0,0,0,22.0,m,South Asian,no,no,1.0,Self,NO
-1,1,0,1,0,0,0,1,0,1,21.0,f,South Asian,no,no,5.0,Self,NO
-1,0,1,1,0,1,0,1,0,1,27.0,f,South Asian,no,no,6.0,Self,NO
-1,0,0,0,1,0,1,0,0,0,23.0,m,South Asian,no,no,3.0,Self,NO
-0,0,0,1,1,0,0,1,0,1,22.0,m,Asian,no,no,4.0,Self,NO
-0,1,0,0,0,0,0,0,0,1,23.0,f,South Asian,no,no,2.0,Self,NO
-1,0,0,1,0,0,0,1,0,1,30.0,m,Asian,no,no,4.0,Self,NO
-0,1,0,0,1,0,1,1,0,0,33.0,m,Asian,no,no,4.0,Self,NO
-1,0,1,1,1,0,1,1,1,0,24.0,f,South Asian,no,no,7.0,Self,YES
-1,0,0,0,1,0,1,1,0,0,22.0,f,Asian,no,no,4.0,Self,NO
-1,0,0,1,1,0,1,1,1,1,22.0,m,Asian,no,no,7.0,Self,YES
-1,0,0,0,0,0,0,1,0,1,29.0,f,South Asian,no,no,3.0,Self,NO
-1,0,1,0,1,0,1,1,0,1,22.0,f,Asian,no,no,6.0,Self,NO
-1,0,1,0,0,0,0,1,0,0,21.0,m,Asian,yes,no,3.0,Self,NO
-1,0,0,0,0,0,1,1,0,0,23.0,m,Asian,no,no,3.0,Self,NO
-1,0,0,0,1,0,1,1,0,1,23.0,f,Others,no,no,5.0,Self,NO
-1,0,0,0,1,0,1,1,1,1,23.0,f,Asian,no,no,6.0,Self,NO
-1,1,0,1,1,0,1,1,0,0,32.0,m,Asian,no,no,6.0,Self,NO
-0,0,0,0,0,0,1,0,0,1,27.0,m,Asian,no,no,2.0,Self,NO
-0,0,1,0,0,0,0,1,0,0,28.0,f,Asian,no,no,2.0,Parent,NO
-1,1,0,0,1,0,0,1,1,1,25.0,f,Middle Eastern ,no,no,6.0,Self,NO
-1,0,1,0,1,0,1,1,1,1,22.0,m,Black,no,no,7.0,Self,YES
-0,1,1,0,0,0,1,0,0,1,36.0,m,White-European,no,no,4.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,21.0,f,White-European,no,no,10.0,Self,YES
-1,1,0,1,1,0,0,1,0,0,18.0,m,Black,no,no,5.0,Self,NO
-1,0,0,0,1,1,1,1,1,1,49.0,m,Black,no,no,7.0,Parent,YES
-1,1,1,0,0,0,0,1,0,0,18.0,m,Asian,no,no,4.0,Self,NO
-1,0,1,1,1,0,1,1,1,0,29.0,m,Latino,no,no,7.0,Self,YES
-1,0,0,0,0,0,0,0,0,0,37.0,f,Middle Eastern ,no,no,1.0,Parent,NO
-1,0,1,1,1,0,0,1,0,1,17.0,m,Middle Eastern ,yes,no,6.0,Parent,NO
-1,1,1,1,0,0,0,0,0,0,38.0,f,Middle Eastern ,no,no,4.0,Self,NO
-1,0,1,0,0,1,0,1,0,1,18.0,m,White-European,yes,no,5.0,Parent,NO
-1,0,1,1,1,0,0,0,0,0,31.0,f,Middle Eastern ,no,no,4.0,Self,NO
-0,1,1,1,0,0,0,0,0,0,33.0,m,Middle Eastern ,yes,no,3.0,Self,NO
-1,1,0,0,0,0,0,0,0,0,32.0,f,Middle Eastern ,yes,no,2.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,30.0,f,White-European,no,yes,10.0,Self,YES
-1,1,1,1,1,0,1,1,1,1,30.0,m,Asian,no,no,9.0,Self,YES
-1,0,0,1,1,0,1,0,0,1,38.0,f,White-European,no,yes,5.0,Self,NO
-1,0,0,0,1,0,1,0,1,1,22.0,m,Asian,no,no,5.0,Self,NO
-1,1,0,0,1,0,1,0,1,0,36.0,m,others,no,no,5.0,Self,NO
-1,1,1,0,1,1,0,1,1,1,20.0,f,White-European,no,no,8.0,Self,YES
-1,1,1,1,1,1,0,1,1,1,40.0,f,Others,yes,yes,9.0,Self,YES
-1,0,0,1,1,1,0,0,1,0,25.0,m,White-European,no,no,5.0,Self,NO
-1,0,0,0,0,0,1,1,0,1,28.0,m,White-European,no,no,4.0,Self,NO
-0,0,0,0,0,0,1,1,0,1,17.0,m,White-European,no,no,3.0,Self,NO
-1,1,1,1,1,1,1,0,1,1,34.0,m,White-European,no,no,9.0,Self,YES
-0,0,1,0,0,0,1,1,0,0,50.0,f,Middle Eastern ,no,no,3.0,Parent,NO
-1,0,0,0,0,0,1,1,0,1,38.0,m,White-European,no,no,4.0,Self,NO
-1,1,1,1,1,0,1,1,1,1,30.0,m,Others,no,no,9.0,Self,YES
-1,1,1,1,1,0,0,1,0,1,21.0,m,Hispanic,no,no,7.0,Self,YES
-1,1,1,1,1,0,1,1,0,1,21.0,m,White-European,no,no,8.0,Self,YES
-1,1,1,0,1,0,1,1,1,1,31.0,m,Latino,no,no,8.0,Self,YES
-1,1,0,0,1,1,0,1,0,1,27.0,f,White-European,yes,no,6.0,Self,NO
-1,1,1,1,0,0,0,0,1,0,24.0,f,White-European,yes,no,5.0,Self,NO
-1,1,0,0,0,0,1,0,0,1,35.0,m,White-European,yes,no,4.0,Parent,NO
-1,0,0,0,0,0,1,0,0,1,18.0,m,Black,no,no,3.0,Health care professional,NO
-1,1,1,1,1,0,0,1,1,1,43.0,f,Black,no,no,8.0,Self,YES
-1,1,1,1,1,1,1,1,1,1,40.0,m,White-European,yes,yes,10.0,Parent,YES
-1,1,0,1,1,1,1,1,1,1,49.0,f,Hispanic,no,no,9.0,Self,YES
-1,1,0,0,0,0,0,1,0,0,24.0,m,Hispanic,no,no,3.0,Self,NO
-1,1,0,0,0,0,0,1,1,0,30.0,f,White-European,yes,yes,4.0,Self,NO
-1,0,1,0,0,0,0,1,0,1,53.0,m,Hispanic,no,no,4.0,Relative,NO
-1,0,1,1,1,0,0,1,1,1,38.0,m,White-European,no,yes,7.0,Self,YES
-1,0,0,0,1,0,1,1,0,1,28.0,m,White-European,no,no,5.0,Self,NO
-1,1,1,0,1,1,1,1,1,1,28.0,m,White-European,no,no,9.0,Self,YES
-1,0,1,1,1,1,1,0,1,1,26.0,m,Black,no,no,8.0,Self,YES
-1,0,0,0,1,1,1,1,1,1,39.0,f,White-European,no,no,7.0,Self,YES
-0,0,0,0,1,0,0,0,0,0,31.0,f,Asian,yes,no,1.0,Self,NO
-1,0,0,1,0,0,1,1,0,0,24.0,m,Black,no,no,4.0,Self,NO
-1,1,1,0,1,1,1,1,0,1,28.0,m,White-European,no,no,8.0,Self,YES
-1,0,0,1,0,0,0,1,0,1,31.0,f,White-European,no,no,4.0,Self,NO
-1,1,1,1,1,0,0,1,0,1,27.0,m,White-European,yes,no,7.0,Self,YES
-1,0,1,1,0,0,1,1,0,0,28.0,m,Latino,no,no,5.0,Parent,NO
-1,1,1,1,1,1,0,1,1,1,31.0,m,Turkish,no,yes,9.0,Self,YES
-1,1,1,1,1,0,0,0,0,1,46.0,f,Asian,no,no,6.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,27.0,f,Pasifika,no,no,10.0,Self,YES
-0,1,0,1,1,0,1,1,1,1,25.0,f,White-European,no,no,7.0,Self,YES
-1,0,0,0,0,0,0,1,0,1,34.0,m,Hispanic,no,no,3.0,Parent,NO
-1,0,0,1,1,0,1,0,1,1,35.0,m,South Asian,no,no,6.0,Self,NO
-1,0,1,1,1,0,1,1,1,1,26.0,f,White-European,no,no,8.0,Self,YES
-1,1,0,0,1,1,0,1,0,0,6.0,m,Others,no,no,5.0,Parent,NO
-1,1,0,0,1,1,0,1,0,0,6.0,m,Middle Eastern ,no,no,5.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,5.0,m,Others,yes,no,10.0,Parent,YES
-1,0,1,1,1,1,0,1,0,1,5.0,m,White-European,no,no,7.0,Parent,YES
-1,1,1,1,1,1,1,1,0,0,5.0,f,Middle Eastern ,no,no,8.0,Parent,YES
-1,1,1,1,1,1,1,0,0,0,11.0,f,Middle Eastern ,no,no,7.0,Parent,YES
-1,0,0,0,1,1,1,1,1,1,10.0,m,White-European,yes,no,7.0,Self,YES
-0,1,1,1,1,1,1,1,1,1,4.0,m,White-European,yes,no,9.0,Parent,YES
-1,0,0,0,0,0,1,0,0,0,4.0,f,Black,no,no,2.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,6.0,m,White-European,no,no,10.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,8.0,m,White-European,no,no,10.0,Parent,YES
-1,1,1,1,1,1,0,1,1,1,4.0,m,South Asian,no,no,9.0,Parent,YES
-0,0,0,0,0,0,1,0,0,0,7.0,m,Others,no,no,1.0,Parent,NO
-1,0,1,1,1,0,1,1,1,1,11.0,m,White-European,no,yes,8.0,Parent,YES
-1,1,1,1,1,1,1,0,1,0,5.0,m,White-European,yes,no,8.0,Parent,YES
-1,1,0,1,0,0,0,0,0,0,4.0,m,Asian,no,no,3.0,Parent,NO
-1,0,1,1,0,1,0,0,1,0,6.0,f,South Asian,no,no,5.0,Parent,NO
-0,0,1,1,1,0,1,1,1,0,6.0,m,White-European,no,yes,6.0,Relative,NO
-1,0,1,0,1,1,0,0,1,1,6.0,f,Middle Eastern ,no,no,6.0,Self,NO
-1,1,1,1,1,1,1,1,1,1,5.0,m,White-European,yes,no,10.0,Parent,YES
-0,0,1,0,1,0,1,0,0,0,4.0,f,Others,yes,yes,3.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,11.0,m,White-European,no,no,10.0,Parent,YES
-0,0,1,0,0,1,0,0,1,1,6.0,m,Pasifika,yes,no,4.0,Parent,NO
-1,0,0,0,1,1,0,1,0,1,5.0,m,South Asian,yes,no,5.0,Health care professional,NO
-1,0,0,0,1,1,0,0,1,1,6.0,m,South Asian,yes,no,5.0,Parent,NO
-0,1,0,0,0,0,0,0,0,0,7.0,f,Middle Eastern ,yes,no,1.0,Parent,NO
-1,1,0,0,0,0,0,0,0,0,7.0,m,Asian,no,no,2.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,4.0,m,White-European,yes,no,10.0,Parent,YES
-0,1,1,1,1,1,1,1,0,1,4.0,m,Asian,no,no,8.0,Parent,YES
-0,1,0,0,0,0,0,0,0,0,4.0,m,Middle Eastern ,no,no,1.0,Parent,NO
-1,0,0,0,1,0,1,0,0,1,6.0,f,Middle Eastern ,no,no,4.0,Parent,NO
-0,0,0,1,0,0,1,0,0,0,10.0,m,Middle Eastern ,no,no,2.0,Parent,NO
-0,1,1,0,1,1,0,0,0,1,4.0,f,Middle Eastern ,yes,no,5.0,Relative,NO
-0,1,1,0,1,1,0,0,0,0,4.0,f,Middle Eastern ,yes,no,4.0,Relative,NO
-1,0,1,1,1,1,0,0,1,1,6.0,f,White-European,yes,no,7.0,Parent,YES
-0,1,0,0,1,0,0,0,0,0,7.0,m,Middle Eastern ,no,yes,2.0,Parent,NO
-0,0,1,0,1,1,1,0,1,1,4.0,m,Asian,no,no,6.0,Parent,NO
-1,1,1,1,1,1,1,0,1,1,7.0,m,White-European,yes,no,9.0,Parent,YES
-0,0,1,0,1,0,0,0,0,0,5.0,m,White-European,no,no,2.0,Parent,NO
-1,0,1,1,1,1,1,1,1,1,4.0,f,White-European,no,no,9.0,Parent,YES
-1,0,1,1,1,1,1,1,1,0,9.0,f,Middle Eastern ,no,no,8.0,Health care professional,YES
-1,0,1,1,1,1,0,0,1,1,4.0,m,Hispanic,no,yes,7.0,Parent,YES
-1,0,1,0,1,0,0,0,0,0,4.0,m,Turkish,no,no,3.0,Relative,NO
-1,0,1,1,1,1,1,1,1,1,9.0,m,White-European,no,no,9.0,Parent,YES
-1,1,1,0,1,1,0,0,0,1,4.0,f,White-European,yes,no,6.0,Parent,NO
-1,1,1,0,1,1,1,1,1,1,9.0,m,Asian,yes,no,9.0,Parent,YES
-1,0,1,1,0,0,0,1,0,1,8.0,m,Middle Eastern ,no,no,5.0,Parent,NO
-1,0,0,0,1,0,0,0,0,1,4.0,m,White-European,no,no,3.0,Parent,NO
-1,0,0,0,1,0,1,0,0,1,4.0,m,White-European,no,no,4.0,Parent,NO
-1,0,1,1,1,1,1,1,1,1,4.0,m,White-European,no,yes,9.0,Parent,YES
-1,0,1,0,1,0,1,0,0,1,7.0,m,Asian,no,no,5.0,Parent,NO
-0,1,0,0,1,0,1,0,0,1,7.0,f,White-European,yes,no,4.0,Parent,NO
-1,0,1,1,1,1,0,1,0,1,6.0,m,South Asian,no,no,7.0,Parent,YES
-1,0,1,1,1,1,0,1,1,1,5.0,f,Middle Eastern ,no,no,8.0,Parent,YES
-1,0,1,1,1,1,0,0,1,1,8.0,f,Middle Eastern ,no,yes,7.0,Parent,YES
-0,0,0,1,1,1,1,1,1,0,5.0,m,White-European,no,no,6.0,Parent,NO
-1,1,1,1,0,1,1,1,1,1,11.0,f,Others,no,no,9.0,Parent,YES
-1,0,0,0,1,0,1,0,0,1,8.0,m,White-European,yes,no,4.0,Parent,NO
-1,1,1,1,1,1,1,0,1,1,4.0,m,Latino,no,yes,9.0,Parent,YES
-0,1,1,1,0,1,0,1,1,0,7.0,m,White-European,yes,no,6.0,Parent,NO
-1,0,0,1,0,1,0,0,0,0,4.0,m,White-European,no,no,3.0,Parent,NO
-0,1,1,1,1,1,1,1,1,1,7.0,m,White-European,yes,yes,9.0,Parent,YES
-1,0,1,1,1,1,1,1,0,1,8.0,m,White-European,no,no,8.0,Parent,YES
-0,1,1,0,1,1,0,0,0,1,5.0,m,Asian,no,no,5.0,Parent,NO
-1,1,1,1,1,1,1,0,1,1,11.0,f,White-European,no,no,9.0,Parent,YES
-1,1,1,1,0,0,1,0,1,1,11.0,f,White-European,no,no,7.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,4.0,m,White-European,no,no,10.0,Parent,YES
-1,1,1,1,0,1,0,0,0,0,5.0,m,Latino,no,yes,5.0,Parent,NO
-0,1,1,1,1,1,1,1,1,1,6.0,m,Hispanic,no,no,9.0,Parent,YES
-1,0,1,1,1,1,1,0,1,1,4.0,f,White-European,no,no,8.0,Parent,YES
-1,0,0,1,1,1,1,0,0,0,11.0,f,White-European,yes,yes,5.0,Relative,NO
-0,0,1,1,1,1,1,1,1,1,5.0,m,Asian,no,no,8.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,6.0,m,Latino,no,no,10.0,Parent,YES
-1,0,1,0,1,1,1,1,0,1,7.0,m,Hispanic,no,no,7.0,Parent,YES
-1,1,1,1,1,1,0,1,0,1,11.0,m,White-European,no,no,8.0,Parent,YES
-1,1,1,1,1,0,1,0,1,1,4.0,m,White-European,no,no,8.0,Parent,YES
-1,1,1,0,1,1,1,0,1,1,4.0,m,White-European,no,yes,8.0,Parent,YES
-0,0,1,1,0,0,0,0,0,0,7.0,m,White-European,no,yes,2.0,Parent,NO
-1,1,0,1,0,1,1,0,1,0,11.0,f,White-European,yes,yes,6.0,Relative,NO
-1,1,1,1,0,1,1,0,0,1,6.0,f,Asian,no,no,7.0,Parent,YES
-0,0,0,0,0,0,1,0,1,0,9.0,f,White-European,no,no,2.0,Parent,NO
-0,1,0,1,0,1,0,0,1,1,10.0,m,Others,no,no,5.0,Relative,NO
-0,0,0,0,1,1,1,0,0,1,4.0,m,Asian,no,yes,4.0,Parent,NO
-1,1,1,1,1,1,0,1,0,1,4.0,m,Asian,yes,no,8.0,Parent,YES
-1,1,1,1,1,1,0,0,1,1,10.0,m,White-European,yes,no,8.0,Parent,YES
-1,0,0,0,1,0,0,0,0,1,4.0,f,White-European,yes,yes,3.0,Parent,NO
-0,1,0,0,0,1,1,1,0,0,11.0,m,Asian,no,no,4.0,Parent,NO
-0,0,1,0,1,0,0,0,0,1,7.0,m,Asian,no,no,3.0,Parent,NO
-1,1,0,0,0,0,0,0,0,1,4.0,f,White-European,no,no,3.0,Parent,NO
-0,0,1,1,1,1,0,1,1,1,8.0,m,White-European,no,no,7.0,Parent,YES
-1,1,1,1,1,1,1,1,1,0,4.0,m,White-European,no,no,9.0,Parent,YES
-1,0,1,0,1,1,0,1,0,1,4.0,m,South Asian,no,no,6.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,11.0,m,Asian,yes,no,10.0,Relative,YES
-1,1,1,1,1,1,1,0,1,1,10.0,f,Asian,no,no,9.0,Parent,YES
-1,1,0,1,0,1,0,0,1,1,6.0,f,White-European,no,no,6.0,Parent,NO
-0,0,0,1,1,1,1,1,1,0,4.0,m,Asian,no,no,6.0,Relative,NO
-0,1,1,0,1,0,0,0,0,1,4.0,m,Asian,no,yes,4.0,Parent,NO
-0,1,1,1,0,1,0,1,1,1,4.0,m,Asian,no,no,7.0,Relative,YES
-0,0,1,1,0,0,1,1,1,0,10.0,m,White-European,no,no,5.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,7.0,m,White-European,no,no,10.0,Relative,YES
-1,1,1,0,0,1,1,1,1,1,6.0,f,White-European,yes,no,8.0,Parent,YES
-0,1,1,0,1,1,1,1,1,1,5.0,m,Asian,no,no,8.0,Parent,YES
-0,0,1,0,1,1,1,1,1,1,4.0,f,Asian,yes,no,7.0,Parent,YES
-1,0,1,0,1,1,1,1,0,0,9.0,m,Asian,no,no,6.0,Parent,NO
-1,0,1,1,0,1,1,1,0,1,4.0,f,White-European,yes,no,7.0,Parent,YES
-1,1,1,1,1,1,1,0,1,1,10.0,m,White-European,no,no,9.0,Parent,YES
-1,1,0,0,0,0,1,0,0,1,9.0,m,White-European,no,no,4.0,Parent,NO
-0,1,1,1,1,1,0,0,0,1,5.0,m,White-European,yes,yes,6.0,Parent,NO
-1,1,1,0,0,0,0,0,1,1,4.0,f,Black,no,no,5.0,Parent,NO
-1,1,1,1,1,1,0,1,1,1,4.0,m,White-European,no,yes,9.0,Parent,YES
-0,1,1,1,1,0,0,0,1,0,6.0,m,White-European,no,no,5.0,Parent,NO
-1,1,1,0,1,0,1,0,1,1,4.0,f,White-European,yes,no,7.0,Parent,YES
-0,0,0,0,0,0,0,0,0,0,5.0,f,Hispanic,no,no,0.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,9.0,m,White-European,yes,yes,10.0,Parent,YES
-1,0,1,1,1,0,1,1,1,1,7.0,f,White-European,no,no,8.0,Parent,YES
-0,1,1,0,0,1,1,1,0,1,10.0,f,White-European,no,no,6.0,Parent,NO
-1,0,1,1,1,1,0,1,0,1,4.0,m,South Asian,no,no,7.0,Parent,YES
-1,0,1,1,0,1,1,1,0,1,4.0,m,Asian,no,no,7.0,Relative,YES
-1,1,0,1,1,1,1,0,0,0,7.0,f,White-European,no,no,6.0,Parent,NO
-1,1,1,1,1,1,1,0,1,1,4.0,m,Black,yes,no,9.0,Parent,YES
-1,1,1,1,1,1,1,0,1,1,10.0,m,White-European,no,no,9.0,Health care professional,YES
-0,0,1,0,1,1,0,1,1,1,4.0,m,Asian,no,no,6.0,Parent,NO
-1,1,1,1,1,1,0,0,0,1,4.0,m,South Asian,no,yes,7.0,Parent,YES
-1,0,1,0,1,1,0,1,1,1,4.0,m,Black,no,yes,7.0,Parent,YES
-0,1,1,0,0,0,1,1,1,1,7.0,m,White-European,yes,no,6.0,Parent,NO
-1,1,1,1,1,1,1,0,1,1,4.0,m,White-European,no,no,9.0,Parent,YES
-1,1,1,1,1,0,1,0,1,1,5.0,f,White-European,no,no,8.0,Parent,YES
-1,1,1,1,1,1,1,1,0,1,6.0,m,Others,yes,no,9.0,Parent,YES
-0,1,0,0,0,1,1,1,1,1,6.0,f,Asian,no,no,6.0,Parent,NO
-1,1,0,0,1,1,1,1,1,1,6.0,f,White-European,no,yes,8.0,Parent,YES
-0,1,0,1,1,1,1,0,1,1,9.0,m,White-European,no,yes,7.0,Parent,YES
-1,0,0,0,1,1,1,1,1,1,9.0,m,White-European,no,no,7.0,Parent,YES
-0,1,0,0,0,1,0,0,0,1,9.0,f,White-European,no,yes,3.0,Parent,NO
-1,0,0,1,1,1,1,0,1,1,7.0,m,Black,no,no,7.0,Parent,YES
-0,0,1,0,0,1,1,0,0,1,4.0,m,Asian,no,no,4.0,Relative,NO
-1,0,0,0,1,1,1,0,0,1,10.0,f,Others,no,no,5.0,Self,NO
-0,0,0,0,1,0,1,1,0,1,8.0,m,Middle Eastern ,no,no,4.0,Parent,NO
-1,0,1,1,1,1,1,1,0,1,6.0,m,Others,no,no,8.0,Parent,YES
-1,0,1,1,1,1,1,1,1,1,11.0,f,White-European,no,no,9.0,Parent,YES
-1,1,1,0,1,0,1,0,0,0,5.0,f,White-European,no,no,5.0,Parent,NO
-0,0,1,0,1,0,1,0,0,1,4.0,f,White-European,no,yes,4.0,Relative,NO
-0,0,1,1,1,1,0,0,0,1,11.0,f,Others,yes,no,5.0,Self,NO
-1,0,1,0,1,1,0,0,0,0,8.0,m,White-European,no,no,4.0,Parent,NO
-1,0,1,1,1,0,0,0,0,0,8.0,m,White-European,no,no,4.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,9.0,m,White-European,no,no,10.0,Parent,YES
-0,0,0,1,0,1,0,0,1,1,4.0,m,Asian,no,no,4.0,Parent,NO
-0,0,1,0,1,1,1,1,1,1,4.0,m,Asian,no,no,7.0,Parent,YES
-1,0,0,1,1,1,1,1,1,1,11.0,m,Hispanic,no,no,8.0,self,YES
-0,1,1,1,0,1,0,0,0,1,10.0,f,Asian,no,no,5.0,Parent,NO
-1,0,1,1,1,1,0,1,0,1,11.0,m,Asian,no,no,7.0,Parent,YES
-1,0,1,0,1,0,1,0,1,1,4.0,m,Black,yes,no,6.0,Parent,NO
-1,1,1,0,1,0,1,1,1,1,4.0,m,White-European,yes,no,8.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,6.0,f,Black,no,no,10.0,Parent,YES
-0,0,1,1,1,1,1,1,0,0,8.0,m,White-European,no,no,6.0,Parent,NO
-1,1,1,1,1,0,1,1,1,1,4.0,f,White-European,no,yes,9.0,Parent,YES
-1,1,0,1,1,1,1,0,0,1,8.0,m,White-European,no,no,7.0,Parent,YES
-1,1,1,0,1,1,0,0,1,1,11.0,m,Hispanic,no,no,7.0,Relative,YES
-1,0,1,0,1,1,1,0,1,0,4.0,f,White-European,yes,yes,6.0,Parent,NO
-1,1,1,0,0,0,0,0,0,0,4.0,m,White-European,no,no,3.0,Parent,NO
-1,1,1,1,1,1,0,0,1,1,8.0,m,Black,no,no,8.0,Parent,YES
-0,0,1,0,1,1,1,1,1,1,4.0,m,Pasifika,no,no,7.0,Health care professional,YES
-0,1,1,1,1,1,1,1,1,1,4.0,m,South Asian,no,no,9.0,Parent,YES
-1,0,0,0,1,0,1,0,0,1,9.0,m,White-European,no,yes,4.0,Parent,NO
-1,0,0,0,1,0,1,0,0,1,9.0,m,White-European,yes,yes,4.0,Parent,NO
-1,1,1,1,1,1,1,0,1,0,4.0,f,White-European,no,yes,8.0,Parent,YES
-0,0,1,0,1,0,1,0,0,1,5.0,m,South Asian,no,no,4.0,Relative,NO
-1,1,1,1,1,1,0,0,0,1,7.0,f,Asian,yes,no,7.0,Parent,YES
-1,0,1,1,1,0,1,1,1,1,4.0,f,White-European,yes,no,8.0,Parent,YES
-1,1,1,1,0,1,0,0,0,0,5.0,f,White-European,no,no,5.0,Parent,NO
-1,1,1,1,1,1,0,1,1,0,6.0,m,Asian,no,no,8.0,Health care professional,YES
-1,1,1,1,0,1,1,1,1,1,8.0,m,White-European,no,no,9.0,Parent,YES
-1,0,0,0,1,0,0,0,0,1,4.0,m,Asian,no,no,3.0,Parent,NO
-1,0,1,1,1,1,0,1,0,0,5.0,m,Latino,no,yes,6.0,Parent,NO
-1,0,1,1,1,1,0,1,0,1,5.0,m,Latino,no,yes,7.0,Parent,YES
-1,0,1,0,1,0,1,0,1,1,6.0,m,White-European,yes,no,6.0,Parent,NO
-0,0,1,0,1,1,1,0,1,1,8.0,m,White-European,no,no,6.0,Parent,NO
-1,0,1,1,0,1,0,1,1,0,5.0,m,South Asian,no,no,6.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,4.0,f,Asian,no,yes,10.0,Parent,YES
-1,0,1,1,1,1,1,1,1,0,6.0,m,White-European,no,no,8.0,Parent,YES
-0,0,0,0,0,0,0,0,0,1,11.0,m,Turkish,no,yes,1.0,Parent,NO
-0,0,1,0,0,0,1,0,1,0,6.0,m,Others,no,no,3.0,Parent,NO
-1,0,1,1,1,1,1,1,1,1,4.0,f,Hispanic,no,no,9.0,Parent,YES
-1,1,1,1,1,1,1,0,0,1,4.0,m,White-European,no,yes,8.0,Parent,YES
-1,1,1,1,1,0,1,1,0,0,4.0,m,White-European,no,no,7.0,Parent,YES
-1,1,1,1,1,1,0,0,1,1,6.0,m,White-European,no,no,8.0,Parent,YES
-1,0,1,1,1,0,0,0,0,0,8.0,m,White-European,yes,no,4.0,Health care professional,NO
-1,1,1,1,1,1,1,1,1,1,9.0,m,Black,yes,no,10.0,Parent,YES
-0,0,0,0,1,1,0,1,0,1,8.0,f,South Asian,no,no,4.0,Parent,NO
-0,0,1,0,1,1,1,1,1,1,5.0,m,South Asian,no,no,7.0,Parent,YES
-1,0,0,0,1,0,1,1,0,0,5.0,m,Middle Eastern ,no,no,4.0,Health care professional,NO
-1,1,1,1,0,1,0,1,1,1,4.0,m,Asian,yes,no,8.0,Health care professional,YES
-1,0,0,1,1,1,1,1,1,1,10.0,m,White-European,no,no,8.0,Parent,YES
-0,1,1,0,1,1,1,0,0,0,4.0,m,Others,yes,no,5.0,Parent,NO
-1,1,1,1,1,1,1,0,1,1,7.0,f,Asian,no,no,9.0,Parent,YES
-0,1,1,0,0,1,0,0,1,1,11.0,f,Latino,yes,no,5.0,Health care professional,NO
-1,0,0,1,0,1,0,1,1,0,11.0,m,Asian,no,no,5.0,Parent,NO
-1,0,0,1,1,1,0,0,0,1,11.0,f,White-European,no,yes,5.0,Parent,NO
-1,1,1,1,0,0,1,0,1,0,9.0,m,South Asian,no,no,6.0,Parent,NO
-1,0,1,0,1,1,1,0,0,1,6.0,m,South Asian,yes,no,6.0,Parent,NO
-1,1,1,0,0,1,0,1,0,1,5.0,m,Middle Eastern ,no,no,6.0,Parent,NO
-1,1,1,0,1,0,0,0,0,0,5.0,m,Middle Eastern ,yes,no,4.0,Parent,NO
-0,0,0,0,0,0,1,0,0,0,10.0,m,Middle Eastern ,no,yes,1.0,Parent,NO
-0,0,1,0,0,0,1,0,0,1,7.0,m,Middle Eastern ,no,no,3.0,Parent,NO
-0,1,0,1,1,1,1,1,0,1,7.0,m,Middle Eastern ,yes,no,7.0,Parent,YES
-1,0,1,0,1,1,1,1,0,1,7.0,m,Middle Eastern ,yes,no,7.0,Parent,YES
-1,0,1,1,1,1,1,1,0,1,9.0,f,Middle Eastern ,no,no,8.0,Parent,YES
-1,1,1,0,0,1,0,0,0,1,5.0,m,Middle Eastern ,yes,no,5.0,Parent,NO
-1,1,1,0,1,1,0,0,0,0,4.0,m,South Asian,no,no,5.0,Parent,NO
-0,0,0,1,1,1,0,0,0,1,5.0,m,Asian,no,yes,4.0,Parent,NO
-1,1,1,1,1,1,1,1,1,1,4.0,f,South Asian,no,no,10.0,Health care professional,YES
-1,0,0,0,1,0,1,0,0,1,5.0,m,South Asian,no,no,4.0,Parent,NO
-1,0,1,1,1,1,1,1,0,1,5.0,m,Black,no,no,8.0,Parent,YES
-1,1,1,1,0,1,0,0,0,1,4.0,m,White-European,no,no,6.0,Parent,NO
-1,1,0,0,1,0,1,1,0,0,6.0,m,Asian,no,no,5.0,Parent,NO
-0,1,1,0,0,1,1,0,1,1,5.0,m,Asian,no,no,6.0,Relative,NO
-1,0,1,1,1,1,1,0,1,1,11.0,m,White-European,no,no,8.0,Parent,YES
-1,1,1,1,0,1,0,1,1,1,10.0,m,Black,yes,no,8.0,Parent,YES
-1,1,0,0,1,1,0,0,0,1,4.0,m,South Asian,no,no,5.0,Parent,NO
-1,0,1,1,1,1,1,1,1,1,5.0,m,Others,no,no,9.0,Parent,YES
-1,0,1,0,0,0,1,1,0,0,9.0,m,Middle Eastern ,yes,no,4.0,Parent,NO
-0,1,1,1,1,1,0,1,0,1,4.0,m,Asian,no,no,7.0,Parent,YES
-1,0,1,0,0,0,0,0,1,0,4.0,f,White-European,no,yes,3.0,Parent,NO
-0,0,1,0,0,0,1,0,1,0,5.0,m,Black,no,no,3.0,Parent,NO
-1,1,1,1,1,0,1,1,1,1,8.0,m,White-European,no,yes,9.0,Parent,YES
-1,1,1,1,1,1,1,0,1,1,8.0,m,White-European,yes,no,9.0,Parent,YES
-1,0,1,1,0,0,0,0,1,0,6.0,m,Asian,no,no,4.0,Health care professional,NO
-0,0,1,0,1,1,1,1,0,1,11.0,m,Asian,no,no,6.0,Parent,NO
-1,1,1,0,1,1,0,0,1,1,10.0,f,Asian,no,no,7.0,Parent,YES
-1,0,0,0,1,0,0,1,0,1,6.0,f,White-European,no,no,4.0,Parent,NO
-1,1,1,1,1,1,1,1,1,0,6.0,m,Asian,no,yes,9.0,Parent,YES
-0,0,1,0,0,0,0,0,0,1,4.0,m,Black,no,yes,2.0,Parent,NO
-0,1,1,1,1,1,0,0,0,1,4.0,m,White-European,no,no,6.0,Parent,NO
-0,1,1,0,0,1,0,1,1,1,4.0,f,White-European,yes,no,6.0,Parent,NO
-0,0,0,0,1,1,1,0,1,0,5.0,m,Others,no,no,4.0,Parent,NO
-1,0,1,0,1,1,1,0,0,1,10.0,f,White-European,no,no,6.0,Health care professional,NO
-0,1,0,1,1,1,1,1,1,1,10.0,f,White-European,no,no,8.0,Health care professional,YES
-0,1,1,1,1,1,1,1,1,1,5.0,f,Latino,yes,no,9.0,Parent,YES
-1,1,1,1,1,1,1,1,1,1,7.0,f,White-European,yes,yes,10.0,Parent,YES
-1,0,0,0,1,0,1,0,0,1,7.0,f,White-European,yes,yes,4.0,Parent,NO
-1,0,1,1,1,1,1,0,0,1,4.0,m,Latino,no,no,7.0,Parent,YES
-1,1,1,0,1,1,1,1,1,1,4.0,m,South Asian,no,no,9.0,Parent,YES
-0,0,1,0,1,0,1,0,0,0,4.0,f,South Asian,no,no,3.0,Parent,NO
+0,0,0,1,1,1,1,1,1,0,15,m,Hispanic,yes,yes,6.0,Parent,NO
+0,0,0,0,0,0,0,0,1,1,15,m,Black,no,no,2.0,Relative,NO
+0,1,1,1,1,1,0,1,1,0,14,f,White-European,no,no,7.0,Self,YES
+1,1,0,1,1,0,1,1,0,1,15,f,Middle Eastern ,no,no,7.0,Parent,YES
+1,1,1,1,1,1,0,0,0,0,12,m,Black,yes,yes,6.0,Parent,NO
+0,1,1,0,0,1,0,0,1,0,12,f,South Asian,no,no,4.0,Parent,NO
+1,0,0,0,1,1,0,1,1,0,13,f,Middle Eastern ,yes,no,5.0,Parent,NO
+1,0,0,0,1,1,0,0,1,1,13,f,White-European,no,no,5.0,Self,NO
+1,0,0,1,1,1,0,1,1,1,12,f,Others,no,no,7.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,12,f,Others,no,no,9.0,Parent,YES
+1,0,1,1,1,1,0,1,1,1,12,f,Others,no,no,8.0,Self,YES
+1,1,0,1,1,1,1,1,1,1,15,f,White-European,no,yes,9.0,Parent,YES
+1,0,0,0,1,0,0,1,0,1,12,f,Others,yes,yes,4.0,Parent,NO
+1,0,1,1,1,1,0,1,1,1,12,f,Others,no,no,8.0,Parent,YES
+1,1,1,1,1,0,0,1,1,0,13,f,White-European,no,no,7.0,Parent,YES
+1,1,1,0,1,1,1,0,1,1,12,m,White-European,no,no,8.0,Parent,YES
+0,0,1,1,1,1,0,1,1,1,12,f,Others,no,no,7.0,Parent,YES
+1,1,1,1,0,1,1,1,1,1,14,m,White-European,no,no,9.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,15,f,White-European,no,no,10.0,Parent,YES
+1,0,1,1,1,1,1,1,1,1,13,m,Middle Eastern ,no,yes,9.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,14,m,Hispanic,no,no,10.0,Self,YES
+1,0,1,1,1,1,0,1,1,1,12,f,Others,no,no,8.0,Health care professional,YES
+1,1,0,1,0,0,0,0,0,0,12,m,Middle Eastern ,no,no,3.0,Self,NO
+1,0,1,1,1,0,0,0,1,1,14,f,White-European,no,no,6.0,Self,NO
+0,1,1,1,1,1,1,1,1,1,16,m,Others,no,no,9.0,Parent,YES
+1,0,1,1,1,1,0,1,1,1,14,f,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,1,0,0,0,1,13,m,White-European,no,no,7.0,Self,YES
+1,0,1,1,1,1,0,1,1,1,16,f,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,1,1,0,1,1,12,m,Middle Eastern ,yes,no,9.0,Parent,YES
+1,0,1,1,1,1,1,1,1,1,14,f,Others,no,no,9.0,Self,YES
+1,1,1,1,0,1,1,1,1,1,16,f,Latino,no,yes,9.0,Self,YES
+1,0,1,1,1,1,1,1,1,1,15,f,Black,no,no,9.0,Self,YES
+0,0,1,1,1,1,1,1,1,1,14,f,Others,no,no,8.0,Self,YES
+0,0,1,1,1,1,1,1,1,1,12,m,White-European,no,no,8.0,Relative,YES
+1,0,1,0,1,1,1,1,1,1,15,m,White-European,no,no,8.0,Health care professional,YES
+1,1,0,0,1,1,0,0,1,0,13,f,Others,yes,yes,5.0,Self,NO
+1,0,0,0,1,1,0,0,0,0,16,m,Hispanic,no,no,3.0,Self,NO
+0,1,1,1,1,1,1,1,1,1,16,m,Hispanic,no,no,9.0,Self,YES
+0,0,1,1,1,1,1,1,1,0,15,f,White-European,no,no,7.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,16,m,Asian,yes,no,10.0,Relative,YES
+0,1,1,1,1,1,1,1,1,1,16,m,Asian,yes,no,9.0,Relative,YES
+1,1,1,1,0,1,0,0,1,0,12,m,Asian,no,no,6.0,Parent,NO
+1,1,1,0,1,1,1,1,1,1,12,f,Black,no,no,9.0,Parent,YES
+1,1,0,1,1,1,0,0,1,1,14,f,South Asian,no,no,7.0,Self,YES
+0,0,1,1,0,1,0,1,1,1,13,m,Asian,no,no,6.0,Parent,NO
+0,1,1,1,1,1,1,1,1,1,13,m,Asian,no,no,9.0,Parent,YES
+1,0,0,1,1,1,0,1,1,1,16,f,Black,no,no,7.0,Self,YES
+0,0,0,1,1,1,0,0,0,1,13,m,Middle Eastern ,no,no,4.0,Others,NO
+1,0,0,0,0,0,0,0,0,0,15,f,Hispanic,no,no,1.0,Self,NO
+0,0,0,1,0,0,1,1,0,0,15,m,Latino,no,no,3.0,Self,NO
+0,1,0,0,0,0,0,0,0,0,15,m,Black,no,no,1.0,Parent,NO
+1,1,1,1,1,1,1,1,0,0,16,m,White-European,no,no,8.0,Self,YES
+0,0,0,0,0,0,1,0,0,0,16,m,Latino,no,no,1.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,16,m,Latino,no,no,10.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,12,f,White-European,no,yes,10.0,Self,YES
+1,1,0,0,0,0,0,1,0,0,16,f,White-European,no,no,3.0,Self,NO
+0,0,1,1,1,1,1,1,1,1,16,f,White-European,no,no,8.0,Parent,YES
+1,0,1,1,1,1,0,0,1,1,16,f,White-European,yes,no,7.0,Self,YES
+1,0,1,1,1,0,1,1,1,0,14,f,White-European,no,yes,7.0,Self,YES
+1,0,1,1,1,1,0,1,1,1,15,f,White-European,no,no,8.0,Health care professional,YES
+1,0,1,1,1,1,0,1,1,1,15,f,Asian,no,no,8.0,Self,YES
+0,0,1,0,1,1,1,0,0,0,16,m,White-European,no,no,4.0,Others,NO
+1,1,1,1,1,1,0,0,1,1,13,f,White-European,no,no,8.0,Self,YES
+1,1,0,0,1,0,1,1,1,1,14,m,Others,no,no,7.0,Self,YES
+1,1,0,0,0,1,0,1,1,1,13,f,White-European,no,yes,6.0,Health care professional,NO
+0,1,0,1,1,1,0,1,1,1,16,f,White-European,no,no,7.0,Self,YES
+1,1,1,1,0,1,0,0,1,1,12,f,Black,no,yes,7.0,Self,YES
+1,1,1,1,1,1,0,1,1,0,12,m,White-European,no,no,8.0,Health care professional,YES
+1,1,1,1,1,1,1,0,1,0,16,m,Asian,no,no,8.0,Parent,YES
+1,1,1,0,1,0,1,0,1,0,16,m,Asian,no,yes,6.0,Self,NO
+1,1,1,1,1,1,1,0,1,1,14,f,White-European,no,no,9.0,Parent,YES
+1,1,0,0,1,0,1,0,0,0,12,m,Asian,yes,no,4.0,Self,NO
+1,1,1,1,1,1,1,1,1,0,14,m,White-European,no,no,9.0,Parent,YES
+1,0,1,1,0,1,1,1,1,1,16,f,White-European,yes,no,8.0,Parent,YES
+0,0,1,1,0,1,0,1,1,1,13,f,Black,no,no,6.0,Parent,NO
+1,0,0,0,1,1,0,1,0,0,16,m,South Asian,no,no,4.0,Self,NO
+1,1,1,0,1,1,1,0,1,1,16,m,Asian,no,no,8.0,Relative,YES
+1,1,0,1,1,1,0,0,1,0,15,m,White-European,no,no,6.0,Self,NO
+1,0,0,1,1,1,0,0,1,1,14,m,White-European,no,no,6.0,Parent,NO
+0,0,1,1,1,0,1,1,1,1,16,m,Asian,yes,no,7.0,Others,YES
+1,1,1,1,1,1,1,0,1,1,16,m,Asian,yes,no,9.0,Relative,YES
+0,1,1,1,0,0,0,1,1,1,16,f,White-European,yes,no,6.0,Self,NO
+1,1,1,1,1,1,0,0,1,1,14,m,White-European,no,no,8.0,Parent,YES
+1,0,1,0,0,1,0,0,1,1,13,m,White-European,no,no,5.0,Self,NO
+1,1,0,1,1,1,1,1,1,1,16,m,White-European,no,no,9.0,Self,YES
+1,1,0,1,1,1,1,1,1,1,15,m,White-European,yes,yes,9.0,Self,YES
+1,0,1,0,1,0,1,0,0,0,12,m,Asian,no,no,4.0,Relative,NO
+1,1,1,0,1,1,0,0,1,1,16,m,White-European,yes,no,7.0,Self,YES
+1,1,0,1,0,0,1,1,0,0,15,m,Asian,no,no,5.0,Self,NO
+1,1,1,0,1,1,1,1,1,1,15,f,Middle Eastern ,no,yes,9.0,Parent,YES
+1,1,1,1,1,1,1,1,0,0,16,f,Latino,no,no,8.0,Health care professional,YES
+0,1,1,1,0,1,1,0,1,0,12,f,Middle Eastern ,no,no,6.0,Parent,NO
+0,1,1,1,0,1,1,0,1,0,16,f,Middle Eastern ,no,no,6.0,Parent,NO
+1,0,1,0,0,0,0,1,0,1,16,m,Asian,no,no,4.0,Parent,NO
+1,0,0,1,1,1,1,1,1,1,12,f,White-European,no,no,8.0,Self,YES
+1,1,0,1,1,0,0,0,1,1,13,f,White-European,no,no,6.0,Self,NO
+1,0,1,0,0,1,1,1,1,0,12,m,Asian,no,no,6.0,Parent,NO
+1,1,1,1,0,0,1,1,0,0,26,f,White-European,no,no,6.0,Self,NO
+1,1,0,1,0,0,0,1,0,1,24,m,Latino,no,yes,5.0,Self,NO
+1,1,0,1,1,0,1,1,1,1,27,m,Latino,yes,yes,8.0,Parent,YES
+1,1,0,1,0,0,1,1,0,1,35,f,White-European,no,yes,6.0,Self,NO
+1,1,1,1,1,0,1,1,1,1,36,m,Others,yes,no,9.0,Self,YES
+0,1,0,0,0,0,0,1,0,0,17,f,Black,no,no,2.0,Self,NO
+1,1,1,1,0,0,0,0,1,0,64,m,White-European,no,no,5.0,Parent,NO
+1,1,0,0,1,0,0,1,1,1,29,m,White-European,no,no,6.0,Self,NO
+1,1,1,1,0,1,1,1,1,0,17,m,Asian,yes,yes,8.0,Health care professional,YES
+1,1,1,1,1,1,1,1,1,1,33,m,White-European,no,no,10.0,Relative,YES
+0,1,0,1,1,1,1,0,0,1,18,f,Middle Eastern ,no,no,6.0,Parent,NO
+1,1,0,1,1,0,0,1,0,1,18,m,Middle Eastern ,no,yes,6.0,Parent,NO
+1,0,0,0,0,0,1,1,1,1,31,m,Middle Eastern ,no,no,5.0,Self,NO
+0,0,0,0,0,0,0,1,0,1,30,m,White-European,no,no,2.0,Self,NO
+0,0,1,0,1,1,0,0,0,0,35,f,Middle Eastern ,no,yes,3.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,27,f,Black,no,no,0.0,Self,NO
+0,0,0,1,0,0,1,1,1,1,27,m,Middle Eastern ,no,no,5.0,Self,NO
+0,0,0,0,0,0,0,1,0,1,42,m,Middle Eastern ,yes,no,2.0,Relative,NO
+0,0,0,0,0,0,0,1,0,0,40,m,Pasifika,yes,yes,1.0,Self,NO
+0,0,0,0,0,0,0,1,0,0,40,m,Middle Eastern ,yes,yes,1.0,Parent,NO
+0,0,0,0,0,0,0,1,0,0,48,m,Black,no,no,1.0,Self,NO
+0,1,1,0,0,0,0,0,1,1,31,m,Middle Eastern ,no,no,4.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,18,m,White-European,no,no,0.0,Self,NO
+1,0,0,1,1,1,1,1,0,1,37,f,White-European,no,yes,7.0,Self,YES
+1,1,0,0,0,0,1,0,0,1,55,f,Others,no,no,4.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,18,f,White-European,yes,no,10.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,18,f,White-European,no,no,10.0,Self,YES
+0,0,1,0,0,0,0,0,0,0,55,m,White-European,no,no,1.0,Self,NO
+0,1,1,0,1,0,0,1,1,1,50,m,Middle Eastern ,no,no,6.0,Self,NO
+1,0,1,1,1,1,0,0,1,0,34,f,White-European,no,no,6.0,Self,NO
+1,0,0,1,1,1,1,0,1,1,53,f,White-European,no,no,7.0,Self,YES
+1,0,1,1,0,1,1,1,1,1,35,f,White-European,no,yes,8.0,Self,YES
+1,0,1,1,1,0,1,1,0,1,20,f,Latino,yes,no,7.0,Self,YES
+0,0,0,0,1,1,0,0,0,0,28,f,Asian,no,no,2.0,Self,NO
+0,0,1,1,0,0,0,0,0,1,34,f,Middle Eastern ,no,yes,3.0,Self,NO
+0,1,1,1,0,0,0,0,0,1,36,f,White-European,yes,yes,4.0,Self,NO
+1,1,1,1,1,1,0,1,0,1,27,f,White-European,no,no,8.0,Self,YES
+1,0,1,1,1,1,0,1,1,0,53,f,White-European,no,no,7.0,Relative,YES
+1,1,1,1,0,1,0,0,0,0,24,f,Pasifika,no,no,5.0,Relative,NO
+0,0,1,1,1,0,1,0,0,0,24,m,Pasifika,no,no,4.0,Relative,NO
+0,1,1,0,0,1,0,0,0,0,55,m,White-European,no,no,3.0,Relative,NO
+1,1,0,0,0,1,1,1,0,1,30,f,Asian,no,no,6.0,Self,NO
+1,0,0,1,0,0,0,1,0,0,21,f,Latino,no,no,3.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,35,f,Black,no,no,10.0,Parent,YES
+1,0,1,1,1,1,1,1,0,1,21,m,Latino,no,yes,8.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,47,m,White-European,no,no,10.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,30,f,Asian,no,no,9.0,Self,YES
+1,0,1,1,1,1,0,1,1,1,28,f,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,43,f,White-European,no,no,9.0,Self,YES
+1,0,0,0,1,0,0,1,0,0,32,f,South Asian,no,yes,3.0,Self,NO
+1,1,1,1,0,0,0,1,0,0,44,f,White-European,no,no,5.0,Self,NO
+1,0,1,1,1,1,1,1,0,1,20,f,Others,no,no,8.0,Self,YES
+1,0,1,1,0,1,1,1,0,1,20,f,Others,no,no,7.0,Self,YES
+1,0,0,1,1,0,0,1,1,0,19,m,White-European,no,no,5.0,Parent,NO
+1,1,1,1,1,1,1,1,0,1,29,f,White-European,no,no,9.0,Self,YES
+1,0,1,0,0,0,0,1,0,0,21,m,Middle Eastern ,no,no,3.0,Self,NO
+0,1,0,0,0,0,0,1,0,0,27,m,Middle Eastern ,no,no,2.0,Parent,NO
+1,0,1,0,1,1,1,1,0,0,21,m,Hispanic,no,no,6.0,Self,NO
+1,0,0,0,1,0,1,0,0,1,35,m,Middle Eastern ,no,no,4.0,Self,NO
+0,0,0,0,1,0,0,0,0,0,42,m,Black,no,no,1.0,Self,NO
+1,1,0,0,0,0,1,1,0,1,29,f,South Asian,no,no,5.0,Self,NO
+0,0,1,1,0,0,0,1,0,0,58,m,Asian,no,no,3.0,Self,NO
+1,0,1,1,0,0,1,1,0,1,21,m,Others,no,no,6.0,Self,NO
+1,1,1,0,0,0,0,1,1,1,21,m,Others,no,no,6.0,Self,NO
+0,0,1,1,1,0,0,1,1,1,37,f,White-European,no,yes,6.0,Self,NO
+1,1,0,1,1,1,1,1,0,0,21,m,Hispanic,no,no,7.0,Self,YES
+1,0,0,0,0,0,1,1,0,0,20,m,Middle Eastern ,no,no,3.0,Self,NO
+1,1,0,1,1,1,1,1,1,0,33,f,Black,no,yes,8.0,Self,YES
+1,0,0,1,1,0,0,0,0,1,20,m,Middle Eastern ,no,no,4.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,33,f,White-European,no,yes,10.0,Self,YES
+0,0,1,0,1,0,0,1,0,1,42,f,Middle Eastern ,no,no,4.0,Self,NO
+1,1,0,0,0,0,0,0,0,0,17,f,White-European,no,no,2.0,Self,NO
+1,0,0,0,0,0,0,1,0,1,27,f,Middle Eastern ,no,no,3.0,Self,NO
+1,0,0,1,1,1,1,1,1,1,35,f,Middle Eastern ,no,yes,8.0,Parent,YES
+1,0,0,0,0,0,0,0,0,0,37,m,White-European,no,no,1.0,Self,NO
+1,0,0,0,0,0,0,1,1,1,30,f,White-European,no,yes,4.0,Self,NO
+1,1,1,1,1,1,0,1,1,1,29,f,White-European,no,no,9.0,Self,YES
+1,0,1,1,0,0,0,0,0,1,17,f,White-European,no,yes,4.0,Self,NO
+0,0,0,1,1,1,0,1,0,1,22,f,Pasifika,no,no,5.0,Self,NO
+1,1,1,0,1,1,1,0,1,1,19,f,Latino,no,yes,8.0,Self,YES
+1,1,1,1,1,0,0,1,1,1,42,f,White-European,no,yes,8.0,Self,YES
+1,1,0,0,0,0,0,1,0,1,37,f,White-European,no,no,4.0,Self,NO
+1,0,0,0,1,0,1,1,0,0,28,f,White-European,no,no,4.0,Self,NO
+1,0,0,1,1,0,1,0,0,0,22,m,Others,no,no,4.0,Self,NO
+1,1,0,0,0,0,0,1,0,0,26,f,Pasifika,no,no,3.0,Self,NO
+0,0,0,0,0,0,0,0,1,0,21,m,Pasifika,no,no,1.0,Self,NO
+0,1,1,0,0,0,0,1,0,0,26,f,South Asian,no,no,3.0,Self,NO
+1,0,0,0,0,0,0,1,0,0,39,f,Asian,no,no,2.0,Self,NO
+1,0,0,0,0,0,0,0,1,1,26,m,Asian,no,no,3.0,Self,NO
+1,1,0,0,1,0,1,1,0,0,26,m,Asian,no,no,5.0,Self,NO
+0,0,0,0,1,1,0,1,0,1,21,m,South Asian,no,no,4.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,25,m,Asian,no,no,0.0,Self,NO
+0,0,1,0,1,1,1,1,0,1,26,m,South Asian,no,no,6.0,Self,NO
+1,1,0,1,1,0,1,1,0,1,30,f,White-European,no,no,7.0,Self,YES
+1,0,0,1,1,1,1,0,0,0,19,f,Asian,no,no,5.0,Parent,NO
+1,0,0,0,0,1,1,0,0,0,19,f,Asian,no,no,3.0,Parent,NO
+1,0,1,1,1,1,1,1,1,1,25,f,White-European,no,yes,9.0,Self,YES
+0,0,1,1,0,1,0,1,1,1,23,m,White-European,no,no,6.0,Self,NO
+1,0,0,0,1,0,0,0,0,1,31,m,Asian,no,no,3.0,Parent,NO
+0,1,0,0,0,0,0,1,1,1,27,m,Asian,no,no,4.0,Self,NO
+1,1,0,1,1,1,1,1,0,1,29,f,Middle Eastern ,no,no,8.0,Self,YES
+1,0,1,1,1,1,0,1,1,0,38,f,White-European,no,no,7.0,Parent,YES
+1,1,1,1,1,1,0,1,0,1,23,f,White-European,no,no,8.0,Self,YES
+1,1,1,0,1,0,1,1,0,0,27,m,White-European,no,no,6.0,Self,NO
+1,1,1,1,1,1,0,1,1,1,27,f,White-European,no,no,9.0,Self,YES
+1,1,1,1,1,1,0,0,1,0,42,m,White-European,no,no,7.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,20,m,White-European,no,no,9.0,Self,YES
+1,0,1,1,1,1,1,1,1,1,17,f,White-European,no,no,9.0,Self,YES
+1,0,0,0,0,0,0,0,0,0,20,f,Black,no,no,1.0,Self,NO
+1,0,0,1,1,1,1,1,0,1,30,m,Asian,yes,no,7.0,Self,YES
+1,0,1,1,1,1,1,1,1,1,28,f,White-European,no,yes,9.0,Self,YES
+1,1,0,0,1,1,1,1,0,1,26,f,White-European,no,no,7.0,Self,YES
+0,0,0,0,0,0,0,0,0,0,26,f,White-European,no,no,0.0,Self,NO
+1,0,0,1,1,1,0,1,0,1,31,m,Middle Eastern ,no,yes,6.0,Self,NO
+1,0,1,1,0,0,1,0,0,1,40,f,White-European,no,no,5.0,Self,NO
+1,0,0,0,1,0,0,0,1,1,39,f,White-European,no,yes,4.0,Relative,NO
+1,1,0,0,0,0,0,1,0,0,18,f,White-European,no,no,3.0,Self,NO
+1,0,0,0,0,0,0,1,0,1,24,m,Black,no,no,3.0,Self,NO
+1,1,0,0,0,0,0,1,0,0,23,m,South Asian,no,no,3.0,Self,NO
+1,0,1,1,0,0,0,1,0,1,24,m,Asian,no,no,5.0,Self,NO
+0,1,0,0,1,1,0,1,1,0,24,m,Asian,no,no,5.0,Self,NO
+1,0,1,1,0,0,0,1,1,1,27,m,Asian,no,no,6.0,Self,NO
+0,1,1,0,0,1,0,0,1,1,24,m,Asian,no,no,5.0,Self,NO
+0,0,0,0,1,0,0,0,0,1,25,m,Asian,no,no,2.0,Self,NO
+1,0,0,0,0,0,1,0,0,1,22,m,Asian,no,no,3.0,Self,NO
+0,1,0,0,0,0,0,0,0,1,40,f,Asian,no,no,2.0,Self,NO
+0,0,1,1,0,0,0,1,0,1,23,m,Asian,no,no,4.0,Self,NO
+1,0,0,0,0,0,0,1,0,0,29,m,South Asian,no,no,2.0,Self,NO
+1,0,1,0,0,0,0,1,0,0,25,m,Asian,no,no,3.0,Self,NO
+1,0,0,1,1,0,0,1,0,0,27,m,Asian,no,no,4.0,Self,NO
+0,0,0,0,0,0,0,1,0,0,22,m,South Asian,no,no,1.0,Self,NO
+1,0,0,1,1,1,1,1,1,1,28,m,White-European,no,no,8.0,Parent,YES
+1,0,1,1,1,1,1,1,1,1,20,m,White-European,no,no,9.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,19,f,White-European,no,no,10.0,Self,YES
+1,1,0,0,1,1,1,1,0,1,37,f,Others,no,no,7.0,Self,YES
+1,1,1,1,1,0,1,1,1,0,35,m,White-European,yes,yes,8.0,Self,YES
+0,0,0,0,1,0,0,1,0,0,26,m,Asian,no,no,2.0,Self,NO
+0,1,1,1,1,0,1,1,0,1,23,m,Asian,no,no,7.0,Self,YES
+1,1,0,0,1,0,0,0,0,1,32,f,South Asian,no,no,4.0,Self,NO
+0,0,1,0,1,0,1,0,1,1,30,m,Asian,no,no,5.0,Self,NO
+1,0,0,0,1,0,1,0,0,1,31,m,Asian,no,no,4.0,Self,NO
+0,0,0,0,0,0,1,1,0,1,28,f,Asian,no,no,3.0,Self,NO
+1,0,0,0,0,1,0,1,0,1,29,f,Asian,no,no,4.0,Self,NO
+0,1,0,0,1,0,0,1,0,1,29,f,South Asian,no,no,4.0,Self,NO
+1,0,0,1,0,0,0,0,1,1,29,f,Asian,no,no,4.0,Self,NO
+1,0,0,0,0,0,1,1,0,0,31,m,Asian,no,no,3.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,36,m,Asian,no,no,0.0,Parent,NO
+0,1,0,0,0,0,0,1,0,0,32,f,South Asian,no,no,2.0,Self,NO
+0,0,0,0,0,0,0,1,0,0,34,f,South Asian,no,no,1.0,Self,NO
+1,1,0,0,0,0,0,1,0,0,24,m,Asian,no,no,3.0,Self,NO
+1,0,1,0,1,0,1,1,0,1,24,f,Asian,no,no,6.0,Self,NO
+1,0,0,0,1,0,1,1,0,1,42,m,Asian,no,no,5.0,Self,NO
+0,0,1,0,0,0,0,1,1,1,26,f,Others,no,no,4.0,Self,NO
+1,0,0,0,1,0,1,1,0,0,27,f,Asian,no,no,4.0,Self,NO
+0,0,1,1,1,0,0,1,1,1,36,f,Latino,no,yes,6.0,Self,NO
+1,1,1,1,1,0,0,1,1,1,36,f,Latino,no,yes,8.0,Self,YES
+1,0,1,1,0,0,1,1,0,1,55,m,Hispanic,no,no,6.0,Self,NO
+1,1,0,1,0,0,1,0,0,0,23,f,Asian,no,no,4.0,Self,NO
+0,0,1,1,1,0,0,0,0,1,22,f,Asian,no,no,4.0,Self,NO
+1,0,0,0,0,0,0,1,0,0,42,f,Middle Eastern ,no,no,2.0,Parent,NO
+1,0,0,1,0,0,0,1,0,0,54,m,White-European,no,no,3.0,Self,NO
+1,1,0,0,0,0,1,1,1,1,43,f,Black,no,no,6.0,Self,NO
+1,1,1,1,1,1,0,1,1,1,43,f,Black,no,no,9.0,Self,YES
+0,0,1,1,1,0,0,1,1,1,29,m,Middle Eastern ,no,no,6.0,Self,NO
+1,0,1,0,1,0,0,1,0,1,29,m,Middle Eastern ,no,no,5.0,Self,NO
+1,0,1,0,1,0,1,0,0,0,37,m,White-European,no,no,4.0,Self,NO
+1,0,0,0,1,0,1,0,0,1,39,f,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,0,0,0,0,0,18,f,Asian,no,no,5.0,Self,NO
+0,1,0,1,1,1,0,1,0,1,31,m,White-European,no,no,6.0,Others,NO
+0,0,1,1,1,0,0,0,0,1,34,m,Asian,no,no,4.0,Self,NO
+0,0,1,1,1,0,1,0,0,1,22,m,White-European,no,no,5.0,Self,NO
+1,0,1,1,1,1,1,0,1,0,28,m,South Asian,no,no,7.0,Self,YES
+1,0,0,0,0,0,1,1,0,1,38,m,Others,no,yes,4.0,Self,NO
+1,0,0,0,0,0,1,1,0,1,28,f,White-European,no,no,4.0,Self,NO
+1,1,0,1,1,1,0,1,1,1,53,f,White-European,no,yes,8.0,Self,YES
+1,1,1,0,1,0,1,0,0,0,26,m,White-European,no,no,5.0,Self,NO
+1,1,1,1,1,1,0,1,1,1,37,m,White-European,no,no,9.0,Self,YES
+1,1,0,1,0,0,0,1,0,1,42,m,Latino,yes,yes,5.0,Parent,NO
+1,0,0,0,0,0,0,1,0,1,43,m,Hispanic,no,no,3.0,Self,NO
+1,0,0,0,0,0,0,1,0,0,32,f,Asian,no,no,2.0,Self,NO
+0,1,0,1,0,0,0,1,0,0,31,m,White-European,no,yes,3.0,Self,NO
+1,0,1,1,1,1,1,1,1,1,53,f,White-European,no,no,9.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,28,m,White-European,no,no,10.0,Self,YES
+1,0,1,1,1,1,1,1,1,1,38,m,White-European,no,no,9.0,Self,YES
+1,1,1,0,1,1,0,1,1,0,31,m,White-European,no,no,7.0,Self,YES
+1,1,1,1,0,0,0,0,0,0,31,f,Pasifika,no,yes,4.0,Self,NO
+1,1,1,1,1,0,1,1,1,1,21,f,White-European,no,no,9.0,Self,YES
+1,1,0,1,1,0,0,0,1,1,25,f,White-European,no,no,6.0,Self,NO
+1,1,0,1,1,0,0,1,1,1,25,f,White-European,no,no,7.0,Self,YES
+1,1,1,1,1,1,1,0,1,1,60,f,White-European,no,yes,9.0,Relative,YES
+1,0,1,1,0,0,0,0,0,0,39,m,White-European,no,yes,3.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,53,m,White-European,no,no,10.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,20,m,Middle Eastern ,no,yes,10.0,Parent,YES
+1,1,1,0,1,0,0,1,1,1,25,f,White-European,no,no,7.0,Self,YES
+1,1,1,1,0,0,1,1,0,0,50,m,White-European,no,no,6.0,Self,NO
+1,0,0,1,1,1,1,1,1,1,28,f,White-European,no,no,8.0,Self,YES
+1,0,1,1,1,1,1,1,1,1,37,f,White-European,no,yes,9.0,Self,YES
+0,0,0,1,0,1,0,1,1,1,30,m,Asian,no,yes,5.0,Self,NO
+1,1,0,0,0,1,1,1,0,1,32,f,White-European,no,no,6.0,Self,NO
+1,0,1,1,0,0,0,0,0,1,34,f,White-European,no,no,4.0,Self,NO
+1,1,1,1,0,0,0,0,0,1,42,m,White-European,no,no,5.0,Self,NO
+1,1,0,0,1,1,1,1,1,1,22,f,Black,no,no,8.0,Self,YES
+1,1,0,0,0,0,0,1,0,1,39,m,White-European,no,yes,4.0,Parent,NO
+1,1,0,1,1,0,1,1,0,1,18,m,White-European,no,no,7.0,Self,YES
+1,0,0,1,0,0,0,0,0,0,54,f,White-European,no,yes,2.0,Parent,NO
+1,1,0,0,0,0,0,1,0,0,42,m,White-European,no,no,3.0,Self,NO
+1,1,1,1,1,0,0,1,0,0,22,m,White-European,no,no,6.0,Self,NO
+1,0,1,1,0,1,1,1,1,1,22,m,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,1,1,0,1,1,21,f,White-European,no,no,9.0,Self,YES
+0,1,0,1,0,0,0,1,0,1,28,f,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,1,1,0,1,1,17,m,Asian,yes,no,9.0,Relative,YES
+0,1,0,0,0,0,0,0,0,0,28,m,White-European,no,no,1.0,Self,NO
+0,0,0,1,1,0,1,1,0,1,21,m,Latino,no,no,5.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,31,f,Asian,no,no,10.0,Self,YES
+1,0,0,0,0,0,1,1,0,0,20,m,South Asian,no,no,3.0,Self,NO
+1,0,0,1,0,0,0,0,0,0,21,m,White-European,no,no,2.0,Self,NO
+1,1,0,0,1,0,0,0,0,0,22,m,White-European,no,no,3.0,Self,NO
+0,1,0,0,0,0,0,1,1,1,21,m,White-European,no,no,4.0,Self,NO
+0,1,1,0,0,0,0,0,0,0,24,m,Black,no,no,2.0,Self,NO
+1,0,0,0,0,0,0,1,0,0,24,m,South Asian,no,no,2.0,Self,NO
+1,0,0,0,1,1,1,1,0,1,25,m,Asian,no,no,6.0,Self,NO
+1,0,0,0,0,0,0,0,0,1,17,m,South Asian,no,no,2.0,Self,NO
+1,0,0,0,0,0,0,1,0,0,23,m,Pasifika,no,no,2.0,Self,NO
+1,0,0,1,1,0,1,1,0,0,21,m,Asian,no,no,5.0,Self,NO
+1,0,0,0,1,0,1,1,1,1,22,m,Others,no,no,6.0,Self,NO
+1,0,0,0,1,0,0,1,0,1,24,f,Asian,no,no,4.0,Self,NO
+0,0,1,0,1,1,0,0,1,1,34,m,Others,no,no,5.0,Self,NO
+1,0,1,0,1,0,1,1,0,1,30,m,Asian,no,no,6.0,Self,NO
+1,0,0,0,0,0,1,1,0,1,29,f,Asian,no,no,4.0,Self,NO
+1,0,0,1,1,0,1,1,0,0,20,m,Pasifika,no,no,5.0,Self,NO
+0,0,0,0,0,0,0,1,0,1,26,m,Asian,no,no,2.0,Self,NO
+1,0,0,1,1,1,1,1,1,1,20,m,South Asian,no,no,8.0,Self,YES
+1,0,0,0,0,0,1,1,0,0,41,m,Asian,no,no,3.0,Self,NO
+1,0,0,1,0,0,1,1,0,0,24,m,Asian,no,no,4.0,Self,NO
+0,0,0,1,0,0,0,1,0,0,35,m,Asian,no,no,2.0,Self,NO
+0,0,0,1,0,0,1,0,0,0,23,m,South Asian,no,no,2.0,Self,NO
+1,0,1,0,0,0,1,0,0,0,36,m,White-European,no,no,3.0,Self,NO
+1,1,0,0,1,0,0,1,0,0,33,m,Turkish,no,no,4.0,Self,NO
+1,0,0,0,0,1,0,1,1,1,24,m,South Asian,no,no,5.0,Self,NO
+1,0,0,0,1,1,0,1,0,1,25,m,Asian,no,no,5.0,Self,NO
+1,0,0,0,0,0,1,1,1,1,25,m,Asian,no,no,5.0,Self,NO
+0,0,0,0,0,0,1,1,0,1,24,m,Asian,no,no,3.0,Self,NO
+1,0,1,0,1,0,0,1,0,1,27,f,South Asian,no,no,5.0,Self,NO
+1,0,0,0,0,0,1,1,0,0,26,m,Asian,no,no,3.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,26,m,Others,no,no,0.0,Self,NO
+1,0,0,0,1,0,0,1,1,0,23,f,Asian,no,no,4.0,Self,NO
+1,1,1,0,1,0,1,1,0,1,30,m,Asian,no,no,7.0,Self,YES
+1,0,0,1,0,0,0,0,1,0,25,m,Asian,no,no,3.0,Self,NO
+1,0,0,0,0,0,0,1,0,1,23,m,Pasifika,no,no,3.0,Self,NO
+1,0,1,1,1,0,0,1,0,0,34,f,White-European,no,no,5.0,Self,NO
+1,0,0,1,1,0,1,1,0,1,20,f,Asian,no,no,6.0,Self,NO
+1,1,1,1,0,0,0,1,1,1,33,f,Black,no,yes,7.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,46,m,White-European,no,no,10.0,Self,YES
+1,1,0,0,0,0,0,0,0,0,17,m,White-European,no,no,2.0,Others,NO
+1,1,1,0,0,0,0,1,0,0,45,f,White-European,no,yes,4.0,Self,NO
+0,1,1,1,0,0,0,0,1,0,26,m,Asian,no,no,4.0,Others,NO
+1,0,1,1,1,1,1,1,1,1,38,f,White-European,no,no,9.0,Self,YES
+0,1,1,0,1,0,0,0,0,0,26,m,Hispanic,yes,no,3.0,Self,NO
+1,0,0,0,0,0,0,0,0,0,29,f,Hispanic,no,yes,1.0,Self,NO
+1,1,1,1,1,0,0,1,1,1,33,m,White-European,no,no,8.0,Self,YES
+0,1,1,0,1,1,1,0,1,1,32,f,Black,no,no,7.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,44,f,White-European,no,no,10.0,Self,YES
+0,1,0,0,0,0,1,0,0,1,47,f,White-European,yes,no,3.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,40,m,White-European,no,no,0.0,Self,NO
+1,0,0,1,1,0,0,1,0,1,40,m,White-European,no,no,5.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,44,f,White-European,no,no,0.0,Self,NO
+1,1,1,0,1,1,1,0,1,1,56,m,White-European,yes,no,8.0,Self,YES
+1,1,1,0,1,1,1,0,1,1,23,f,White-European,no,no,8.0,Self,YES
+1,1,0,1,1,0,0,1,1,1,32,f,Black,no,no,7.0,Self,YES
+0,1,1,1,0,0,0,1,0,1,27,m,White-European,no,yes,5.0,Self,NO
+1,0,0,0,1,0,1,0,0,1,28,f,White-European,no,yes,4.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,40,f,Middle Eastern ,no,no,0.0,Parent,NO
+1,0,1,1,1,1,0,0,1,1,45,f,White-European,no,no,7.0,Self,YES
+1,1,1,1,1,1,0,0,1,1,19,f,White-European,yes,no,8.0,Parent,YES
+1,1,1,1,0,1,0,1,1,1,55,m,White-European,no,yes,8.0,Others,YES
+1,0,0,1,0,0,1,1,0,1,27,f,White-European,yes,no,5.0,Self,NO
+1,1,1,1,1,1,1,0,1,1,19,f,White-European,yes,no,9.0,Self,YES
+1,0,0,1,0,0,0,1,0,0,29,m,White-European,no,no,3.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,33,f,White-European,yes,no,10.0,Self,YES
+0,0,1,1,1,1,1,1,0,0,48,f,White-European,no,no,6.0,Self,NO
+0,0,0,0,0,0,0,1,1,0,37,f,Others,no,no,2.0,Self,NO
+1,1,1,1,1,0,0,0,1,0,30,m,Asian,no,no,6.0,Self,NO
+1,1,0,1,0,0,0,0,0,1,37,f,White-European,no,no,4.0,Self,NO
+1,0,0,1,1,1,1,1,1,1,20,f,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,1,0,0,1,1,25,f,Others,no,no,8.0,Self,YES
+1,1,1,1,1,1,0,1,0,0,58,f,Middle Eastern ,no,no,7.0,Self,YES
+1,0,1,0,0,0,0,0,0,0,36,f,White-European,no,no,2.0,Self,NO
+0,0,1,1,1,0,0,1,0,0,36,m,White-European,yes,no,4.0,Self,NO
+1,0,1,0,1,1,1,1,1,0,19,m,Hispanic,no,no,7.0,Self,YES
+1,0,1,1,1,1,0,1,1,0,19,m,Hispanic,no,no,7.0,Self,YES
+1,0,0,1,1,0,0,1,0,1,22,f,White-European,no,no,5.0,Self,NO
+0,1,0,0,0,0,1,1,0,1,24,f,Middle Eastern ,no,no,4.0,Self,NO
+0,0,0,1,1,0,0,1,1,0,19,m,Middle Eastern ,no,no,4.0,Self,NO
+1,1,1,0,1,0,0,1,0,1,21,m,Others,no,no,6.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,20,m,Middle Eastern ,no,no,0.0,Self,NO
+1,1,0,0,0,0,0,0,0,0,18,f,Middle Eastern ,no,no,2.0,Self,NO
+0,1,1,0,0,0,0,1,0,1,23,f,Middle Eastern ,no,no,4.0,Self,NO
+1,1,1,0,1,1,1,1,0,1,22,m,Middle Eastern ,no,no,8.0,Self,YES
+1,1,0,1,1,0,0,0,0,0,18,f,South Asian,no,yes,4.0,Self,NO
+1,1,1,0,1,0,0,1,0,0,18,m,Middle Eastern ,no,no,5.0,Relative,NO
+0,0,0,0,1,0,0,1,0,0,18,m,Middle Eastern ,no,no,2.0,Relative,NO
+1,1,1,0,0,0,0,1,0,0,18,m,Middle Eastern ,no,no,4.0,Relative,NO
+0,1,0,0,0,0,1,1,0,0,18,m,Middle Eastern ,no,no,3.0,Relative,NO
+1,1,1,1,1,1,1,1,1,1,19,m,White-European,no,no,10.0,Self,YES
+1,0,0,1,1,1,1,0,1,1,55,m,White-European,no,no,7.0,Self,YES
+1,0,0,0,0,1,1,0,1,1,32,f,Asian,no,no,5.0,Parent,NO
+1,1,0,1,0,0,1,1,0,0,50,m,White-European,yes,no,5.0,Self,NO
+1,1,1,1,0,0,1,1,0,0,40,m,White-European,no,no,6.0,Self,NO
+1,0,0,1,1,1,0,0,0,0,47,m,Middle Eastern ,no,no,4.0,Self,NO
+1,0,0,1,0,0,0,1,0,1,22,m,Middle Eastern ,no,no,4.0,Parent,NO
+1,0,0,0,0,0,0,1,0,0,19,f,Middle Eastern ,no,no,2.0,Self,NO
+1,0,0,1,0,0,1,0,0,1,22,m,Middle Eastern ,no,no,4.0,Self,NO
+0,0,1,0,0,0,0,0,0,1,20,m,Middle Eastern ,no,no,2.0,Self,NO
+1,0,1,0,1,0,0,1,0,0,23,m,Middle Eastern ,no,no,4.0,Self,NO
+0,0,0,0,1,0,0,1,0,1,20,m,Middle Eastern ,no,no,3.0,Parent,NO
+0,1,0,1,0,0,0,0,0,0,24,m,Middle Eastern ,no,no,2.0,Self,NO
+0,1,1,0,0,0,0,1,0,1,19,m,Middle Eastern ,no,no,4.0,Self,NO
+1,0,1,0,1,0,0,1,0,1,23,m,Middle Eastern ,no,yes,5.0,Self,NO
+0,0,1,1,0,0,1,0,0,1,20,m,Others,no,no,4.0,Self,NO
+1,0,1,0,1,0,0,1,0,1,20,m,Middle Eastern ,no,no,5.0,Self,NO
+1,0,0,1,1,0,0,1,0,1,21,f,Asian,no,no,5.0,Self,NO
+1,0,0,0,0,0,0,1,0,1,20,f,Middle Eastern ,no,no,3.0,Self,NO
+1,0,0,1,1,0,1,0,0,1,20,m,Middle Eastern ,no,no,5.0,Self,NO
+1,0,0,0,0,1,0,0,1,0,25,m,Middle Eastern ,yes,yes,3.0,Relative,NO
+1,0,0,0,0,0,0,1,0,0,20,f,Middle Eastern ,no,no,2.0,Self,NO
+1,0,0,0,0,1,1,1,0,1,22,m,Middle Eastern ,no,no,5.0,Self,NO
+0,1,0,0,0,0,0,1,0,0,20,f,Middle Eastern ,no,no,2.0,Self,NO
+1,0,1,1,1,0,0,0,1,1,21,m,Middle Eastern ,no,no,6.0,Self,NO
+0,1,0,0,0,1,0,1,0,1,23,f,Middle Eastern ,no,no,4.0,Self,NO
+1,1,0,0,0,0,0,1,0,0,21,f,Turkish,no,no,3.0,Self,NO
+1,0,0,0,1,1,0,1,0,1,22,f,Black,no,no,5.0,Self,NO
+1,1,1,0,1,0,0,0,0,0,20,f,Asian,no,no,4.0,Self,NO
+0,1,0,0,0,0,0,1,0,1,21,f,Others,no,no,3.0,Self,NO
+0,1,1,0,0,0,0,1,0,0,26,m,Middle Eastern ,no,no,3.0,Self,NO
+1,0,0,1,0,0,1,0,0,1,23,f,Black,no,no,4.0,Self,NO
+0,1,0,1,1,0,0,0,0,0,19,f,Middle Eastern ,no,no,3.0,Self,NO
+1,0,0,0,0,0,1,1,0,0,20,f,Middle Eastern ,no,no,3.0,Self,NO
+0,1,0,0,1,0,1,1,0,1,19,f,Black,no,no,5.0,Self,NO
+1,0,1,1,1,1,1,1,1,0,24,m,Asian,no,no,8.0,Self,YES
+1,0,0,1,1,0,0,1,0,1,19,f,South Asian,no,no,5.0,Self,NO
+1,1,0,0,0,0,0,0,0,0,22,f,Middle Eastern ,no,no,2.0,Self,NO
+1,1,0,1,0,0,0,0,0,1,20,f,Middle Eastern ,no,no,4.0,Self,NO
+0,1,0,1,0,0,0,1,0,0,21,m,Middle Eastern ,no,no,3.0,Self,NO
+0,0,1,1,1,0,0,1,0,0,24,f,Others,no,no,4.0,Self,NO
+0,0,1,1,1,0,0,0,0,1,18,f,Middle Eastern ,no,no,4.0,Self,NO
+1,0,1,1,1,0,1,1,0,1,19,f,Middle Eastern ,no,no,7.0,Self,YES
+1,0,1,0,0,0,0,0,0,0,19,f,Middle Eastern ,no,no,2.0,Self,NO
+1,0,0,0,0,0,1,1,0,1,31,m,Middle Eastern ,yes,no,4.0,Self,NO
+1,1,0,1,0,0,1,1,0,0,19,m,Middle Eastern ,no,no,5.0,Self,NO
+1,0,0,0,0,0,1,0,1,1,21,f,Middle Eastern ,no,no,4.0,Self,NO
+1,0,0,0,1,0,1,0,0,1,20,m,Middle Eastern ,no,no,4.0,Self,NO
+1,0,1,0,1,0,1,1,0,1,26,f,Middle Eastern ,no,no,6.0,Self,NO
+0,0,0,0,0,0,1,0,0,0,27,m,Middle Eastern ,no,no,1.0,Self,NO
+1,0,1,0,0,1,0,1,0,0,23,f,Middle Eastern ,no,no,4.0,Self,NO
+1,1,1,1,0,0,1,0,0,0,23,m,Middle Eastern ,no,no,5.0,Self,NO
+1,0,0,0,0,0,1,1,0,1,23,m,Turkish,no,no,4.0,Others,NO
+1,0,1,1,1,1,0,1,1,1,24,m,Asian,no,yes,8.0,Self,YES
+1,1,1,1,1,1,1,0,1,1,32,f,Black,no,no,9.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,61,m,White-European,yes,yes,10.0,Self,YES
+1,1,1,1,1,1,0,1,1,0,35,f,White-European,no,no,8.0,Self,YES
+1,0,0,0,0,1,0,0,0,1,34,f,White-European,no,no,3.0,Self,NO
+0,0,1,1,0,0,0,0,0,0,23,f,Middle Eastern ,no,no,2.0,Self,NO
+1,1,1,1,0,0,0,0,0,1,19,f,White-European,no,no,5.0,Self,NO
+1,1,0,0,1,1,0,1,0,1,36,f,Others,no,no,6.0,Parent,NO
+0,1,0,0,0,0,0,1,0,0,23,m,White-European,no,no,2.0,Self,NO
+1,0,1,1,1,0,1,0,0,1,17,m,Black,no,no,6.0,Relative,NO
+1,0,1,0,0,0,0,0,0,0,22,m,White-European,no,no,2.0,Self,NO
+0,1,1,1,1,0,1,0,0,1,33,m,White-European,no,yes,6.0,Relative,NO
+1,1,1,1,1,0,0,1,0,1,23,f,Asian,no,no,7.0,Self,YES
+0,1,1,1,1,1,0,1,0,1,35,f,White-European,no,yes,7.0,Self,YES
+1,0,0,0,0,0,0,1,0,1,21,m,White-European,no,yes,3.0,Self,NO
+1,0,0,1,1,0,1,1,1,1,20,f,White-European,no,no,7.0,Self,YES
+1,0,0,0,0,0,0,1,0,0,29,m,White-European,no,no,2.0,Health care professional,NO
+1,1,1,1,1,1,1,0,1,1,59,m,White-European,no,no,9.0,Self,YES
+1,1,1,0,0,0,0,1,0,1,18,f,White-European,no,no,5.0,Self,NO
+1,1,0,0,0,0,0,1,0,0,19,f,Middle Eastern ,no,no,3.0,Self,NO
+0,0,1,1,0,0,0,1,0,0,24,m,Middle Eastern ,no,no,3.0,Self,NO
+1,1,1,1,1,0,0,1,1,0,36,f,White-European,no,no,7.0,Self,YES
+1,1,0,0,0,0,1,0,0,0,17,f,Black,no,no,3.0,Self,NO
+1,0,0,0,0,0,0,1,0,1,52,m,White-European,yes,no,3.0,Self,NO
+1,1,0,1,1,0,0,0,0,0,18,m,Middle Eastern ,no,no,4.0,Self,NO
+0,0,0,0,0,0,1,0,0,0,30,m,Asian,no,no,1.0,Self,NO
+0,1,1,1,1,1,0,1,1,1,18,m,Middle Eastern ,yes,no,8.0,Self,YES
+1,1,1,1,1,0,0,1,0,0,27,m,Latino,no,no,6.0,Self,NO
+0,0,0,1,0,0,0,0,0,0,52,f,White-European,no,no,1.0,Self,NO
+0,0,0,0,0,0,0,1,0,0,45,f,Asian,no,no,1.0,Self,NO
+0,1,1,1,1,1,0,0,1,0,25,f,Others,no,no,6.0,Health care professional,NO
+0,0,0,1,0,0,1,0,0,1,29,f,White-European,no,no,3.0,Self,NO
+1,1,0,1,1,1,1,1,0,1,29,f,White-European,yes,no,8.0,Self,YES
+1,0,0,0,0,1,0,0,0,1,18,m,White-European,no,yes,3.0,Self,NO
+0,0,1,1,0,1,1,1,1,1,18,m,White-European,no,no,7.0,Relative,YES
+1,0,1,1,0,1,0,0,0,1,17,m,White-European,no,no,5.0,Relative,NO
+1,1,1,1,1,1,1,1,1,1,27,f,Asian,no,no,10.0,Self,YES
+0,0,0,0,0,0,0,1,0,0,22,f,Asian,yes,no,1.0,Self,NO
+0,0,0,0,0,1,0,1,1,0,23,m,Asian,no,no,3.0,Self,NO
+1,1,1,1,1,0,1,1,0,0,25,m,Latino,no,no,7.0,Self,YES
+1,0,1,1,1,0,0,0,0,0,23,f,South Asian,no,no,4.0,Self,NO
+1,0,0,0,0,0,0,1,0,1,29,m,Asian,no,no,3.0,Self,NO
+1,0,0,1,1,0,1,0,0,0,27,f,Asian,no,no,4.0,Self,NO
+1,0,0,0,0,1,0,1,0,0,27,f,Asian,no,no,3.0,Self,NO
+0,0,0,0,0,0,0,0,0,0,43,f,South Asian,no,no,0.0,Parent,NO
+1,0,0,0,0,0,0,1,0,0,26,f,Asian,no,no,2.0,Self,NO
+1,0,0,0,1,0,0,1,0,1,30,f,Asian,no,no,4.0,Self,NO
+0,0,0,0,0,0,0,1,0,0,23,m,White-European,no,no,1.0,Self,NO
+1,0,0,0,1,0,1,1,0,0,29,f,Asian,no,no,4.0,Self,NO
+0,0,0,0,0,0,0,1,0,1,37,m,White-European,no,no,2.0,Parent,NO
+0,0,0,0,0,0,1,0,0,1,28,f,White-European,no,no,2.0,Self,NO
+1,1,1,1,0,0,1,1,0,0,25,m,South Asian,no,no,6.0,Self,NO
+1,0,1,1,0,0,1,1,0,0,25,m,Others,no,no,5.0,Self,NO
+1,1,1,1,1,1,1,0,1,1,43,m,White-European,no,no,9.0,Self,YES
+1,1,0,1,1,1,0,0,1,1,30,f,White-European,no,no,7.0,Self,YES
+0,1,1,0,0,0,1,0,0,1,18,m,Black,no,no,4.0,Self,NO
+1,1,1,1,0,0,0,1,0,0,18,f,White-European,no,no,5.0,Self,NO
+1,1,1,1,0,0,1,1,1,0,30,m,Others,no,no,7.0,Self,YES
+0,0,0,0,0,0,0,0,0,0,31,f,White-European,no,no,0.0,Self,NO
+1,0,0,0,1,0,1,1,0,1,33,m,Latino,no,no,5.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,33,m,Latino,no,no,10.0,Self,YES
+1,1,1,1,0,0,1,0,0,1,26,m,White-European,no,no,6.0,Self,NO
+1,0,1,1,0,0,0,0,0,0,61,f,White-European,no,no,3.0,Self,NO
+0,0,0,1,0,0,0,1,0,1,46,m,Others,no,no,3.0,Self,NO
+0,1,1,1,1,1,1,0,1,1,33,m,Asian,no,no,8.0,Self,YES
+1,1,1,1,1,0,1,1,0,1,38,f,Black,no,no,8.0,Self,YES
+1,1,0,0,0,0,0,1,0,0,44,m,Black,no,no,3.0,Parent,NO
+0,1,1,1,1,0,0,0,1,0,48,f,Black,no,yes,5.0,Parent,NO
+1,1,0,1,1,1,0,1,1,1,42,f,Latino,yes,no,8.0,Self,YES
+0,1,0,0,1,0,1,1,0,0,37,m,White-European,no,no,4.0,Self,NO
+1,0,1,1,1,0,0,1,0,1,23,f,White-European,no,yes,6.0,Self,NO
+1,0,1,1,1,0,1,1,1,1,24,m,White-European,no,yes,8.0,Relative,YES
+1,0,1,0,0,0,1,0,0,1,41,m,Asian,no,no,4.0,Self,NO
+0,1,1,0,1,0,0,1,0,0,27,m,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,46,f,White-European,yes,yes,10.0,Self,YES
+0,1,0,0,0,0,0,0,0,1,40,f,White-European,yes,no,2.0,Self,NO
+0,1,1,1,1,1,1,1,0,1,22,f,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,1,1,0,1,1,42,m,White-European,no,no,9.0,Self,YES
+1,1,1,0,0,0,0,0,0,1,18,f,Asian,no,no,4.0,Self,NO
+1,0,1,1,0,0,0,0,0,0,44,f,White-European,no,no,3.0,Self,NO
+1,1,1,1,1,0,1,1,1,1,30,f,White-European,no,no,9.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,42,m,White-European,no,no,9.0,Self,YES
+1,1,0,1,0,0,1,0,0,0,35,f,White-European,no,yes,4.0,Parent,NO
+1,0,1,1,1,0,1,0,1,1,40,m,Black,no,no,7.0,Self,YES
+0,0,1,1,0,0,0,0,0,1,38,m,Middle Eastern ,no,no,3.0,Self,NO
+1,1,1,1,1,0,0,1,1,1,26,f,White-European,no,yes,8.0,Self,YES
+1,1,1,1,1,0,0,1,0,1,27,f,White-European,no,no,7.0,Self,YES
+1,1,1,1,1,0,1,0,1,0,47,f,White-European,yes,yes,7.0,Self,YES
+1,1,0,1,1,1,0,0,0,1,21,m,Black,yes,yes,6.0,Parent,NO
+1,1,1,1,0,1,0,1,1,1,37,m,White-European,no,no,8.0,Self,YES
+1,0,0,0,0,0,1,1,0,1,19,f,Others,no,no,4.0,Self,NO
+0,0,0,1,0,0,1,1,0,1,32,m,Asian,no,no,4.0,Self,NO
+0,1,0,0,0,0,0,1,0,0,29,m,Black,no,no,2.0,Self,NO
+1,0,0,0,1,0,0,0,0,0,30,f,Black,no,no,2.0,Self,NO
+1,1,0,0,0,0,1,1,0,0,32,f,Latino,no,no,4.0,Relative,NO
+0,1,1,1,0,0,0,0,0,1,35,f,White-European,yes,no,4.0,Self,NO
+0,1,1,1,1,1,1,1,1,1,22,m,White-European,no,no,9.0,Self,YES
+1,0,1,0,0,1,0,1,0,0,32,f,White-European,no,no,4.0,Self,NO
+0,1,1,1,1,1,0,0,0,1,24,m,White-European,no,no,6.0,Relative,NO
+1,1,1,1,1,1,0,1,1,1,24,m,White-European,no,no,9.0,Relative,YES
+0,1,0,0,0,0,0,0,0,0,49,f,Middle Eastern ,yes,no,1.0,Parent,NO
+0,1,1,1,1,1,1,1,1,1,30,f,Asian,no,no,9.0,Self,YES
+0,1,1,1,1,1,1,1,1,1,30,f,Asian,no,yes,9.0,Self,YES
+1,0,1,1,1,1,1,1,1,1,35,f,White-European,yes,no,9.0,Self,YES
+1,0,1,1,1,1,1,0,0,1,35,f,White-European,yes,no,7.0,Self,YES
+1,0,1,1,0,0,0,0,0,1,37,f,White-European,no,yes,4.0,Self,NO
+0,1,1,1,0,0,0,1,0,1,43,m,White-European,no,no,5.0,Self,NO
+1,1,1,1,0,0,1,0,0,1,52,m,White-European,no,no,6.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,44,m,White-European,no,yes,10.0,Self,YES
+1,1,0,0,0,0,0,0,0,0,46,f,White-European,no,yes,2.0,Self,NO
+1,0,0,0,1,0,0,0,0,1,42,f,White-European,no,yes,3.0,Self,NO
+0,0,1,0,0,0,0,0,0,0,20,m,Asian,no,no,1.0,Self,NO
+1,1,1,0,1,0,1,0,1,1,18,m,Middle Eastern ,no,no,7.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,38,m,White-European,no,no,9.0,Relative,YES
+1,0,0,1,1,0,0,1,0,0,24,f,Latino,no,yes,4.0,Self,NO
+1,1,0,1,1,0,0,0,0,0,29,m,Turkish,no,no,4.0,Self,NO
+1,1,1,1,1,1,1,1,0,1,22,f,White-European,no,no,9.0,Self,YES
+0,1,1,1,1,1,0,0,0,1,19,f,White-European,yes,no,6.0,Self,NO
+1,1,1,1,1,1,1,0,1,1,39,f,White-European,no,yes,9.0,Self,YES
+1,0,0,1,1,1,1,1,1,1,17,m,Black,no,no,8.0,Self,YES
+0,1,0,1,0,1,1,0,1,1,19,f,Middle Eastern ,no,no,6.0,Parent,NO
+1,0,0,0,0,0,1,1,1,0,18,m,White-European,no,no,4.0,Parent,NO
+0,1,0,0,0,0,0,1,0,0,28,f,Turkish,no,no,2.0,Self,NO
+0,1,0,1,0,1,0,0,0,1,29,m,Asian,no,no,4.0,Self,NO
+1,1,0,0,0,0,1,1,0,0,48,m,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,1,0,1,1,1,27,f,White-European,yes,yes,9.0,Self,YES
+1,0,1,1,0,0,0,0,0,0,34,f,White-European,no,no,3.0,Self,NO
+1,1,0,1,0,0,0,0,0,1,31,m,White-European,no,no,4.0,Self,NO
+1,0,0,0,1,0,1,1,0,0,25,f,White-European,no,no,4.0,Self,NO
+1,1,0,0,1,1,1,1,1,1,20,m,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,0,1,1,1,1,43,m,White-European,yes,no,9.0,Self,YES
+1,1,1,1,1,0,0,1,1,1,36,f,White-European,no,yes,8.0,Self,YES
+1,1,0,0,0,0,0,1,0,0,30,f,Asian,no,yes,3.0,Self,NO
+0,0,1,1,0,0,0,0,0,0,44,m,Black,no,no,2.0,Self,NO
+1,1,0,0,1,0,0,0,0,1,40,f,Black,no,no,4.0,Parent,NO
+1,1,0,0,1,1,0,1,1,0,40,f,Black,yes,no,6.0,Relative,NO
+1,1,0,1,1,1,0,1,1,0,40,f,Black,yes,yes,7.0,Relative,YES
+1,1,1,1,1,0,0,1,0,1,30,m,Others,no,no,7.0,Self,YES
+1,0,1,1,0,0,1,0,0,1,47,f,White-European,no,no,5.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,21,m,Black,no,no,10.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,21,m,Black,no,no,9.0,Self,YES
+1,1,1,0,0,0,0,0,0,0,21,f,Asian,no,no,3.0,Self,NO
+0,1,1,1,0,0,0,1,1,0,29,f,Asian,no,no,5.0,Self,NO
+0,1,1,1,1,0,1,0,1,0,22,m,Middle Eastern ,no,no,6.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,51,m,White-European,yes,no,10.0,Self,YES
+1,0,0,0,1,0,0,0,1,1,30,m,Asian,no,no,4.0,Self,NO
+1,1,0,0,0,0,0,1,0,0,22,m,Others,no,no,3.0,Self,NO
+1,1,0,0,0,0,0,1,0,1,22,m,Asian,no,no,4.0,Self,NO
+1,0,0,0,1,0,1,1,0,1,24,m,Asian,no,no,5.0,Self,NO
+1,0,0,0,0,0,0,1,0,1,26,f,South Asian,no,no,3.0,Self,NO
+1,0,1,1,0,0,0,1,1,1,33,f,Asian,no,no,6.0,Parent,NO
+1,0,0,0,0,0,0,1,1,0,23,m,Asian,no,no,3.0,Self,NO
+1,0,1,0,0,0,0,1,0,0,42,f,Asian,no,no,3.0,Self,NO
+1,0,1,0,0,0,0,0,0,0,26,f,Asian,no,no,2.0,Self,NO
+1,0,0,0,0,0,0,1,0,0,29,f,Asian,no,no,2.0,Self,NO
+1,0,0,0,0,0,1,0,0,1,35,f,Asian,no,no,3.0,Self,NO
+1,0,0,0,1,1,0,1,0,0,25,f,South Asian,no,no,4.0,Self,NO
+1,0,0,0,0,0,1,1,0,0,25,m,Asian,no,no,3.0,Self,NO
+0,0,0,0,0,0,0,1,0,0,28,f,Asian,yes,no,1.0,Self,NO
+1,0,0,0,0,0,0,0,0,0,33,m,White-European,no,no,1.0,Self,NO
+1,0,0,1,0,0,1,1,0,0,25,m,Asian,no,no,4.0,Self,NO
+0,0,1,0,1,1,0,1,0,1,25,m,Asian,no,no,5.0,Self,NO
+1,0,0,0,1,0,1,1,0,0,24,m,Asian,no,no,4.0,Self,NO
+1,1,1,1,0,0,0,0,0,1,27,f,South Asian,no,no,5.0,Self,NO
+1,0,0,0,0,0,0,0,0,0,22,m,South Asian,no,no,1.0,Self,NO
+1,1,0,1,0,0,0,1,0,1,21,f,South Asian,no,no,5.0,Self,NO
+1,0,1,1,0,1,0,1,0,1,27,f,South Asian,no,no,6.0,Self,NO
+1,0,0,0,1,0,1,0,0,0,23,m,South Asian,no,no,3.0,Self,NO
+0,0,0,1,1,0,0,1,0,1,22,m,Asian,no,no,4.0,Self,NO
+0,1,0,0,0,0,0,0,0,1,23,f,South Asian,no,no,2.0,Self,NO
+1,0,0,1,0,0,0,1,0,1,30,m,Asian,no,no,4.0,Self,NO
+0,1,0,0,1,0,1,1,0,0,33,m,Asian,no,no,4.0,Self,NO
+1,0,1,1,1,0,1,1,1,0,24,f,South Asian,no,no,7.0,Self,YES
+1,0,0,0,1,0,1,1,0,0,22,f,Asian,no,no,4.0,Self,NO
+1,0,0,1,1,0,1,1,1,1,22,m,Asian,no,no,7.0,Self,YES
+1,0,0,0,0,0,0,1,0,1,29,f,South Asian,no,no,3.0,Self,NO
+1,0,1,0,1,0,1,1,0,1,22,f,Asian,no,no,6.0,Self,NO
+1,0,1,0,0,0,0,1,0,0,21,m,Asian,yes,no,3.0,Self,NO
+1,0,0,0,0,0,1,1,0,0,23,m,Asian,no,no,3.0,Self,NO
+1,0,0,0,1,0,1,1,0,1,23,f,Others,no,no,5.0,Self,NO
+1,0,0,0,1,0,1,1,1,1,23,f,Asian,no,no,6.0,Self,NO
+1,1,0,1,1,0,1,1,0,0,32,m,Asian,no,no,6.0,Self,NO
+0,0,0,0,0,0,1,0,0,1,27,m,Asian,no,no,2.0,Self,NO
+0,0,1,0,0,0,0,1,0,0,28,f,Asian,no,no,2.0,Parent,NO
+1,1,0,0,1,0,0,1,1,1,25,f,Middle Eastern ,no,no,6.0,Self,NO
+1,0,1,0,1,0,1,1,1,1,22,m,Black,no,no,7.0,Self,YES
+0,1,1,0,0,0,1,0,0,1,36,m,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,21,f,White-European,no,no,10.0,Self,YES
+1,1,0,1,1,0,0,1,0,0,18,m,Black,no,no,5.0,Self,NO
+1,0,0,0,1,1,1,1,1,1,49,m,Black,no,no,7.0,Parent,YES
+1,1,1,0,0,0,0,1,0,0,18,m,Asian,no,no,4.0,Self,NO
+1,0,1,1,1,0,1,1,1,0,29,m,Latino,no,no,7.0,Self,YES
+1,0,0,0,0,0,0,0,0,0,37,f,Middle Eastern ,no,no,1.0,Parent,NO
+1,0,1,1,1,0,0,1,0,1,17,m,Middle Eastern ,yes,no,6.0,Parent,NO
+1,1,1,1,0,0,0,0,0,0,38,f,Middle Eastern ,no,no,4.0,Self,NO
+1,0,1,0,0,1,0,1,0,1,18,m,White-European,yes,no,5.0,Parent,NO
+1,0,1,1,1,0,0,0,0,0,31,f,Middle Eastern ,no,no,4.0,Self,NO
+0,1,1,1,0,0,0,0,0,0,33,m,Middle Eastern ,yes,no,3.0,Self,NO
+1,1,0,0,0,0,0,0,0,0,32,f,Middle Eastern ,yes,no,2.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,30,f,White-European,no,yes,10.0,Self,YES
+1,1,1,1,1,0,1,1,1,1,30,m,Asian,no,no,9.0,Self,YES
+1,0,0,1,1,0,1,0,0,1,38,f,White-European,no,yes,5.0,Self,NO
+1,0,0,0,1,0,1,0,1,1,22,m,Asian,no,no,5.0,Self,NO
+1,1,0,0,1,0,1,0,1,0,36,m,others,no,no,5.0,Self,NO
+1,1,1,0,1,1,0,1,1,1,20,f,White-European,no,no,8.0,Self,YES
+1,1,1,1,1,1,0,1,1,1,40,f,Others,yes,yes,9.0,Self,YES
+1,0,0,1,1,1,0,0,1,0,25,m,White-European,no,no,5.0,Self,NO
+1,0,0,0,0,0,1,1,0,1,28,m,White-European,no,no,4.0,Self,NO
+0,0,0,0,0,0,1,1,0,1,17,m,White-European,no,no,3.0,Self,NO
+1,1,1,1,1,1,1,0,1,1,34,m,White-European,no,no,9.0,Self,YES
+0,0,1,0,0,0,1,1,0,0,50,f,Middle Eastern ,no,no,3.0,Parent,NO
+1,0,0,0,0,0,1,1,0,1,38,m,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,0,1,1,1,1,30,m,Others,no,no,9.0,Self,YES
+1,1,1,1,1,0,0,1,0,1,21,m,Hispanic,no,no,7.0,Self,YES
+1,1,1,1,1,0,1,1,0,1,21,m,White-European,no,no,8.0,Self,YES
+1,1,1,0,1,0,1,1,1,1,31,m,Latino,no,no,8.0,Self,YES
+1,1,0,0,1,1,0,1,0,1,27,f,White-European,yes,no,6.0,Self,NO
+1,1,1,1,0,0,0,0,1,0,24,f,White-European,yes,no,5.0,Self,NO
+1,1,0,0,0,0,1,0,0,1,35,m,White-European,yes,no,4.0,Parent,NO
+1,0,0,0,0,0,1,0,0,1,18,m,Black,no,no,3.0,Health care professional,NO
+1,1,1,1,1,0,0,1,1,1,43,f,Black,no,no,8.0,Self,YES
+1,1,1,1,1,1,1,1,1,1,40,m,White-European,yes,yes,10.0,Parent,YES
+1,1,0,1,1,1,1,1,1,1,49,f,Hispanic,no,no,9.0,Self,YES
+1,1,0,0,0,0,0,1,0,0,24,m,Hispanic,no,no,3.0,Self,NO
+1,1,0,0,0,0,0,1,1,0,30,f,White-European,yes,yes,4.0,Self,NO
+1,0,1,0,0,0,0,1,0,1,53,m,Hispanic,no,no,4.0,Relative,NO
+1,0,1,1,1,0,0,1,1,1,38,m,White-European,no,yes,7.0,Self,YES
+1,0,0,0,1,0,1,1,0,1,28,m,White-European,no,no,5.0,Self,NO
+1,1,1,0,1,1,1,1,1,1,28,m,White-European,no,no,9.0,Self,YES
+1,0,1,1,1,1,1,0,1,1,26,m,Black,no,no,8.0,Self,YES
+1,0,0,0,1,1,1,1,1,1,39,f,White-European,no,no,7.0,Self,YES
+0,0,0,0,1,0,0,0,0,0,31,f,Asian,yes,no,1.0,Self,NO
+1,0,0,1,0,0,1,1,0,0,24,m,Black,no,no,4.0,Self,NO
+1,1,1,0,1,1,1,1,0,1,28,m,White-European,no,no,8.0,Self,YES
+1,0,0,1,0,0,0,1,0,1,31,f,White-European,no,no,4.0,Self,NO
+1,1,1,1,1,0,0,1,0,1,27,m,White-European,yes,no,7.0,Self,YES
+1,0,1,1,0,0,1,1,0,0,28,m,Latino,no,no,5.0,Parent,NO
+1,1,1,1,1,1,0,1,1,1,31,m,Turkish,no,yes,9.0,Self,YES
+1,1,1,1,1,0,0,0,0,1,46,f,Asian,no,no,6.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,27,f,Pasifika,no,no,10.0,Self,YES
+0,1,0,1,1,0,1,1,1,1,25,f,White-European,no,no,7.0,Self,YES
+1,0,0,0,0,0,0,1,0,1,34,m,Hispanic,no,no,3.0,Parent,NO
+1,0,0,1,1,0,1,0,1,1,35,m,South Asian,no,no,6.0,Self,NO
+1,0,1,1,1,0,1,1,1,1,26,f,White-European,no,no,8.0,Self,YES
+1,1,0,0,1,1,0,1,0,0,6,m,Others,no,no,5.0,Parent,NO
+1,1,0,0,1,1,0,1,0,0,6,m,Middle Eastern ,no,no,5.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,5,m,Others,yes,no,10.0,Parent,YES
+1,0,1,1,1,1,0,1,0,1,5,m,White-European,no,no,7.0,Parent,YES
+1,1,1,1,1,1,1,1,0,0,5,f,Middle Eastern ,no,no,8.0,Parent,YES
+1,1,1,1,1,1,1,0,0,0,11,f,Middle Eastern ,no,no,7.0,Parent,YES
+1,0,0,0,1,1,1,1,1,1,10,m,White-European,yes,no,7.0,Self,YES
+0,1,1,1,1,1,1,1,1,1,4,m,White-European,yes,no,9.0,Parent,YES
+1,0,0,0,0,0,1,0,0,0,4,f,Black,no,no,2.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,6,m,White-European,no,no,10.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,8,m,White-European,no,no,10.0,Parent,YES
+1,1,1,1,1,1,0,1,1,1,4,m,South Asian,no,no,9.0,Parent,YES
+0,0,0,0,0,0,1,0,0,0,7,m,Others,no,no,1.0,Parent,NO
+1,0,1,1,1,0,1,1,1,1,11,m,White-European,no,yes,8.0,Parent,YES
+1,1,1,1,1,1,1,0,1,0,5,m,White-European,yes,no,8.0,Parent,YES
+1,1,0,1,0,0,0,0,0,0,4,m,Asian,no,no,3.0,Parent,NO
+1,0,1,1,0,1,0,0,1,0,6,f,South Asian,no,no,5.0,Parent,NO
+0,0,1,1,1,0,1,1,1,0,6,m,White-European,no,yes,6.0,Relative,NO
+1,0,1,0,1,1,0,0,1,1,6,f,Middle Eastern ,no,no,6.0,Self,NO
+1,1,1,1,1,1,1,1,1,1,5,m,White-European,yes,no,10.0,Parent,YES
+0,0,1,0,1,0,1,0,0,0,4,f,Others,yes,yes,3.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,11,m,White-European,no,no,10.0,Parent,YES
+0,0,1,0,0,1,0,0,1,1,6,m,Pasifika,yes,no,4.0,Parent,NO
+1,0,0,0,1,1,0,1,0,1,5,m,South Asian,yes,no,5.0,Health care professional,NO
+1,0,0,0,1,1,0,0,1,1,6,m,South Asian,yes,no,5.0,Parent,NO
+0,1,0,0,0,0,0,0,0,0,7,f,Middle Eastern ,yes,no,1.0,Parent,NO
+1,1,0,0,0,0,0,0,0,0,7,m,Asian,no,no,2.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,4,m,White-European,yes,no,10.0,Parent,YES
+0,1,1,1,1,1,1,1,0,1,4,m,Asian,no,no,8.0,Parent,YES
+0,1,0,0,0,0,0,0,0,0,4,m,Middle Eastern ,no,no,1.0,Parent,NO
+1,0,0,0,1,0,1,0,0,1,6,f,Middle Eastern ,no,no,4.0,Parent,NO
+0,0,0,1,0,0,1,0,0,0,10,m,Middle Eastern ,no,no,2.0,Parent,NO
+0,1,1,0,1,1,0,0,0,1,4,f,Middle Eastern ,yes,no,5.0,Relative,NO
+0,1,1,0,1,1,0,0,0,0,4,f,Middle Eastern ,yes,no,4.0,Relative,NO
+1,0,1,1,1,1,0,0,1,1,6,f,White-European,yes,no,7.0,Parent,YES
+0,1,0,0,1,0,0,0,0,0,7,m,Middle Eastern ,no,yes,2.0,Parent,NO
+0,0,1,0,1,1,1,0,1,1,4,m,Asian,no,no,6.0,Parent,NO
+1,1,1,1,1,1,1,0,1,1,7,m,White-European,yes,no,9.0,Parent,YES
+0,0,1,0,1,0,0,0,0,0,5,m,White-European,no,no,2.0,Parent,NO
+1,0,1,1,1,1,1,1,1,1,4,f,White-European,no,no,9.0,Parent,YES
+1,0,1,1,1,1,1,1,1,0,9,f,Middle Eastern ,no,no,8.0,Health care professional,YES
+1,0,1,1,1,1,0,0,1,1,4,m,Hispanic,no,yes,7.0,Parent,YES
+1,0,1,0,1,0,0,0,0,0,4,m,Turkish,no,no,3.0,Relative,NO
+1,0,1,1,1,1,1,1,1,1,9,m,White-European,no,no,9.0,Parent,YES
+1,1,1,0,1,1,0,0,0,1,4,f,White-European,yes,no,6.0,Parent,NO
+1,1,1,0,1,1,1,1,1,1,9,m,Asian,yes,no,9.0,Parent,YES
+1,0,1,1,0,0,0,1,0,1,8,m,Middle Eastern ,no,no,5.0,Parent,NO
+1,0,0,0,1,0,0,0,0,1,4,m,White-European,no,no,3.0,Parent,NO
+1,0,0,0,1,0,1,0,0,1,4,m,White-European,no,no,4.0,Parent,NO
+1,0,1,1,1,1,1,1,1,1,4,m,White-European,no,yes,9.0,Parent,YES
+1,0,1,0,1,0,1,0,0,1,7,m,Asian,no,no,5.0,Parent,NO
+0,1,0,0,1,0,1,0,0,1,7,f,White-European,yes,no,4.0,Parent,NO
+1,0,1,1,1,1,0,1,0,1,6,m,South Asian,no,no,7.0,Parent,YES
+1,0,1,1,1,1,0,1,1,1,5,f,Middle Eastern ,no,no,8.0,Parent,YES
+1,0,1,1,1,1,0,0,1,1,8,f,Middle Eastern ,no,yes,7.0,Parent,YES
+0,0,0,1,1,1,1,1,1,0,5,m,White-European,no,no,6.0,Parent,NO
+1,1,1,1,0,1,1,1,1,1,11,f,Others,no,no,9.0,Parent,YES
+1,0,0,0,1,0,1,0,0,1,8,m,White-European,yes,no,4.0,Parent,NO
+1,1,1,1,1,1,1,0,1,1,4,m,Latino,no,yes,9.0,Parent,YES
+0,1,1,1,0,1,0,1,1,0,7,m,White-European,yes,no,6.0,Parent,NO
+1,0,0,1,0,1,0,0,0,0,4,m,White-European,no,no,3.0,Parent,NO
+0,1,1,1,1,1,1,1,1,1,7,m,White-European,yes,yes,9.0,Parent,YES
+1,0,1,1,1,1,1,1,0,1,8,m,White-European,no,no,8.0,Parent,YES
+0,1,1,0,1,1,0,0,0,1,5,m,Asian,no,no,5.0,Parent,NO
+1,1,1,1,1,1,1,0,1,1,11,f,White-European,no,no,9.0,Parent,YES
+1,1,1,1,0,0,1,0,1,1,11,f,White-European,no,no,7.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,4,m,White-European,no,no,10.0,Parent,YES
+1,1,1,1,0,1,0,0,0,0,5,m,Latino,no,yes,5.0,Parent,NO
+0,1,1,1,1,1,1,1,1,1,6,m,Hispanic,no,no,9.0,Parent,YES
+1,0,1,1,1,1,1,0,1,1,4,f,White-European,no,no,8.0,Parent,YES
+1,0,0,1,1,1,1,0,0,0,11,f,White-European,yes,yes,5.0,Relative,NO
+0,0,1,1,1,1,1,1,1,1,5,m,Asian,no,no,8.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,6,m,Latino,no,no,10.0,Parent,YES
+1,0,1,0,1,1,1,1,0,1,7,m,Hispanic,no,no,7.0,Parent,YES
+1,1,1,1,1,1,0,1,0,1,11,m,White-European,no,no,8.0,Parent,YES
+1,1,1,1,1,0,1,0,1,1,4,m,White-European,no,no,8.0,Parent,YES
+1,1,1,0,1,1,1,0,1,1,4,m,White-European,no,yes,8.0,Parent,YES
+0,0,1,1,0,0,0,0,0,0,7,m,White-European,no,yes,2.0,Parent,NO
+1,1,0,1,0,1,1,0,1,0,11,f,White-European,yes,yes,6.0,Relative,NO
+1,1,1,1,0,1,1,0,0,1,6,f,Asian,no,no,7.0,Parent,YES
+0,0,0,0,0,0,1,0,1,0,9,f,White-European,no,no,2.0,Parent,NO
+0,1,0,1,0,1,0,0,1,1,10,m,Others,no,no,5.0,Relative,NO
+0,0,0,0,1,1,1,0,0,1,4,m,Asian,no,yes,4.0,Parent,NO
+1,1,1,1,1,1,0,1,0,1,4,m,Asian,yes,no,8.0,Parent,YES
+1,1,1,1,1,1,0,0,1,1,10,m,White-European,yes,no,8.0,Parent,YES
+1,0,0,0,1,0,0,0,0,1,4,f,White-European,yes,yes,3.0,Parent,NO
+0,1,0,0,0,1,1,1,0,0,11,m,Asian,no,no,4.0,Parent,NO
+0,0,1,0,1,0,0,0,0,1,7,m,Asian,no,no,3.0,Parent,NO
+1,1,0,0,0,0,0,0,0,1,4,f,White-European,no,no,3.0,Parent,NO
+0,0,1,1,1,1,0,1,1,1,8,m,White-European,no,no,7.0,Parent,YES
+1,1,1,1,1,1,1,1,1,0,4,m,White-European,no,no,9.0,Parent,YES
+1,0,1,0,1,1,0,1,0,1,4,m,South Asian,no,no,6.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,11,m,Asian,yes,no,10.0,Relative,YES
+1,1,1,1,1,1,1,0,1,1,10,f,Asian,no,no,9.0,Parent,YES
+1,1,0,1,0,1,0,0,1,1,6,f,White-European,no,no,6.0,Parent,NO
+0,0,0,1,1,1,1,1,1,0,4,m,Asian,no,no,6.0,Relative,NO
+0,1,1,0,1,0,0,0,0,1,4,m,Asian,no,yes,4.0,Parent,NO
+0,1,1,1,0,1,0,1,1,1,4,m,Asian,no,no,7.0,Relative,YES
+0,0,1,1,0,0,1,1,1,0,10,m,White-European,no,no,5.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,7,m,White-European,no,no,10.0,Relative,YES
+1,1,1,0,0,1,1,1,1,1,6,f,White-European,yes,no,8.0,Parent,YES
+0,1,1,0,1,1,1,1,1,1,5,m,Asian,no,no,8.0,Parent,YES
+0,0,1,0,1,1,1,1,1,1,4,f,Asian,yes,no,7.0,Parent,YES
+1,0,1,0,1,1,1,1,0,0,9,m,Asian,no,no,6.0,Parent,NO
+1,0,1,1,0,1,1,1,0,1,4,f,White-European,yes,no,7.0,Parent,YES
+1,1,1,1,1,1,1,0,1,1,10,m,White-European,no,no,9.0,Parent,YES
+1,1,0,0,0,0,1,0,0,1,9,m,White-European,no,no,4.0,Parent,NO
+0,1,1,1,1,1,0,0,0,1,5,m,White-European,yes,yes,6.0,Parent,NO
+1,1,1,0,0,0,0,0,1,1,4,f,Black,no,no,5.0,Parent,NO
+1,1,1,1,1,1,0,1,1,1,4,m,White-European,no,yes,9.0,Parent,YES
+0,1,1,1,1,0,0,0,1,0,6,m,White-European,no,no,5.0,Parent,NO
+1,1,1,0,1,0,1,0,1,1,4,f,White-European,yes,no,7.0,Parent,YES
+0,0,0,0,0,0,0,0,0,0,5,f,Hispanic,no,no,0.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,9,m,White-European,yes,yes,10.0,Parent,YES
+1,0,1,1,1,0,1,1,1,1,7,f,White-European,no,no,8.0,Parent,YES
+0,1,1,0,0,1,1,1,0,1,10,f,White-European,no,no,6.0,Parent,NO
+1,0,1,1,1,1,0,1,0,1,4,m,South Asian,no,no,7.0,Parent,YES
+1,0,1,1,0,1,1,1,0,1,4,m,Asian,no,no,7.0,Relative,YES
+1,1,0,1,1,1,1,0,0,0,7,f,White-European,no,no,6.0,Parent,NO
+1,1,1,1,1,1,1,0,1,1,4,m,Black,yes,no,9.0,Parent,YES
+1,1,1,1,1,1,1,0,1,1,10,m,White-European,no,no,9.0,Health care professional,YES
+0,0,1,0,1,1,0,1,1,1,4,m,Asian,no,no,6.0,Parent,NO
+1,1,1,1,1,1,0,0,0,1,4,m,South Asian,no,yes,7.0,Parent,YES
+1,0,1,0,1,1,0,1,1,1,4,m,Black,no,yes,7.0,Parent,YES
+0,1,1,0,0,0,1,1,1,1,7,m,White-European,yes,no,6.0,Parent,NO
+1,1,1,1,1,1,1,0,1,1,4,m,White-European,no,no,9.0,Parent,YES
+1,1,1,1,1,0,1,0,1,1,5,f,White-European,no,no,8.0,Parent,YES
+1,1,1,1,1,1,1,1,0,1,6,m,Others,yes,no,9.0,Parent,YES
+0,1,0,0,0,1,1,1,1,1,6,f,Asian,no,no,6.0,Parent,NO
+1,1,0,0,1,1,1,1,1,1,6,f,White-European,no,yes,8.0,Parent,YES
+0,1,0,1,1,1,1,0,1,1,9,m,White-European,no,yes,7.0,Parent,YES
+1,0,0,0,1,1,1,1,1,1,9,m,White-European,no,no,7.0,Parent,YES
+0,1,0,0,0,1,0,0,0,1,9,f,White-European,no,yes,3.0,Parent,NO
+1,0,0,1,1,1,1,0,1,1,7,m,Black,no,no,7.0,Parent,YES
+0,0,1,0,0,1,1,0,0,1,4,m,Asian,no,no,4.0,Relative,NO
+1,0,0,0,1,1,1,0,0,1,10,f,Others,no,no,5.0,Self,NO
+0,0,0,0,1,0,1,1,0,1,8,m,Middle Eastern ,no,no,4.0,Parent,NO
+1,0,1,1,1,1,1,1,0,1,6,m,Others,no,no,8.0,Parent,YES
+1,0,1,1,1,1,1,1,1,1,11,f,White-European,no,no,9.0,Parent,YES
+1,1,1,0,1,0,1,0,0,0,5,f,White-European,no,no,5.0,Parent,NO
+0,0,1,0,1,0,1,0,0,1,4,f,White-European,no,yes,4.0,Relative,NO
+0,0,1,1,1,1,0,0,0,1,11,f,Others,yes,no,5.0,Self,NO
+1,0,1,0,1,1,0,0,0,0,8,m,White-European,no,no,4.0,Parent,NO
+1,0,1,1,1,0,0,0,0,0,8,m,White-European,no,no,4.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,9,m,White-European,no,no,10.0,Parent,YES
+0,0,0,1,0,1,0,0,1,1,4,m,Asian,no,no,4.0,Parent,NO
+0,0,1,0,1,1,1,1,1,1,4,m,Asian,no,no,7.0,Parent,YES
+1,0,0,1,1,1,1,1,1,1,11,m,Hispanic,no,no,8.0,self,YES
+0,1,1,1,0,1,0,0,0,1,10,f,Asian,no,no,5.0,Parent,NO
+1,0,1,1,1,1,0,1,0,1,11,m,Asian,no,no,7.0,Parent,YES
+1,0,1,0,1,0,1,0,1,1,4,m,Black,yes,no,6.0,Parent,NO
+1,1,1,0,1,0,1,1,1,1,4,m,White-European,yes,no,8.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,6,f,Black,no,no,10.0,Parent,YES
+0,0,1,1,1,1,1,1,0,0,8,m,White-European,no,no,6.0,Parent,NO
+1,1,1,1,1,0,1,1,1,1,4,f,White-European,no,yes,9.0,Parent,YES
+1,1,0,1,1,1,1,0,0,1,8,m,White-European,no,no,7.0,Parent,YES
+1,1,1,0,1,1,0,0,1,1,11,m,Hispanic,no,no,7.0,Relative,YES
+1,0,1,0,1,1,1,0,1,0,4,f,White-European,yes,yes,6.0,Parent,NO
+1,1,1,0,0,0,0,0,0,0,4,m,White-European,no,no,3.0,Parent,NO
+1,1,1,1,1,1,0,0,1,1,8,m,Black,no,no,8.0,Parent,YES
+0,0,1,0,1,1,1,1,1,1,4,m,Pasifika,no,no,7.0,Health care professional,YES
+0,1,1,1,1,1,1,1,1,1,4,m,South Asian,no,no,9.0,Parent,YES
+1,0,0,0,1,0,1,0,0,1,9,m,White-European,no,yes,4.0,Parent,NO
+1,0,0,0,1,0,1,0,0,1,9,m,White-European,yes,yes,4.0,Parent,NO
+1,1,1,1,1,1,1,0,1,0,4,f,White-European,no,yes,8.0,Parent,YES
+0,0,1,0,1,0,1,0,0,1,5,m,South Asian,no,no,4.0,Relative,NO
+1,1,1,1,1,1,0,0,0,1,7,f,Asian,yes,no,7.0,Parent,YES
+1,0,1,1,1,0,1,1,1,1,4,f,White-European,yes,no,8.0,Parent,YES
+1,1,1,1,0,1,0,0,0,0,5,f,White-European,no,no,5.0,Parent,NO
+1,1,1,1,1,1,0,1,1,0,6,m,Asian,no,no,8.0,Health care professional,YES
+1,1,1,1,0,1,1,1,1,1,8,m,White-European,no,no,9.0,Parent,YES
+1,0,0,0,1,0,0,0,0,1,4,m,Asian,no,no,3.0,Parent,NO
+1,0,1,1,1,1,0,1,0,0,5,m,Latino,no,yes,6.0,Parent,NO
+1,0,1,1,1,1,0,1,0,1,5,m,Latino,no,yes,7.0,Parent,YES
+1,0,1,0,1,0,1,0,1,1,6,m,White-European,yes,no,6.0,Parent,NO
+0,0,1,0,1,1,1,0,1,1,8,m,White-European,no,no,6.0,Parent,NO
+1,0,1,1,0,1,0,1,1,0,5,m,South Asian,no,no,6.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,4,f,Asian,no,yes,10.0,Parent,YES
+1,0,1,1,1,1,1,1,1,0,6,m,White-European,no,no,8.0,Parent,YES
+0,0,0,0,0,0,0,0,0,1,11,m,Turkish,no,yes,1.0,Parent,NO
+0,0,1,0,0,0,1,0,1,0,6,m,Others,no,no,3.0,Parent,NO
+1,0,1,1,1,1,1,1,1,1,4,f,Hispanic,no,no,9.0,Parent,YES
+1,1,1,1,1,1,1,0,0,1,4,m,White-European,no,yes,8.0,Parent,YES
+1,1,1,1,1,0,1,1,0,0,4,m,White-European,no,no,7.0,Parent,YES
+1,1,1,1,1,1,0,0,1,1,6,m,White-European,no,no,8.0,Parent,YES
+1,0,1,1,1,0,0,0,0,0,8,m,White-European,yes,no,4.0,Health care professional,NO
+1,1,1,1,1,1,1,1,1,1,9,m,Black,yes,no,10.0,Parent,YES
+0,0,0,0,1,1,0,1,0,1,8,f,South Asian,no,no,4.0,Parent,NO
+0,0,1,0,1,1,1,1,1,1,5,m,South Asian,no,no,7.0,Parent,YES
+1,0,0,0,1,0,1,1,0,0,5,m,Middle Eastern ,no,no,4.0,Health care professional,NO
+1,1,1,1,0,1,0,1,1,1,4,m,Asian,yes,no,8.0,Health care professional,YES
+1,0,0,1,1,1,1,1,1,1,10,m,White-European,no,no,8.0,Parent,YES
+0,1,1,0,1,1,1,0,0,0,4,m,Others,yes,no,5.0,Parent,NO
+1,1,1,1,1,1,1,0,1,1,7,f,Asian,no,no,9.0,Parent,YES
+0,1,1,0,0,1,0,0,1,1,11,f,Latino,yes,no,5.0,Health care professional,NO
+1,0,0,1,0,1,0,1,1,0,11,m,Asian,no,no,5.0,Parent,NO
+1,0,0,1,1,1,0,0,0,1,11,f,White-European,no,yes,5.0,Parent,NO
+1,1,1,1,0,0,1,0,1,0,9,m,South Asian,no,no,6.0,Parent,NO
+1,0,1,0,1,1,1,0,0,1,6,m,South Asian,yes,no,6.0,Parent,NO
+1,1,1,0,0,1,0,1,0,1,5,m,Middle Eastern ,no,no,6.0,Parent,NO
+1,1,1,0,1,0,0,0,0,0,5,m,Middle Eastern ,yes,no,4.0,Parent,NO
+0,0,0,0,0,0,1,0,0,0,10,m,Middle Eastern ,no,yes,1.0,Parent,NO
+0,0,1,0,0,0,1,0,0,1,7,m,Middle Eastern ,no,no,3.0,Parent,NO
+0,1,0,1,1,1,1,1,0,1,7,m,Middle Eastern ,yes,no,7.0,Parent,YES
+1,0,1,0,1,1,1,1,0,1,7,m,Middle Eastern ,yes,no,7.0,Parent,YES
+1,0,1,1,1,1,1,1,0,1,9,f,Middle Eastern ,no,no,8.0,Parent,YES
+1,1,1,0,0,1,0,0,0,1,5,m,Middle Eastern ,yes,no,5.0,Parent,NO
+1,1,1,0,1,1,0,0,0,0,4,m,South Asian,no,no,5.0,Parent,NO
+0,0,0,1,1,1,0,0,0,1,5,m,Asian,no,yes,4.0,Parent,NO
+1,1,1,1,1,1,1,1,1,1,4,f,South Asian,no,no,10.0,Health care professional,YES
+1,0,0,0,1,0,1,0,0,1,5,m,South Asian,no,no,4.0,Parent,NO
+1,0,1,1,1,1,1,1,0,1,5,m,Black,no,no,8.0,Parent,YES
+1,1,1,1,0,1,0,0,0,1,4,m,White-European,no,no,6.0,Parent,NO
+1,1,0,0,1,0,1,1,0,0,6,m,Asian,no,no,5.0,Parent,NO
+0,1,1,0,0,1,1,0,1,1,5,m,Asian,no,no,6.0,Relative,NO
+1,0,1,1,1,1,1,0,1,1,11,m,White-European,no,no,8.0,Parent,YES
+1,1,1,1,0,1,0,1,1,1,10,m,Black,yes,no,8.0,Parent,YES
+1,1,0,0,1,1,0,0,0,1,4,m,South Asian,no,no,5.0,Parent,NO
+1,0,1,1,1,1,1,1,1,1,5,m,Others,no,no,9.0,Parent,YES
+1,0,1,0,0,0,1,1,0,0,9,m,Middle Eastern ,yes,no,4.0,Parent,NO
+0,1,1,1,1,1,0,1,0,1,4,m,Asian,no,no,7.0,Parent,YES
+1,0,1,0,0,0,0,0,1,0,4,f,White-European,no,yes,3.0,Parent,NO
+0,0,1,0,0,0,1,0,1,0,5,m,Black,no,no,3.0,Parent,NO
+1,1,1,1,1,0,1,1,1,1,8,m,White-European,no,yes,9.0,Parent,YES
+1,1,1,1,1,1,1,0,1,1,8,m,White-European,yes,no,9.0,Parent,YES
+1,0,1,1,0,0,0,0,1,0,6,m,Asian,no,no,4.0,Health care professional,NO
+0,0,1,0,1,1,1,1,0,1,11,m,Asian,no,no,6.0,Parent,NO
+1,1,1,0,1,1,0,0,1,1,10,f,Asian,no,no,7.0,Parent,YES
+1,0,0,0,1,0,0,1,0,1,6,f,White-European,no,no,4.0,Parent,NO
+1,1,1,1,1,1,1,1,1,0,6,m,Asian,no,yes,9.0,Parent,YES
+0,0,1,0,0,0,0,0,0,1,4,m,Black,no,yes,2.0,Parent,NO
+0,1,1,1,1,1,0,0,0,1,4,m,White-European,no,no,6.0,Parent,NO
+0,1,1,0,0,1,0,1,1,1,4,f,White-European,yes,no,6.0,Parent,NO
+0,0,0,0,1,1,1,0,1,0,5,m,Others,no,no,4.0,Parent,NO
+1,0,1,0,1,1,1,0,0,1,10,f,White-European,no,no,6.0,Health care professional,NO
+0,1,0,1,1,1,1,1,1,1,10,f,White-European,no,no,8.0,Health care professional,YES
+0,1,1,1,1,1,1,1,1,1,5,f,Latino,yes,no,9.0,Parent,YES
+1,1,1,1,1,1,1,1,1,1,7,f,White-European,yes,yes,10.0,Parent,YES
+1,0,0,0,1,0,1,0,0,1,7,f,White-European,yes,yes,4.0,Parent,NO
+1,0,1,1,1,1,1,0,0,1,4,m,Latino,no,no,7.0,Parent,YES
+1,1,1,0,1,1,1,1,1,1,4,m,South Asian,no,no,9.0,Parent,YES
+0,0,1,0,1,0,1,0,0,0,4,f,South Asian,no,no,3.0,Parent,NO
