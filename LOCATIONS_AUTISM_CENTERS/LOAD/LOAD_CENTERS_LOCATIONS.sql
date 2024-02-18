@@ -7,7 +7,7 @@ CREATE TABLE temp_centers (
     latitude  REAL,
     longitude REAL,
     info VARCHAR2(4000),
-    FREE_QUOTE_LINK VARCHAR(2055) DEFAULT ''
+    FREE_QUOTE_LINK VARCHAR(3000) DEFAULT ''
 );
 
 -- Récupère toutes les données de la table temporaire 'temp_centers'
@@ -78,8 +78,8 @@ BEGIN
     WHERE ci.CityName = r.city AND co.CountryName = r.country;
     
     -- Insérer les données dans Centers
-    INSERT INTO Centers (name, latitude, longitude, address, cityId, infos)
-    VALUES (r.name, r.latitude, r.longitude, v_address, v_city_id, v_infos);
+    INSERT INTO Centers (name, latitude, longitude, address, cityId, infos,free_quote_link)
+    VALUES (r.name, r.latitude, r.longitude, v_address, v_city_id, v_infos,r.FREE_QUOTE_LINK);
   END LOOP;
   COMMIT;
 END;
@@ -132,8 +132,10 @@ SELECT
     AS FullAddress,
     -- Extraction et concaténation des informations
     (SELECT LISTAGG(info.column_value, ', ') WITHIN GROUP (ORDER BY info.column_value)
-     FROM TABLE(ctr.infos) info) AS InformationList
+     FROM TABLE(ctr.infos) info) AS InformationList,
+     ctr.free_quote_link
 FROM
     Centers ctr
 JOIN Cities cty ON ctr.cityId = cty.CityID
 JOIN Countries cnt ON cty.CountryID = cnt.CountryID;
+

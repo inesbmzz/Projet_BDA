@@ -1,5 +1,5 @@
 
-SQL*Loader: Release 21.0.0.0.0 - Production on Dim. Févr. 18 01:46:12 2024
+SQL*Loader: Release 21.0.0.0.0 - Production on Dim. Févr. 18 02:00:56 2024
 Version 21.3.0.0.0
 
 Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
@@ -47,10 +47,13 @@ RELATION                             NEXT     *   ,  O(") CHARACTER
 CLASS_ASD                            NEXT     *   ,  O(") CHARACTER            
 
 la valeur utilisée pour le paramètre ROWS est passée de 250 à 225
+Enregistrement 1 : Rejeté - Erreur sur table AUTISM_SCREENING, colonne A1_SCORE.
+ORA-01722: Nombre non valide
+
 
 Table AUTISM_SCREENING :
   Chargement de 939 Lignes effectué.
-  0 Lignes : chargement impossible dû à des erreurs de données.
+  1 Ligne : chargement impossible dû à des erreurs de données.
   0 Lignes : chargement impossible car échec de toutes les clauses WHEN.
   0 Lignes : chargement impossible car tous les champs étaient non renseignés.
 
@@ -59,12 +62,12 @@ Espace affecté au tableau de variables :                1044900 octets(225 ligne
 Octets de tampon de lecture : 1048576
 
 Nombre total d'enregistrements logiques ignorés :          0
-Nombre total d'enregistrements logiques lus :           939
-Nombre total d'enregistrements logiques rejetés :         0
+Nombre total d'enregistrements logiques lus :           940
+Nombre total d'enregistrements logiques rejetés :         1
 Nombre total d'enregistrements logiques mis au rebut :        0
 
-Le début de l'exécution a été effectué sur Dim. Févr. 18 01:46:12 2024
-La fin de l'exécution a été effectuée sur Dim. Févr. 18 01:46:14 2024
+Le début de l'exécution a été effectué sur Dim. Févr. 18 02:00:56 2024
+La fin de l'exécution a été effectuée sur Dim. Févr. 18 02:00:58 2024
 
-Temps écoulé (ELAPSED) :     00:00:01.77
+Temps écoulé (ELAPSED) :     00:00:01.60
 Temps processeur (CPU) :    00:00:00.11

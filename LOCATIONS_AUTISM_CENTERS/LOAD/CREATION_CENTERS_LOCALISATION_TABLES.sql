@@ -80,6 +80,7 @@ CREATE TABLE Centers (
     address T_ADRESSE,
     cityId NUMBER,
     infos T_Informations,
+    free_quote_link VARCHAR(3000),
     CONSTRAINT fk_city FOREIGN KEY (cityId) REFERENCES Cities(CityID),
     CONSTRAINT chk_latitude CHECK (latitude BETWEEN -90 AND 90),
     CONSTRAINT chk_longitude CHECK (longitude BETWEEN -180 AND 180)
